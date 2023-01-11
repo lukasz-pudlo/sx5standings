@@ -29,14 +29,14 @@ const
   // Express initiation
 const app = express();
 
-var mongoose=require("mongoose");
+// var mongoose=require("mongoose");
 var bodyParser=require("body-parser");
 
-// Connecting to database
-mongoose.connect("mongodb://localhost/sx5",{
-	useNewUrlParser: true,
-	useUnifiedTopology: true
-});
+// // Connecting to database
+// mongoose.connect("mongodb://localhost/sx5",{
+// 	useNewUrlParser: true,
+// 	useUnifiedTopology: true
+// });
 
 // do not identify Express
 app.disable('x-powered-by');
