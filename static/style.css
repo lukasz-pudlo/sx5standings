@@ -54,3 +54,25 @@ caption {
     text-align: center;
     background-color: #f8f9fa;
 }
+
+nav {
+    background-color: #5e6164;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    padding: 1rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}

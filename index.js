@@ -66,6 +66,11 @@ app.get('/results', async (req, res) => {
     res.render('results', {currentGeneralClassification: currentGeneralClassification});
 });
 
+// about page route
+app.get('/about', (req, res) => {
+  res.render('about', { title: 'South by Five' });
+});
+
 
   // serve static assets
 app.use(express.static( cfg.dir.static ));
