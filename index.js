@@ -11,6 +11,19 @@ const { check, validationResult } = require('express-validator');
 const fs = require('fs');
 const path = require('path');
 
+const mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/race', { useNewUrlParser: true });
+
+const generalClassificationSchema = new mongoose.Schema({
+  runner: String,
+  races: Number,
+  points: Number,
+  racePositions: [Number]
+});
+
+// Create the general classification model
+const GeneralClassificationModel = mongoose.model('GeneralClassification', generalClassificationSchema);
+
 // configuration
 const
   __dirname = dirname(fileURLToPath( import.meta.url )) + sep,
@@ -32,12 +45,6 @@ const app = express();
 // var mongoose=require("mongoose");
 var bodyParser=require("body-parser");
 
-// // Connecting to database
-// mongoose.connect("mongodb://localhost/sx5",{
-// 	useNewUrlParser: true,
-// 	useUnifiedTopology: true
-// });
-
 // do not identify Express
 app.disable('x-powered-by');
 // HTTP compression
@@ -52,6 +59,13 @@ app.set('views', cfg.dir.views);
 app.get('/', (req, res) => {
     res.render('message', { title: 'Hello World!' });
   });
+
+app.get('/results', async (req, res) => {
+    let currentGeneralClassification = await GeneralClassificationModel.find({}).select('runner races points');
+    currentGeneralClassification.sort((a, b) => a.points - b.points);
+    res.render('results', {currentGeneralClassification: currentGeneralClassification});
+});
+
 
   // serve static assets
 app.use(express.static( cfg.dir.static ));

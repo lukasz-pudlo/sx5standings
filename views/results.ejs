@@ -1,0 +1,24 @@
+<%- include('partials/_htmlhead'); -%>
+
+<table summary="This table shows the results of the race, including the name of the runner, the number of races run, and the number of points earned">
+    <caption>South by Five Overall Classification Results</caption>
+    <thead>
+        <tr>
+            <th id="runner" scope="col">Runner</th>
+            <th id="races" scope="col">Races</th>
+            <th id="points" scope="col">Points</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% currentGeneralClassification.forEach(function(result) { %>
+            <tr>
+                <td headers="runner"> <%= result.runner %> </td>
+                <td headers="races"> <%= result.races %> </td>
+                <td headers="points"> <%= result.points %> </td>
+            </tr>
+        <% }); %>
+    </tbody>
+</table>
+
+
+<%- include('partials/_htmlfoot'); -%>
