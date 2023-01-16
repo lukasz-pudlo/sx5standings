@@ -11,7 +11,7 @@ const raceSchema = new mongoose.Schema({
             cat: String,
             number: Number,
             position: Number,
-            result: String
+            result: String,
         }
     ]
 });
