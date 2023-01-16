@@ -1,9 +1,15 @@
 table {
-    width: 100%;
-    margin-bottom: 1rem;
-    color: #212529;
+    width: 80%;
     border-collapse: collapse;
+    margin: 2rem 0;
+    font-size: 0.9em;
+    border-radius: 0.5em;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1rem;
 }
+
 
 thead {
     background-color: #f8f9fa;
@@ -22,6 +28,16 @@ th {
 tbody tr:nth-child(odd) {
     background-color: #f8f9fa;
 }
+
+tbody tr {
+    transition: background-color 0.3s ease;
+}
+
+tbody tr:hover {
+    background-color: #818080;
+}
+
+
 
 /* Responsive styles */
 @media only screen and (max-width: 600px) {
