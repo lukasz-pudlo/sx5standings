@@ -22,7 +22,7 @@ const generalClassificationSchema = new mongoose.Schema({
 });
 
 // Create the general classification model
-const GeneralClassificationModel = mongoose.model('GeneralClassification', generalClassificationSchema);
+const CurrentStandingsModel = mongoose.model('CurrentStandings', generalClassificationSchema);
 
 // configuration
 const
@@ -61,7 +61,7 @@ app.get('/', (req, res) => {
   });
 
 app.get('/results', async (req, res) => {
-    let currentGeneralClassification = await GeneralClassificationModel.find({}).select('runner races points');
+    let currentGeneralClassification = await CurrentStandingsModel.find({}).select('runner races points');
     currentGeneralClassification.sort((a, b) => a.points - b.points);
     res.render('results', {currentGeneralClassification: currentGeneralClassification});
 });
