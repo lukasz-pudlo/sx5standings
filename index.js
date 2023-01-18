@@ -67,7 +67,7 @@ app.set('views', cfg.dir.views);
 
 // home page route
 app.get('/', (req, res) => {
-    res.render('home', { title: 'South by Five' });
+    res.render('home', { title: 'Acorn Trails - South by Five' });
   });
 
 app.get('/results/1', async (req, res) => {
