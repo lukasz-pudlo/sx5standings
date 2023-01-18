@@ -85,7 +85,7 @@ app.get('/results/2', async (req, res) => {
 app.get('/results/3', async (req, res) => {
   let threeRaceStandings = await ThreeRacesStandingsModel.find({}).select('runner races points category generalPosition');
   threeRaceStandings.sort((a, b) => a.points - b.points);
-  res.render('results', {currentGeneralClassification: threeRaceStandings, race: "Rouken Glenn"});
+  res.render('results', {currentGeneralClassification: threeRaceStandings, race: "Rouken Glen Park"});
 });
 
 app.get('/results/4', async (req, res) => {
