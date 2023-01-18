@@ -70,37 +70,85 @@ app.get('/', (req, res) => {
     res.render('home', { title: 'Acorn Trails - South by Five' });
   });
 
-app.get('/results/1', async (req, res) => {
-    let oneRaceStandings = await OneRacesStandingsModel.find({}).select('runner races points category generalPosition');
-    oneRaceStandings.sort((a, b) => a.points - b.points);
-    res.render('results', {currentGeneralClassification: oneRaceStandings, race: "King's Park"});
+  app.get('/results/1', (req, res) => {
+    fs.readFile('results/oneracesstandings.json', 'utf8', (err, jsonString) => {
+        if (err) {
+            console.log("Error reading file from disk:", err)
+            return
+        }
+        try {
+            const oneRacesStandings = JSON.parse(jsonString)
+            oneRacesStandings.sort((a, b) => a.points - b.points);
+            res.render('results', {currentGeneralClassification: oneRacesStandings, race: "King's Park"});
+        } catch(err) {
+            console.log('Error parsing JSON string:', err)
+        }
+    })
 });
 
-app.get('/results/2', async (req, res) => {
-  let twoRaceStandings = await TwoRacesStandingsModel.find({}).select('runner races points category generalPosition');
-  twoRaceStandings.sort((a, b) => a.points - b.points);
-  res.render('results', {currentGeneralClassification: twoRaceStandings, race: "Linn Park"});
+app.get('/results/2', (req, res) => {
+  fs.readFile('results/tworacesstandings.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const twoRacesStandings = JSON.parse(jsonString)
+          twoRacesStandings.sort((a, b) => a.points - b.points);
+          res.render('results', {currentGeneralClassification: twoRacesStandings, race: "Linn Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
 });
 
-app.get('/results/3', async (req, res) => {
-  let threeRaceStandings = await ThreeRacesStandingsModel.find({}).select('runner races points category generalPosition');
-  threeRaceStandings.sort((a, b) => a.points - b.points);
-  res.render('results', {currentGeneralClassification: threeRaceStandings, race: "Rouken Glen Park"});
+app.get('/results/3', (req, res) => {
+  fs.readFile('results/threeracesstandings.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const threeRacesStandings = JSON.parse(jsonString)
+          threeRacesStandings.sort((a, b) => a.points - b.points);
+          res.render('results', {currentGeneralClassification: threeRacesStandings, race: "Rouken Glen Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
 });
 
-app.get('/results/4', async (req, res) => {
-  let fourRaceStandings = await FourRacesStandingsModel.find({}).select('runner races points category generalPosition');
-  fourRaceStandings.sort((a, b) => a.points - b.points);
-  res.render('results', {currentGeneralClassification: fourRaceStandings, race: "Pollok Park"});
+app.get('/results/4', (req, res) => {
+  fs.readFile('results/fourracesstandings.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const fourRacesStandings = JSON.parse(jsonString)
+          fourRacesStandings.sort((a, b) => a.points - b.points);
+          res.render('results', {currentGeneralClassification: fourRacesStandings, race: "Pollok Country Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
 });
 
-app.get('/results/5', async (req, res) => {
-    let currentGeneralClassification = await CurrentStandingsModel.find({}).select('runner races points category generalPosition');
-    currentGeneralClassification.sort((a, b) => a.points - b.points);
-    res.render('results', {currentGeneralClassification: currentGeneralClassification, race: "Bellahouston Park"});
+app.get('/results/5', (req, res) => {
+  fs.readFile('results/fiveracesstandings.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const fiveRacesStandings = JSON.parse(jsonString)
+          fiveRacesStandings.sort((a, b) => a.points - b.points);
+          res.render('results', {currentGeneralClassification: fiveRacesStandings, race: "Bellahouston Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
 });
-
-
 
 // about page route
 app.get('/about', (req, res) => {

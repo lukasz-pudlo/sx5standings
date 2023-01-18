@@ -1,0 +1,1105 @@
+[{
+  "runner": "David Hepburn",
+  "races": 3,
+  "points": 4,
+  "category": "MS",
+  "generalPosition": 1,
+  "racePositions": [
+    2,
+    1,
+    1
+  ]
+},{
+  "runner": "Grant Jeans",
+  "races": 3,
+  "points": 5,
+  "category": "MS",
+  "generalPosition": 2,
+  "racePositions": [
+    1,
+    2,
+    2
+  ]
+},{
+  "runner": "Chris Upson",
+  "races": 2,
+  "points": 7,
+  "category": "M50",
+  "generalPosition": 3,
+  "racePositions": [
+    3,
+    4
+  ]
+},{
+  "runner": "Callum Wallace",
+  "races": 2,
+  "points": 7,
+  "category": "MS",
+  "generalPosition": 4,
+  "racePositions": [
+    4,
+    3
+  ]
+},{
+  "runner": "Ryan Macready",
+  "races": 2,
+  "points": 10,
+  "category": "MS",
+  "generalPosition": 5,
+  "racePositions": [
+    6,
+    4
+  ]
+},{
+  "runner": "Lukasz Pudlo",
+  "races": 3,
+  "points": 17,
+  "category": "MS",
+  "generalPosition": 6,
+  "racePositions": [
+    7,
+    5,
+    5
+  ]
+},{
+  "runner": "Stephen Lyons",
+  "races": 2,
+  "points": 18,
+  "category": "MS",
+  "generalPosition": 7,
+  "racePositions": [
+    9,
+    9
+  ]
+},{
+  "runner": "mark king",
+  "races": 2,
+  "points": 18,
+  "category": "M50",
+  "generalPosition": 8,
+  "racePositions": [
+    8,
+    10
+  ]
+},{
+  "runner": "Victor Mcgregor",
+  "races": 3,
+  "points": 19,
+  "category": "MS",
+  "generalPosition": 9,
+  "racePositions": [
+    6,
+    7,
+    6
+  ]
+},{
+  "runner": "DAVID RIACH",
+  "races": 2,
+  "points": 19,
+  "category": "M50",
+  "generalPosition": 10,
+  "racePositions": [
+    10,
+    9
+  ]
+},{
+  "runner": "Daniel Burns",
+  "races": 2,
+  "points": 24,
+  "category": "MS",
+  "generalPosition": 11,
+  "racePositions": [
+    12,
+    12
+  ]
+},{
+  "runner": "Greig Neilson",
+  "races": 2,
+  "points": 25,
+  "category": "M40",
+  "generalPosition": 12,
+  "racePositions": [
+    14,
+    11
+  ]
+},{
+  "runner": "Richard Stark",
+  "races": 2,
+  "points": 25,
+  "category": "M60",
+  "generalPosition": 13,
+  "racePositions": [
+    13,
+    12
+  ]
+},{
+  "runner": "Eddie Neilson",
+  "races": 3,
+  "points": 26,
+  "category": "M40",
+  "generalPosition": 14,
+  "racePositions": [
+    10,
+    8,
+    8
+  ]
+},{
+  "runner": "Scott Mcleod",
+  "races": 2,
+  "points": 27,
+  "category": "M40",
+  "generalPosition": 15,
+  "racePositions": [
+    14,
+    13
+  ]
+},{
+  "runner": "Mark McCormack",
+  "races": 3,
+  "points": 29,
+  "category": "MS",
+  "generalPosition": 16,
+  "racePositions": [
+    11,
+    11,
+    7
+  ]
+},{
+  "runner": "Aaron McCrone",
+  "races": 2,
+  "points": 30,
+  "category": "MS",
+  "generalPosition": 17,
+  "racePositions": [
+    13,
+    17
+  ]
+},{
+  "runner": "Jonathan Henderson",
+  "races": 2,
+  "points": 30,
+  "category": "M40",
+  "generalPosition": 18,
+  "racePositions": [
+    15,
+    15
+  ]
+},{
+  "runner": "Steven Gilligan",
+  "races": 2,
+  "points": 47,
+  "category": "M40",
+  "generalPosition": 19,
+  "racePositions": [
+    22,
+    25
+  ]
+},{
+  "runner": "Richard Cooper",
+  "races": 3,
+  "points": 52,
+  "category": "M50",
+  "generalPosition": 20,
+  "racePositions": [
+    5,
+    3,
+    44
+  ]
+},{
+  "runner": "Simon Parkinson",
+  "races": 2,
+  "points": 53,
+  "category": "M50",
+  "generalPosition": 21,
+  "racePositions": [
+    27,
+    26
+  ]
+},{
+  "runner": "Jamie Wieland",
+  "races": 3,
+  "points": 53,
+  "category": "MS",
+  "generalPosition": 22,
+  "racePositions": [
+    18,
+    21,
+    14
+  ]
+},{
+  "runner": "Allan Mann",
+  "races": 3,
+  "points": 53,
+  "category": "MS",
+  "generalPosition": 23,
+  "racePositions": [
+    17,
+    16,
+    20
+  ]
+},{
+  "runner": "Kenneth Taylor",
+  "races": 3,
+  "points": 54,
+  "category": "M40",
+  "generalPosition": 24,
+  "racePositions": [
+    19,
+    19,
+    16
+  ]
+},{
+  "runner": "Craig Brown",
+  "races": 3,
+  "points": 56,
+  "category": "M50",
+  "generalPosition": 25,
+  "racePositions": [
+    16,
+    23,
+    17
+  ]
+},{
+  "runner": "Graham Marshall",
+  "races": 2,
+  "points": 58,
+  "category": "M40",
+  "generalPosition": 26,
+  "racePositions": [
+    31,
+    27
+  ]
+},{
+  "runner": "Gordon McLarnon",
+  "races": 3,
+  "points": 58,
+  "category": "MS",
+  "generalPosition": 27,
+  "racePositions": [
+    21,
+    18,
+    19
+  ]
+},{
+  "runner": "Nick McKerrell",
+  "races": 2,
+  "points": 59,
+  "category": "M50",
+  "generalPosition": 28,
+  "racePositions": [
+    33,
+    26
+  ]
+},{
+  "runner": "Edward Guccione",
+  "races": 3,
+  "points": 61,
+  "category": "M40",
+  "generalPosition": 29,
+  "racePositions": [
+    28,
+    15,
+    18
+  ]
+},{
+  "runner": "Annibale Coia",
+  "races": 2,
+  "points": 62,
+  "category": "M60",
+  "generalPosition": 30,
+  "racePositions": [
+    32,
+    30
+  ]
+},{
+  "runner": "Robert Doherty",
+  "races": 2,
+  "points": 62,
+  "category": "M60",
+  "generalPosition": 31,
+  "racePositions": [
+    34,
+    28
+  ]
+},{
+  "runner": "James Speakman",
+  "races": 3,
+  "points": 63,
+  "category": "M50",
+  "generalPosition": 32,
+  "racePositions": [
+    20,
+    20,
+    23
+  ]
+},{
+  "runner": "Arthur O'Brien",
+  "races": 2,
+  "points": 73,
+  "category": "M50",
+  "generalPosition": 35,
+  "racePositions": [
+    36,
+    37
+  ]
+},{
+  "runner": "David Sawyer",
+  "races": 2,
+  "points": 74,
+  "category": "M50",
+  "generalPosition": 36,
+  "racePositions": [
+    23,
+    51
+  ]
+},{
+  "runner": "Andrew Howie",
+  "races": 3,
+  "points": 74,
+  "category": "M40",
+  "generalPosition": 37,
+  "racePositions": [
+    25,
+    28,
+    21
+  ]
+},{
+  "runner": "Craig Hepburn",
+  "races": 3,
+  "points": 74,
+  "category": "MS",
+  "generalPosition": 38,
+  "racePositions": [
+    26,
+    24,
+    24
+  ]
+},{
+  "runner": "Peter Meehan",
+  "races": 2,
+  "points": 76,
+  "category": "MS",
+  "generalPosition": 39,
+  "racePositions": [
+    40,
+    36
+  ]
+},{
+  "runner": "John Sandbach",
+  "races": 2,
+  "points": 79,
+  "category": "M50",
+  "generalPosition": 40,
+  "racePositions": [
+    41,
+    38
+  ]
+},{
+  "runner": "Stuart Weatherley",
+  "races": 2,
+  "points": 79,
+  "category": "M40",
+  "generalPosition": 41,
+  "racePositions": [
+    39,
+    40
+  ]
+},{
+  "runner": "James Steel",
+  "races": 2,
+  "points": 84,
+  "category": "M40",
+  "generalPosition": 42,
+  "racePositions": [
+    53,
+    31
+  ]
+},{
+  "runner": "Ole Pahl",
+  "races": 2,
+  "points": 86,
+  "category": "M50",
+  "generalPosition": 43,
+  "racePositions": [
+    45,
+    41
+  ]
+},{
+  "runner": "Andy Taylor",
+  "races": 2,
+  "points": 86,
+  "category": "M60",
+  "generalPosition": 44,
+  "racePositions": [
+    47,
+    39
+  ]
+},{
+  "runner": "mark Bailkoski",
+  "races": 3,
+  "points": 87,
+  "category": "M50",
+  "generalPosition": 45,
+  "racePositions": [
+    30,
+    32,
+    25
+  ]
+},{
+  "runner": "David Kelly",
+  "races": 3,
+  "points": 87,
+  "category": "MS",
+  "generalPosition": 46,
+  "racePositions": [
+    29,
+    29,
+    29
+  ]
+},{
+  "runner": "Paul Fletcher",
+  "races": 2,
+  "points": 87,
+  "category": "M50",
+  "generalPosition": 47,
+  "racePositions": [
+    49,
+    38
+  ]
+},{
+  "runner": "Raymond Loughran",
+  "races": 2,
+  "points": 87,
+  "category": "M60",
+  "generalPosition": 48,
+  "racePositions": [
+    45,
+    42
+  ]
+},{
+  "runner": "Stuart Reid",
+  "races": 2,
+  "points": 88,
+  "category": "M40",
+  "generalPosition": 49,
+  "racePositions": [
+    44,
+    44
+  ]
+},{
+  "runner": "Audrey O'Brien",
+  "races": 2,
+  "points": 91,
+  "category": "M40",
+  "generalPosition": 50,
+  "racePositions": [
+    48,
+    43
+  ]
+},{
+  "runner": "CÃ©dric Moreau",
+  "races": 3,
+  "points": 92,
+  "category": "M50",
+  "generalPosition": 51,
+  "racePositions": [
+    34,
+    31,
+    27
+  ]
+},{
+  "runner": "Angus Robinson",
+  "races": 3,
+  "points": 98,
+  "category": "M50",
+  "generalPosition": 52,
+  "racePositions": [
+    33,
+    35,
+    30
+  ]
+},{
+  "runner": "Stuart Macdonald",
+  "races": 3,
+  "points": 105,
+  "category": "M50",
+  "generalPosition": 53,
+  "racePositions": [
+    37,
+    36,
+    32
+  ]
+},{
+  "runner": "Derek Millar",
+  "races": 3,
+  "points": 109,
+  "category": "M50",
+  "generalPosition": 54,
+  "racePositions": [
+    35,
+    39,
+    35
+  ]
+},{
+  "runner": "Michael McNamara",
+  "races": 3,
+  "points": 118,
+  "category": "M50",
+  "generalPosition": 55,
+  "racePositions": [
+    42,
+    42,
+    34
+  ]
+},{
+  "runner": "Steven Smith",
+  "races": 3,
+  "points": 126,
+  "category": "M50",
+  "generalPosition": 56,
+  "racePositions": [
+    43,
+    46,
+    37
+  ]
+},{
+  "runner": "Rob Huggett",
+  "races": 3,
+  "points": 135,
+  "category": "MS",
+  "generalPosition": 57,
+  "racePositions": [
+    47,
+    48,
+    40
+  ]
+},{
+  "runner": "David Gemmell",
+  "races": 3,
+  "points": 137,
+  "category": "M40",
+  "generalPosition": 58,
+  "racePositions": [
+    46,
+    50,
+    41
+  ]
+},{
+  "runner": "Colin Gray",
+  "races": 3,
+  "points": 144,
+  "category": "M50",
+  "generalPosition": 59,
+  "racePositions": [
+    49,
+    52,
+    43
+  ]
+},{
+  "runner": "Hannah Bayes",
+  "races": 2,
+  "points": 3,
+  "category": "F40",
+  "generalPosition": 1,
+  "racePositions": [
+    2,
+    1
+  ]
+},{
+  "runner": "Jenny Brown",
+  "races": 3,
+  "points": 4,
+  "category": "F40",
+  "generalPosition": 2,
+  "racePositions": [
+    1,
+    1,
+    2
+  ]
+},{
+  "runner": "Janis Mcarthur",
+  "races": 3,
+  "points": 8,
+  "category": "FS",
+  "generalPosition": 3,
+  "racePositions": [
+    3,
+    2,
+    3
+  ]
+},{
+  "runner": "Laura Lennon",
+  "races": 3,
+  "points": 12,
+  "category": "FS",
+  "generalPosition": 4,
+  "racePositions": [
+    4,
+    4,
+    4
+  ]
+},{
+  "runner": "Sharon O'Leary",
+  "races": 2,
+  "points": 12,
+  "category": "F50",
+  "generalPosition": 5,
+  "racePositions": [
+    6,
+    6
+  ]
+},{
+  "runner": "Julie Atkinson",
+  "races": 2,
+  "points": 12,
+  "category": "F40",
+  "generalPosition": 6,
+  "racePositions": [
+    5,
+    7
+  ]
+},{
+  "runner": "Laura Wallace",
+  "races": 3,
+  "points": 14,
+  "category": "F40",
+  "generalPosition": 7,
+  "racePositions": [
+    6,
+    3,
+    5
+  ]
+},{
+  "runner": "Roberta Fletcher",
+  "races": 3,
+  "points": 20,
+  "category": "FS",
+  "generalPosition": 8,
+  "racePositions": [
+    7,
+    5,
+    8
+  ]
+},{
+  "runner": "Gillian Gallagher",
+  "races": 2,
+  "points": 22,
+  "category": "F40",
+  "generalPosition": 9,
+  "racePositions": [
+    11,
+    11
+  ]
+},{
+  "runner": "Sheila Murray",
+  "races": 3,
+  "points": 25,
+  "category": "F40",
+  "generalPosition": 10,
+  "racePositions": [
+    8,
+    8,
+    9
+  ]
+},{
+  "runner": "Joanne Walker",
+  "races": 3,
+  "points": 26,
+  "category": "F40",
+  "generalPosition": 11,
+  "racePositions": [
+    9,
+    7,
+    10
+  ]
+},{
+  "runner": "Alice Thompson",
+  "races": 2,
+  "points": 28,
+  "category": "F40",
+  "generalPosition": 12,
+  "racePositions": [
+    14,
+    14
+  ]
+},{
+  "runner": "Isobel McFarlane",
+  "races": 3,
+  "points": 31,
+  "category": "F50",
+  "generalPosition": 13,
+  "racePositions": [
+    10,
+    9,
+    12
+  ]
+},{
+  "runner": "Fiona Roberts",
+  "races": 2,
+  "points": 31,
+  "category": "F50",
+  "generalPosition": 14,
+  "racePositions": [
+    13,
+    18
+  ]
+},{
+  "runner": "Aileen Coulter",
+  "races": 2,
+  "points": 32,
+  "category": "F50",
+  "generalPosition": 15,
+  "racePositions": [
+    17,
+    15
+  ]
+},{
+  "runner": "Lyndsay Kerrigan",
+  "races": 2,
+  "points": 33,
+  "category": "FS",
+  "generalPosition": 16,
+  "racePositions": [
+    14,
+    19
+  ]
+},{
+  "runner": "Emma Bowden",
+  "races": 2,
+  "points": 34,
+  "category": "FS",
+  "generalPosition": 17,
+  "racePositions": [
+    12,
+    22
+  ]
+},{
+  "runner": "Kay Guccione",
+  "races": 3,
+  "points": 34,
+  "category": "F40",
+  "generalPosition": 18,
+  "racePositions": [
+    11,
+    10,
+    13
+  ]
+},{
+  "runner": "Kristin Sauer",
+  "races": 2,
+  "points": 38,
+  "category": "F40",
+  "generalPosition": 19,
+  "racePositions": [
+    22,
+    16
+  ]
+},{
+  "runner": "Kelly Ludwig",
+  "races": 2,
+  "points": 38,
+  "category": "F40",
+  "generalPosition": 20,
+  "racePositions": [
+    17,
+    21
+  ]
+},{
+  "runner": "Catherine Lynn Macnaughton",
+  "races": 2,
+  "points": 43,
+  "category": "F40",
+  "generalPosition": 21,
+  "racePositions": [
+    13,
+    30
+  ]
+},{
+  "runner": "Maureen Campbell",
+  "races": 3,
+  "points": 44,
+  "category": "F50",
+  "generalPosition": 22,
+  "racePositions": [
+    15,
+    12,
+    17
+  ]
+},{
+  "runner": "Lesley McKerral",
+  "races": 2,
+  "points": 45,
+  "category": "F50",
+  "generalPosition": 23,
+  "racePositions": [
+    21,
+    24
+  ]
+},{
+  "runner": "Gillian Irvine",
+  "races": 2,
+  "points": 46,
+  "category": "F50",
+  "generalPosition": 24,
+  "racePositions": [
+    23,
+    23
+  ]
+},{
+  "runner": "Penny Bond",
+  "races": 2,
+  "points": 47,
+  "category": "F50",
+  "generalPosition": 25,
+  "racePositions": [
+    29,
+    18
+  ]
+},{
+  "runner": "Stephanie Rudd",
+  "races": 3,
+  "points": 47,
+  "category": "F50",
+  "generalPosition": 26,
+  "racePositions": [
+    16,
+    16,
+    15
+  ]
+},{
+  "runner": "Anna Conlon",
+  "races": 2,
+  "points": 53,
+  "category": "FS",
+  "generalPosition": 27,
+  "racePositions": [
+    28,
+    25
+  ]
+},{
+  "runner": "Wendy Morcos",
+  "races": 2,
+  "points": 54,
+  "category": "F60",
+  "generalPosition": 28,
+  "racePositions": [
+    24,
+    30
+  ]
+},{
+  "runner": "Kirstin Campbell",
+  "races": 3,
+  "points": 59,
+  "category": "FS",
+  "generalPosition": 29,
+  "racePositions": [
+    18,
+    21,
+    20
+  ]
+},{
+  "runner": "Nathalie Smith",
+  "races": 3,
+  "points": 64,
+  "category": "F40",
+  "generalPosition": 30,
+  "racePositions": [
+    20,
+    25,
+    19
+  ]
+},{
+  "runner": "Cindy McNeill",
+  "races": 2,
+  "points": 64,
+  "category": "F50",
+  "generalPosition": 31,
+  "racePositions": [
+    31,
+    33
+  ]
+},{
+  "runner": "Kirsty Davidson",
+  "races": 3,
+  "points": 68,
+  "category": "FS",
+  "generalPosition": 32,
+  "racePositions": [
+    26,
+    20,
+    22
+  ]
+},{
+  "runner": "Lucy Addison",
+  "races": 3,
+  "points": 72,
+  "category": "F50",
+  "generalPosition": 33,
+  "racePositions": [
+    19,
+    29,
+    24
+  ]
+},{
+  "runner": "Jayne Gilkes",
+  "races": 2,
+  "points": 74,
+  "category": "F50",
+  "generalPosition": 34,
+  "racePositions": [
+    37,
+    37
+  ]
+},{
+  "runner": "Melissa Williams",
+  "races": 3,
+  "points": 77,
+  "category": "FS",
+  "generalPosition": 35,
+  "racePositions": [
+    27,
+    23,
+    27
+  ]
+},{
+  "runner": "Shona McCormack",
+  "races": 2,
+  "points": 79,
+  "category": "F50",
+  "generalPosition": 36,
+  "racePositions": [
+    40,
+    39
+  ]
+},{
+  "runner": "Lynn Reid",
+  "races": 3,
+  "points": 79,
+  "category": "F50",
+  "generalPosition": 37,
+  "racePositions": [
+    25,
+    26,
+    28
+  ]
+},{
+  "runner": "Deirdre Parkinson",
+  "races": 3,
+  "points": 81,
+  "category": "F60",
+  "generalPosition": 38,
+  "racePositions": [
+    28,
+    27,
+    26
+  ]
+},{
+  "runner": "Sarah Renouf",
+  "races": 3,
+  "points": 90,
+  "category": "FS",
+  "generalPosition": 39,
+  "racePositions": [
+    30,
+    31,
+    29
+  ]
+},{
+  "runner": "Claire Purdie",
+  "races": 3,
+  "points": 96,
+  "category": "F50",
+  "generalPosition": 40,
+  "racePositions": [
+    32,
+    32,
+    32
+  ]
+},{
+  "runner": "Emma main",
+  "races": 3,
+  "points": 99,
+  "category": "F40",
+  "generalPosition": 41,
+  "racePositions": [
+    34,
+    34,
+    31
+  ]
+},{
+  "runner": "Pamela Clark",
+  "races": 3,
+  "points": 102,
+  "category": "F60",
+  "generalPosition": 42,
+  "racePositions": [
+    35,
+    33,
+    34
+  ]
+},{
+  "runner": "Nicola Barrington",
+  "races": 3,
+  "points": 104,
+  "category": "FS",
+  "generalPosition": 43,
+  "racePositions": [
+    33,
+    36,
+    35
+  ]
+},{
+  "runner": "Anna Robinson",
+  "races": 3,
+  "points": 107,
+  "category": "F50",
+  "generalPosition": 44,
+  "racePositions": [
+    36,
+    35,
+    36
+  ]
+},{
+  "runner": "Amy Gray",
+  "races": 3,
+  "points": 113,
+  "category": "FS",
+  "generalPosition": 45,
+  "racePositions": [
+    38,
+    37,
+    38
+  ]
+},{
+  "runner": "Kathleen McGee",
+  "races": 3,
+  "points": 116,
+  "category": "F40",
+  "generalPosition": 46,
+  "racePositions": [
+    39,
+    38,
+    39
+  ]
+},{
+  "runner": "James Chesnet",
+  "races": 3,
+  "points": 68,
+  "category": "M50",
+  "generalPosition": 33,
+  "racePositions": [
+    24,
+    22,
+    22
+  ]
+},{
+  "runner": "Graeme Gilkes",
+  "races": 2,
+  "points": 71,
+  "category": "M50",
+  "generalPosition": 34,
+  "racePositions": [
+    38,
+    33
+  ]
+}]
