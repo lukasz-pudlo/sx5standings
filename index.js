@@ -11,28 +11,28 @@ const { check, validationResult } = require('express-validator');
 const fs = require('fs');
 const path = require('path');
 
-const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/race', { useNewUrlParser: true });
+// const mongoose = require('mongoose');
+// mongoose.connect('mongodb://localhost/race', { useNewUrlParser: true });
 
-const generalClassificationSchema = new mongoose.Schema({
-  runner: String,
-  races: Number,
-  points: Number,
-  category: String,
-  generalPosition: Number,
-  racePositions: [Number]
-});
+// const generalClassificationSchema = new mongoose.Schema({
+//   runner: String,
+//   races: Number,
+//   points: Number,
+//   category: String,
+//   generalPosition: Number,
+//   racePositions: [Number]
+// });
 
 // Create the general classification model
-const CurrentStandingsModel = mongoose.model('CurrentStandings', generalClassificationSchema);
+// const CurrentStandingsModel = mongoose.model('CurrentStandings', generalClassificationSchema);
 
-const FourRacesStandingsModel = mongoose.model('FourRacesStandings', generalClassificationSchema);
+// const FourRacesStandingsModel = mongoose.model('FourRacesStandings', generalClassificationSchema);
 
-const ThreeRacesStandingsModel = mongoose.model('ThreeRacesStandings', generalClassificationSchema);
+// const ThreeRacesStandingsModel = mongoose.model('ThreeRacesStandings', generalClassificationSchema);
 
-const TwoRacesStandingsModel = mongoose.model('TwoRacesStandings', generalClassificationSchema);
+// const TwoRacesStandingsModel = mongoose.model('TwoRacesStandings', generalClassificationSchema);
 
-const OneRacesStandingsModel = mongoose.model('OneRacesStandings', generalClassificationSchema);
+// const OneRacesStandingsModel = mongoose.model('OneRacesStandings', generalClassificationSchema);
 
 // configuration
 const
