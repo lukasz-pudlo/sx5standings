@@ -7,7 +7,6 @@
             <th id="runner" scope="col">Runner</th>
             <th id="races" scope="col">Races</th>
             <th id="points" scope="col">Points</th>
-            <th id="position" scope="col">Overall Position</th>
             <th id="generalPosition" scope="col">General Position</th>
             <th id="category" scope="col">Category</th>
         </tr>
@@ -18,7 +17,6 @@
                 <td headers="runner"> <%= result.runner %> </td>
                 <td headers="races"> <%= result.races %> </td>
                 <td headers="points"> <%= result.points %> </td>
-                <td headers="position"> <%= currentGeneralClassification.indexOf(result) + 1 %> </td>
                 <td headers="generalPosition"> <%= result.generalPosition %> </td>
                 <td headers="category"> <%= result.category %> </td>
             </tr>
