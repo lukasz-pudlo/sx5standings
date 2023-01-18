@@ -26,6 +26,14 @@ const generalClassificationSchema = new mongoose.Schema({
 // Create the general classification model
 const CurrentStandingsModel = mongoose.model('CurrentStandings', generalClassificationSchema);
 
+const FourRacesStandingsModel = mongoose.model('FourRacesStandings', generalClassificationSchema);
+
+const ThreeRacesStandingsModel = mongoose.model('ThreeRacesStandings', generalClassificationSchema);
+
+const TwoRacesStandingsModel = mongoose.model('TwoRacesStandings', generalClassificationSchema);
+
+const OneRacesStandingsModel = mongoose.model('OneRacesStandings', generalClassificationSchema);
+
 // configuration
 const
   __dirname = dirname(fileURLToPath( import.meta.url )) + sep,
@@ -62,15 +70,41 @@ app.get('/', (req, res) => {
     res.render('home', { title: 'South by Five' });
   });
 
-app.get('/results', async (req, res) => {
+app.get('/results/1', async (req, res) => {
+    let oneRaceStandings = await OneRacesStandingsModel.find({}).select('runner races points category generalPosition');
+    oneRaceStandings.sort((a, b) => a.points - b.points);
+    res.render('results', {currentGeneralClassification: oneRaceStandings, race: "King's Park"});
+});
+
+app.get('/results/2', async (req, res) => {
+  let twoRaceStandings = await TwoRacesStandingsModel.find({}).select('runner races points category generalPosition');
+  twoRaceStandings.sort((a, b) => a.points - b.points);
+  res.render('results', {currentGeneralClassification: twoRaceStandings, race: "Linn Park"});
+});
+
+app.get('/results/3', async (req, res) => {
+  let threeRaceStandings = await ThreeRacesStandingsModel.find({}).select('runner races points category generalPosition');
+  threeRaceStandings.sort((a, b) => a.points - b.points);
+  res.render('results', {currentGeneralClassification: threeRaceStandings, race: "Rouken Glenn"});
+});
+
+app.get('/results/4', async (req, res) => {
+  let fourRaceStandings = await FourRacesStandingsModel.find({}).select('runner races points category generalPosition');
+  fourRaceStandings.sort((a, b) => a.points - b.points);
+  res.render('results', {currentGeneralClassification: fourRaceStandings, race: "Pollok Park"});
+});
+
+app.get('/results/5', async (req, res) => {
     let currentGeneralClassification = await CurrentStandingsModel.find({}).select('runner races points category generalPosition');
     currentGeneralClassification.sort((a, b) => a.points - b.points);
-    res.render('results', {currentGeneralClassification: currentGeneralClassification});
+    res.render('results', {currentGeneralClassification: currentGeneralClassification, race: "Bellahouston Park"});
 });
+
+
 
 // about page route
 app.get('/about', (req, res) => {
-  res.render('about', { title: 'South by Five' });
+  res.render('about', { title: 'Acorn Trails - South by Five' });
 });
 
 

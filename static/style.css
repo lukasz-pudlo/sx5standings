@@ -1,4 +1,18 @@
+div {
+    font-family: "Montserrat", sans-serif;
+    width: 80%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    font-size: 0.9em;
+    border-radius: 0.5em;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1rem;
+}
+
 table {
+    font-family: "Montserrat", sans-serif;
     width: 80%;
     border-collapse: collapse;
     margin: 2rem 0;
@@ -34,7 +48,7 @@ tbody tr {
 }
 
 tbody tr:hover {
-    background-color: #818080;
+    background-color: rgb(10,118,52, 0.5);
 }
 
 
@@ -72,7 +86,7 @@ caption {
 }
 
 nav {
-    background-color: #5e6164;
+    background-color: #0a7634;
     color: white;
 }
 
@@ -89,6 +103,7 @@ nav li {
 }
 
 nav a {
+    font-family: "Montserrat", sans-serif;
     color: white;
     text-decoration: none;
 }
