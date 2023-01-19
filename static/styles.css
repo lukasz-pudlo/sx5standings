@@ -39,9 +39,9 @@ th {
     font-weight: bold;
 }
 
-tbody tr:nth-child(odd) {
+/* tbody tr:nth-child(odd) {
     background-color: #f8f9fa;
-}
+} */
 
 tbody tr {
     transition: background-color 0.3s ease;
@@ -50,6 +50,16 @@ tbody tr {
 tbody tr:hover {
     background-color: rgb(10,118,52, 0.5);
 }
+
+.male {
+    background-color: #f8f9fa;
+}
+
+.female {
+    background-color: #e5e5e5;
+}
+  
+
 
 
 /* Responsive styles */

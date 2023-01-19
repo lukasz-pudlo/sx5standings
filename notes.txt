@@ -11,3 +11,16 @@ After the 4th race, 5th race, and 6th race, checks will have to be done to see i
 After the 1st race, everyone participating will have results in the 1st race table and in the general classification. After the 2nd race, everyone will be in the 2nd race table, with the two tables not being identical, as some runners might have only participated in ether 1st race or 2nd race, but the general classfication at this stage will contain all participants of the 1st and 2nd race. 
 
 After the 3rd race, the participation check will have to be done. For every runner, we should generate a participation variable that will count how many times the name appears in race 1, 2, and 3. If at this stage for any runner, the participation is less than number of races - 1, so it's less than 2, that is when they ran fewer than 2 races, then that runner's name will be removed from both 1st race table results (if applicable) and 2nd race table results (if applicable). That will change points allocated to each runner and therefore change the general classification. 
+
+To set up the app on Ubuntu after making changes locally and pushing them to GitHub (having remembered to comment out the code in index.js that makes it run locally).
+
+Navigate to the app directory on Ubuntu and run git pull origin master
+
+run npm install
+
+install pm2 with sudo npm install -g pm2
+
+run the app with pm2 start index.js
+
+make pm2 start the app automatically by running pm2 startup and then running the command provided
+
