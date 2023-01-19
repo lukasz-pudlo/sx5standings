@@ -22,13 +22,16 @@ $('#search-input').on('input', function() {
 });
 
 function filterResults(searchValue) {
+  const searchValues = searchValue.split(',').map(val => val.trim().toLowerCase());
   $('tbody tr').filter(function() {
-      $(this).toggle($(this).text().toLowerCase().indexOf(searchValue) > -1);
+      $(this).toggle(searchValues.some(val => $(this).text().toLowerCase().indexOf(val) > -1));
   });
   localStorage.setItem("searchValue", searchValue);
   //clear the value of the category input field
   document.getElementById('category-select').value = 'all';
+  localStorage.removeItem("categoryValue");
 }
+
 
 // Search category
 const categorySelect = document.getElementById('category-select');
@@ -45,6 +48,21 @@ categoryValues.forEach(category => {
     categorySelect.appendChild(option);
 });
 
+
+
+const storedCategoryValue = localStorage.getItem("categoryValue");
+if (storedCategoryValue) {
+  $('#category-select').val(storedCategoryValue);
+  document.querySelectorAll('tbody tr').forEach(row => {
+    if (storedCategoryValue === 'all' || row.querySelector('td[headers="category"]').textContent === storedCategoryValue) {
+        row.style.display = '';
+    } else {
+        row.style.display = 'none';
+    }
+});
+}
+
+
 categorySelect.addEventListener('change', () => {
     const selectedCategory = categorySelect.value;
     document.querySelectorAll('tbody tr').forEach(row => {
@@ -56,6 +74,7 @@ categorySelect.addEventListener('change', () => {
     });
     //clear the value of the runner search input field
     document.getElementById('search-input').value = '';
+    localStorage.removeItem("searchValue");
 });
 
 // Save search values to Local Storage
