@@ -47,14 +47,14 @@ const
     }
   };
 
-// console.dir(cfg, { depth: null, color: true });
-
 // Express initiation
 const app = express();
 
-app.listen(cfg.port, '0.0.0.0', () => {
-  console.dir(cfg, { depth: null, color: true });
-});
+// app.listen(cfg.port, '0.0.0.0', () => {
+//   console.dir(cfg, { depth: null, color: true });
+// });
+
+console.dir(cfg, { depth: null, color: true });
   
 
 
