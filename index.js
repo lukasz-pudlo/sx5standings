@@ -100,9 +100,39 @@ app.get('/results/2', (req, res) => {
           return
       }
       try {
+          let generalClassification = []
           const twoRacesStandings = JSON.parse(jsonString)
-          twoRacesStandings.sort((a, b) => a.points - b.points);
-          res.render('results', {currentGeneralClassification: twoRacesStandings, race: "Linn Park"});
+
+          let maleRunners = twoRacesStandings.filter(entry => entry.category.startsWith('M'));
+
+          maleRunners.sort(function(a, b) {
+              return a.points - b.points;
+            });
+
+          for (var i = 0; i < maleRunners.length; i++) {
+              maleRunners[i].generalPosition = i + 1;
+          }
+            
+          // console.log(maleRunners)
+
+          let femaleRunners = twoRacesStandings.filter(entry => entry.category.startsWith('F'));
+          femaleRunners.sort(function(a, b) {
+              return a.points - b.points;
+            });
+
+          for (var i = 0; i < femaleRunners.length; i++) {
+              femaleRunners[i].generalPosition = i + 1;
+          }
+          // console.log(femaleRunners)
+
+          let maleAndFemaleRunners = maleRunners.concat(femaleRunners);
+
+          maleAndFemaleRunners.forEach(runner => {
+              generalClassification.push(runner);
+          })
+
+          generalClassification.sort((a, b) => a.points - b.points);
+          res.render('results', {currentGeneralClassification: generalClassification, race: "Linn Park"});
       } catch(err) {
           console.log('Error parsing JSON string:', err)
       }
