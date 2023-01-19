@@ -66,24 +66,3 @@ $('#category-select').on('change', function() {
   localStorage.setItem('categoryValue', categoryValue);
 });
 
-
-// // Retrieve search values from Local Storage on page load
-// $(document).ready(function() {
-//   let searchValue = localStorage.getItem('searchValue');
-//   let categoryValue = localStorage.getItem('categoryValue');
-//   if (searchValue) {
-//     $('#search-input').val(searchValue);
-//     filterResults(searchValue);
-//   }
-//   if (categoryValue) {
-//     $('#category-select').val(categoryValue);
-//     filterCategory(categoryValue);
-//   }
-// });
-
-// function filterCategory(categoryValue) {
-//   $('tbody tr').filter(function() {
-//     $(this).toggle($(this).data('category') === categoryValue);
-//   });
-// }
-
