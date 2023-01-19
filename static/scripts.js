@@ -1,3 +1,4 @@
+// Highlight the active navigation tab
 const links = document.querySelectorAll('nav a');
 const currentPage = window.location.pathname;
 
@@ -25,6 +26,8 @@ function filterResults(searchValue) {
       $(this).toggle($(this).text().toLowerCase().indexOf(searchValue) > -1);
   });
   localStorage.setItem("searchValue", searchValue);
+  //clear the value of the category input field
+  document.getElementById('category-select').value = 'all';
 }
 
 // Search category
@@ -51,6 +54,8 @@ categorySelect.addEventListener('change', () => {
             row.style.display = 'none';
         }
     });
+    //clear the value of the runner search input field
+    document.getElementById('search-input').value = '';
 });
 
 // Save search values to Local Storage
