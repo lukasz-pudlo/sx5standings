@@ -7,7 +7,14 @@ for (let i = 0; i < links.length; i++) {
   }
 }
 
+
 // Search runner
+const storedSearchValue = localStorage.getItem("searchValue");
+if (storedSearchValue) {
+  $('#search-input').val(storedSearchValue);
+  filterResults(storedSearchValue);
+}
+
 $('#search-input').on('input', function() {
   let searchValue = $(this).val().toLowerCase();
   filterResults(searchValue);
@@ -17,6 +24,7 @@ function filterResults(searchValue) {
   $('tbody tr').filter(function() {
       $(this).toggle($(this).text().toLowerCase().indexOf(searchValue) > -1);
   });
+  localStorage.setItem("searchValue", searchValue);
 }
 
 // Search category
@@ -44,3 +52,38 @@ categorySelect.addEventListener('change', () => {
         }
     });
 });
+
+// Save search values to Local Storage
+$('#search-form').on('submit', function(event) {
+  event.preventDefault();
+  let searchValue = $('#search-input').val();
+  let categoryValue = $('#category-select').val();
+  localStorage.setItem('searchValue', searchValue);
+  localStorage.setItem('categoryValue', categoryValue);
+});
+$('#category-select').on('change', function() {
+  let categoryValue = $('#category-select').val();
+  localStorage.setItem('categoryValue', categoryValue);
+});
+
+
+// // Retrieve search values from Local Storage on page load
+// $(document).ready(function() {
+//   let searchValue = localStorage.getItem('searchValue');
+//   let categoryValue = localStorage.getItem('categoryValue');
+//   if (searchValue) {
+//     $('#search-input').val(searchValue);
+//     filterResults(searchValue);
+//   }
+//   if (categoryValue) {
+//     $('#category-select').val(categoryValue);
+//     filterCategory(categoryValue);
+//   }
+// });
+
+// function filterCategory(categoryValue) {
+//   $('tbody tr').filter(function() {
+//     $(this).toggle($(this).data('category') === categoryValue);
+//   });
+// }
+
