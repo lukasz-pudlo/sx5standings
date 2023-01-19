@@ -6,3 +6,15 @@ for (let i = 0; i < links.length; i++) {
     links[i].parentNode.classList.add('active');
   }
 }
+
+// Search runner
+$('#search-input').on('input', function() {
+  let searchValue = $(this).val().toLowerCase();
+  filterResults(searchValue);
+});
+
+function filterResults(searchValue) {
+  $('tbody tr').filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(searchValue) > -1);
+  });
+}

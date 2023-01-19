@@ -44,6 +44,22 @@ th {
     font-weight: bold;
 }
 
+th.runner {
+    position: relative;
+}
+
+input[type="text"] {
+    position: absolute;
+    right: 0;
+    width: 100px;
+}
+
+.search-input {
+    float: right;
+    margin-right: 10px;
+}
+
+
 /* tbody tr:nth-child(odd) {
     background-color: #f8f9fa;
 } */
