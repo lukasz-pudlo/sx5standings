@@ -12,13 +12,12 @@
     </thead>
     <tbody>
         <% currentGeneralClassification.forEach(function(result) { %>
-            <tr class="<%= result.category.startsWith('M') ? 'male' : result.category.startsWith('F') ? 'female' : '' %>">
+            <tr>
                 <td headers="runner"> <%= result.runner %> </td>
                 <td headers="points"> <%= result.points %> </td>
-                <td headers="category"> <%= result.category %> </td>
+                <td headers="category" class="<%= result.category.startsWith('M') ? 'male' : result.category.startsWith('F') ? 'female' : '' %>"> <%= result.category %> </td>
                 <td headers="generalPosition"> <%= result.generalPosition %> </td>
             </tr>
-
         <% }); %>
     </tbody>
 </table>
