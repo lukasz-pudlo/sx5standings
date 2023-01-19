@@ -172,15 +172,15 @@ app.use((req, res) => {
   res.status(404).send('Not found');
 });
 
-// // start server for production
-// app.listen(cfg.port, '0.0.0.0', () => {
-//   console.log(`Example app listening at http://0.0.0.0:${ cfg.port }`);
-// });
-
-// start server
-app.listen(cfg.port, () => {
-  console.log(`Example app listening at http://localhost:${ cfg.port }`);
+// start server for production
+app.listen(cfg.port, '0.0.0.0', () => {
+  console.log(`Example app listening at http://0.0.0.0:${ cfg.port }`);
 });
+
+// // start server for local development
+// app.listen(cfg.port, () => {
+//   console.log(`Example app listening at http://localhost:${ cfg.port }`);
+// });
 
 // export defaults
 export { cfg, app };
