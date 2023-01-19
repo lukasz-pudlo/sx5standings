@@ -31,7 +31,7 @@ table {
 
 
 thead {
-    background-color: #f8f9fa;
+    background-color: #fffdf8;
 }
 
 th, td {
@@ -57,7 +57,7 @@ tbody tr:hover {
 }
 
 .male {
-    background-color: #f8f9fa;
+    background-color: #fffdf8;
 }
 
 .female {
@@ -96,7 +96,7 @@ caption {
     font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
-    background-color: #f8f9fa;
+    background-color: #fffdf8;
 }
 
 nav {
@@ -119,7 +119,7 @@ nav li {
 nav a {
     font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
-    color: white;
+    color: #fffdf8;
     text-decoration: none;
 }
 
