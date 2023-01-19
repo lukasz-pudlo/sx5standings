@@ -52,7 +52,6 @@ tbody tr:hover {
 }
 
 
-
 /* Responsive styles */
 @media only screen and (max-width: 600px) {
     th, td {
@@ -86,7 +85,7 @@ caption {
 }
 
 nav {
-    background-color: #0a7634;
+    background-color: rgb(10,118,52, 0.8);
     color: white;
 }
 
@@ -108,3 +107,20 @@ nav a {
     color: white;
     text-decoration: none;
 }
+
+.active {
+    background-color: rgb(10,118,52, 1);
+}
+
+/* Styles for smaller screens */
+@media only screen and (max-width: 780px) {
+    nav ul {
+        flex-wrap: wrap;
+    }
+    nav li {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+  
