@@ -2,6 +2,10 @@ body {
     background-color: #fffdf8;
 }
 
+li {
+    cursor: pointer;
+}
+
 
 div {
     font-family: "Montserrat", sans-serif;

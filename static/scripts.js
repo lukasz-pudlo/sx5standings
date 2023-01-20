@@ -8,6 +8,15 @@ for (let i = 0; i < links.length; i++) {
   }
 }
 
+// Make li elements clickable links
+var lis = document.querySelectorAll("li");
+lis.forEach(function(li) {
+    li.addEventListener("click", function() {
+        window.location.href = li.querySelector("a").href;
+    });
+});
+
+
 
 // Search runner
 const storedSearchValue = localStorage.getItem("searchValue");
