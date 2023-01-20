@@ -103,12 +103,39 @@ tbody tr:hover {
     tbody tr {
         display: flex;
         flex-wrap: wrap;
+        border: 1px solid gray;
+        border-radius: 5px;
+        margin-bottom: 10px;
     }
     tbody td {
         display: block;
         width: 100%;
         text-align: right;
     }
+
+
+
+    td[headers="runner"]::before {
+        content: "Runner";
+        display: block;
+        font-weight: bold;
+      }
+      td[headers="points"]::before {
+        content: "Points";
+        display: block;
+        font-weight: bold;
+      }
+      td[headers="category"]::before {
+        content: "Category";
+        display: block;
+        font-weight: bold;
+      }
+      td[headers="generalPosition"]::before {
+        content: "General Position";
+        display: block;
+        font-weight: bold;
+      }
+
 }
 
 caption {
