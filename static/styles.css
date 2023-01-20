@@ -83,68 +83,7 @@ tbody tr:hover {
 .female {
     background-color: rgb(10,118,52, 0.5);
 }
-  
 
-
-
-/* Responsive styles */
-@media only screen and (max-width: 780px) {
-    th, td {
-        padding: 0.4rem;
-    }
-    thead {
-        display: none;
-    }
-    tbody {
-        display: block;
-        width: 100%;
-        overflow: auto;
-    }
-    tbody tr {
-        display: flex;
-        flex-wrap: wrap;
-        border: 1px solid gray;
-        border-radius: 5px;
-        margin-bottom: 10px;
-    }
-    tbody td {
-        display: block;
-        width: 100%;
-        text-align: right;
-    }
-
-
-
-    td[headers="runner"]::before {
-        content: "Runner";
-        display: block;
-        font-weight: bold;
-      }
-      td[headers="points"]::before {
-        content: "Points";
-        display: block;
-        font-weight: bold;
-      }
-      td[headers="category"]::before {
-        content: "Category";
-        display: block;
-        font-weight: bold;
-      }
-      td[headers="generalPosition"]::before {
-        content: "General Position";
-        display: block;
-        font-weight: bold;
-      }
-
-    nav ul {
-        flex-wrap: wrap;
-    }
-    nav li {
-        width: 100%;
-        text-align: center;
-    }
-
-}
 
 caption {
     padding: 1rem;
@@ -182,4 +121,112 @@ nav a {
     background-color: rgb(10,118,52, 1);
 }
 
-  
+
+
+
+.sticky-search-filter-container {
+    display: none;
+}
+
+
+
+
+
+/* Responsive styles */
+@media only screen and (max-width: 780px) {
+    th, td {
+        padding: 0.4rem;
+    }
+    thead {
+        display: none;
+    }
+    tbody {
+        display: block;
+        width: 100%;
+        overflow: auto;
+    }
+    tbody tr {
+        display: flex;
+        flex-wrap: wrap;
+        border: 1px solid rgb(10,118,52, 0.8);
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    tbody td {
+        display: block;
+        width: 100%;
+        text-align: right;
+    }
+
+    td[headers="runner"]::before {
+        content: "Runner";
+        display: block;
+        font-weight: bold;
+      }
+      td[headers="points"]::before {
+        content: "Points";
+        display: block;
+        font-weight: bold;
+      }
+      td[headers="category"]::before {
+        content: "Category";
+        display: block;
+        font-weight: bold;
+      }
+      td[headers="generalPosition"]::before {
+        content: "General Position";
+        display: block;
+        font-weight: bold;
+      }
+
+    nav ul {
+        flex-wrap: wrap;
+    }
+    nav li {
+        width: 100%;
+        text-align: center;
+    }
+
+
+    /* Position the sticky-search-filter-container element at the top of the thead section of your table */
+    .sticky-search-filter-container {
+        position: sticky;
+        top: 0;
+        display: block;
+        width: 50%;
+        float: left;
+        background: #fffdf8;
+        font-family: "Montserrat", sans-serif;
+        font-size: 0.9em;
+    }
+
+    .sticky-search-filter {
+        display: block;
+    }
+    
+    .sticky-search-filter-container * {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .sticky-search-input {
+        display: block;
+    }
+
+    input[type="text"] {
+        position: relative;
+        width: 100px;
+    }
+
+    
+
+    
+      
+      
+      
+      
+}
+
+
+
+

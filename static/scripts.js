@@ -90,3 +90,27 @@ $('#category-select').on('change', function() {
   localStorage.setItem('categoryValue', categoryValue);
 });
 
+
+
+
+if (storedSearchValue) {
+  $('#search-input-sticky').val(storedSearchValue);
+  filterResults(storedSearchValue);
+}
+
+$('#search-input-sticky').on('input', function() {
+  let searchValue = $(this).val().toLowerCase();
+  filterResults(searchValue);
+  localStorage.setItem("searchValue", searchValue);
+});
+
+if (storedCategoryValue) {
+  $('#category-select-sticky').val(storedCategoryValue);
+  filterResultsByCategory(storedCategoryValue);
+}
+
+$('#category-select-sticky').on('change', function() {
+  let categoryValue = $(this).val();
+  filterResultsByCategory(categoryValue);
+  localStorage.setItem("categoryValue", categoryValue);
+});
