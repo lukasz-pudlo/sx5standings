@@ -46,6 +46,7 @@ th {
 
 th.runner {
     position: relative;
+    min-width: 150px;
 }
 
 input[type="text"] {
@@ -95,7 +96,7 @@ caption {
 
 nav {
     background-color: rgb(10,118,52, 0.8);
-    color: white;
+    color: #fffdf8;
 }
 
 nav ul {
@@ -224,12 +225,6 @@ nav a {
     }
 
     
-
-    
-      
-      
-      
-      
 }
 
 
