@@ -190,6 +190,7 @@ nav a {
 
     /* Position the sticky-search-filter-container element at the top of the thead section of your table */
     .sticky-search-filter-container {
+        margin-top: 20px;
         position: sticky;
         top: 0;
         display: block;
@@ -198,6 +199,10 @@ nav a {
         background: #fffdf8;
         font-family: "Montserrat", sans-serif;
         font-size: 0.9em;
+
+        border: 1px solid rgb(10,118,52, 0.8);
+        border-radius: 5px;
+        margin-bottom: 10px;
     }
 
     .sticky-search-filter {
