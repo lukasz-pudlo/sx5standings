@@ -85,7 +85,16 @@ app.get('/', (req, res) => {
         }
         try {
             const oneRacesStandings = JSON.parse(jsonString)
-            oneRacesStandings.sort((a, b) => a.points - b.points);
+
+            oneRacesStandings.sort((a, b) => {
+              if (a.points !== b.points) {
+                return a.points - b.points;
+              } else {
+                return a.generalPosition - b.generalPosition;
+              }
+            });
+
+            // oneRacesStandings.sort((a, b) => a.points - b.points);
             res.render('results', {currentGeneralClassification: oneRacesStandings, race: "King's Park"});
         } catch(err) {
             console.log('Error parsing JSON string:', err)
@@ -131,7 +140,14 @@ app.get('/results/2', (req, res) => {
               generalClassification.push(runner);
           })
 
-          generalClassification.sort((a, b) => a.points - b.points);
+          generalClassification.sort((a, b) => {
+            if (a.points !== b.points) {
+              return a.points - b.points;
+            } else {
+              return a.generalPosition - b.generalPosition;
+            }
+          });
+
           res.render('results', {currentGeneralClassification: generalClassification, race: "Linn Park"});
       } catch(err) {
           console.log('Error parsing JSON string:', err)
@@ -147,7 +163,15 @@ app.get('/results/3', (req, res) => {
       }
       try {
           const threeRacesStandings = JSON.parse(jsonString)
-          threeRacesStandings.sort((a, b) => a.points - b.points);
+
+          threeRacesStandings.sort((a, b) => {
+            if (a.points !== b.points) {
+              return a.points - b.points;
+            } else {
+              return a.generalPosition - b.generalPosition;
+            }
+          });
+
           res.render('results', {currentGeneralClassification: threeRacesStandings, race: "Rouken Glen Park"});
       } catch(err) {
           console.log('Error parsing JSON string:', err)
@@ -163,7 +187,15 @@ app.get('/results/4', (req, res) => {
       }
       try {
           const fourRacesStandings = JSON.parse(jsonString)
-          fourRacesStandings.sort((a, b) => a.points - b.points);
+
+          fourRacesStandings.sort((a, b) => {
+            if (a.points !== b.points) {
+              return a.points - b.points;
+            } else {
+              return a.generalPosition - b.generalPosition;
+            }
+          });
+
           res.render('results', {currentGeneralClassification: fourRacesStandings, race: "Pollok Country Park"});
       } catch(err) {
           console.log('Error parsing JSON string:', err)
@@ -179,7 +211,15 @@ app.get('/results/5', (req, res) => {
       }
       try {
           const fiveRacesStandings = JSON.parse(jsonString)
-          fiveRacesStandings.sort((a, b) => a.points - b.points);
+
+          fiveRacesStandings.sort((a, b) => {
+            if (a.points !== b.points) {
+              return a.points - b.points;
+            } else {
+              return a.generalPosition - b.generalPosition;
+            }
+          });
+          
           res.render('results', {currentGeneralClassification: fiveRacesStandings, race: "Bellahouston Park"});
       } catch(err) {
           console.log('Error parsing JSON string:', err)
