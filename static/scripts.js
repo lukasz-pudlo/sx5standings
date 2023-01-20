@@ -44,10 +44,7 @@ function filterResults(searchValue) {
 
 // Search category
 const categorySelect = document.getElementById('category-select');
-const stickyCategorySelect = document.getElementById('sticky-category-select');
-
 const categoryValues = new Set();
-const stickyCategoryValues = new Set();
 
 // populate the select element with unique categories
 document.querySelectorAll('td[headers="category"]').forEach(categoryTd => {
@@ -58,17 +55,6 @@ categoryValues.forEach(category => {
     option.value = category;
     option.textContent = category;
     categorySelect.appendChild(option);
-});
-
-// populate the select element with unique categories
-document.querySelectorAll('td[headers="category"]').forEach(categoryTd => {
-  stickyCategoryValues.add(categoryTd.textContent);
-});
-stickyCategoryValues.forEach(category => {
-  const option = document.createElement('option');
-  option.value = category;
-  option.textContent = category;
-  stickyCategorySelect.appendChild(option);
 });
 
 
@@ -102,21 +88,6 @@ categorySelect.addEventListener('change', () => {
     localStorage.removeItem("searchValue");
 });
 
-stickyCategorySelect.addEventListener('change', () => {
-  const selectedCategory = stickyCategorySelect.value;
-  document.querySelectorAll('tbody tr').forEach(row => {
-      if (selectedCategory === 'all' || row.querySelector('td[headers="category"]').textContent === selectedCategory) {
-          row.style.display = '';
-      } else {
-          row.style.display = 'none';
-      }
-  });
-  //clear the value of the runner search input field
-  document.getElementById('search-input').value = '';
-  document.getElementById('sticky-search-input').value = '';
-  localStorage.removeItem("searchValue");
-});
-
 $('#category-select').on('change', function() {
   let categoryValue = $('#category-select').val();
   $('#sticky-category-select').val(categoryValue);
@@ -128,3 +99,4 @@ $('#sticky-category-select').on('change', function() {
   $('#category-select').val(categoryValue);
   localStorage.setItem('categoryValue', categoryValue);
 });
+
