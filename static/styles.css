@@ -59,6 +59,11 @@ input[type="text"] {
     margin-right: 10px;
 }
 
+.category-select {
+    float: right;
+    margin-right: 10px;
+}
+
 /* tbody tr:nth-child(odd) {
     background-color: #f8f9fa;
 } */
