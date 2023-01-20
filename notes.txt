@@ -16,6 +16,8 @@ To set up the app on Ubuntu after making changes locally and pushing them to Git
 
 Navigate to the app directory on Ubuntu and run git pull origin master
 
+THAT'S IT NOTHING ELSE NECESSARY!!!
+
 run npm install
 
 install pm2 with sudo npm install -g pm2

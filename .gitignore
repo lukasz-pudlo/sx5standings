@@ -158,6 +158,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+notes.txt
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
