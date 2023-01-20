@@ -88,7 +88,7 @@ tbody tr:hover {
 
 
 /* Responsive styles */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 780px) {
     th, td {
         padding: 0.4rem;
     }
@@ -136,6 +136,14 @@ tbody tr:hover {
         font-weight: bold;
       }
 
+    nav ul {
+        flex-wrap: wrap;
+    }
+    nav li {
+        width: 100%;
+        text-align: center;
+    }
+
 }
 
 caption {
@@ -172,17 +180,6 @@ nav a {
 
 .active {
     background-color: rgb(10,118,52, 1);
-}
-
-/* Styles for smaller screens */
-@media only screen and (max-width: 780px) {
-    nav ul {
-        flex-wrap: wrap;
-    }
-    nav li {
-        width: 100%;
-        text-align: center;
-    }
 }
 
   
