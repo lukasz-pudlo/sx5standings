@@ -59,6 +59,17 @@ input[type="text"] {
     width: 100px;
 }
 
+th#category {
+    position: relative;
+    min-width: 150px;
+}
+
+select#category-select {
+    position: absolute;
+    right: 0;
+    width: 75px;
+}
+
 .search-input {
     float: right;
     margin-right: 10px;
