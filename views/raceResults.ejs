@@ -1,0 +1,74 @@
+<%- include('partials/_htmlhead'); -%>
+
+<!-- Add a new container element that is wrapped inside the media query -->
+<div class="sticky-search-filter-container">
+  <div class="sticky-search-filter">
+    <label for="sticky-search-input">Search for runner:</label>
+    <input
+      type="text"
+      class="sticky-search-input"
+      id="sticky-search-input"
+      name="Search"
+      placeholder="Search..."
+      value=""
+      multiple
+    />
+    <label for="sticky-category-select">Filter by category:</label>
+    <select id="sticky-category-select" class="sticky-category-select">
+      <option value="all">All</option>
+    </select>
+  </div>
+</div>
+
+<table
+  summary="This table shows the results of the race, including the name of the runner, the category, and the general position"
+>
+  <caption>
+    <%= race %> Race Results
+  </caption>
+
+  <thead>
+    <tr>
+      <th id="runner" scope="col" class="runner">
+        Runner
+        <input
+          type="text"
+          class="search-input"
+          id="search-input"
+          name="Search"
+          placeholder="Search..."
+          value=""
+          multiple
+        />
+      </th>
+
+      <th id="position" scope="col">Position</th>
+      <th id="category" scope="col">
+        <label for="category-select">Category</label>
+        <select id="category-select" class="category-select">
+          <option value="all">All</option>
+        </select>
+      </th>
+      <th id="generalPosition" scope="col">General Position</th>
+      <th id="time" scope="col">Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% currentRace.forEach(function(result) { %>
+    <tr>
+      <td headers="runner"><%= result.runner %></td>
+      <td headers="position"><%= result.position %></td>
+      <td
+        headers="category"
+        class="<%= result.cat.startsWith('M') ? 'male' : result.cat.startsWith('F') ? 'female' : '' %>"
+      >
+        <%= result.cat %>
+      </td>
+      <td headers="generalPosition"><%= result.generalPosition %></td>
+      <td headers="generalPosition"><%= result.result %></td>
+    </tr>
+    <% }); %>
+  </tbody>
+</table>
+
+<%- include('partials/_htmlfoot'); -%>

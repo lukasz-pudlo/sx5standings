@@ -227,6 +227,133 @@ app.get('/results/5', (req, res) => {
   })
 });
 
+// Race results views
+
+app.get('/kings', (req, res) => {
+  fs.readFile('results/kings.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const kingsResults = JSON.parse(jsonString)
+
+          kingsResults.sort((a, b) => {
+            // if (a.generalPosition !== b.generalPosition) {
+            //   return a.generalPosition - b.generalPosition;
+            // } else {
+            //   return a.position - b.position;
+            // }
+            return a.position - b.position;
+          });
+          
+          res.render('raceResults', {currentRace: kingsResults, race: "King's Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
+});
+
+app.get('/linn', (req, res) => {
+  fs.readFile('results/linn.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const linnResults = JSON.parse(jsonString)
+
+          linnResults.sort((a, b) => {
+            // if (a.generalPosition !== b.generalPosition) {
+            //   return a.generalPosition - b.generalPosition;
+            // } else {
+            //   return a.position - b.position;
+            // }
+            return a.position - b.position;
+          });
+          
+          res.render('raceResults', {currentRace: linnResults, race: "Linn Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
+});
+
+app.get('/rouken', (req, res) => {
+  fs.readFile('results/rouken.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const roukenResults = JSON.parse(jsonString)
+
+          roukenResults.sort((a, b) => {
+            // if (a.generalPosition !== b.generalPosition) {
+            //   return a.generalPosition - b.generalPosition;
+            // } else {
+            //   return a.position - b.position;
+            // }
+            return a.position - b.position;
+          });
+          
+          res.render('raceResults', {currentRace: roukenResults, race: "Rouken Glen Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
+});
+
+app.get('/pollok', (req, res) => {
+  fs.readFile('results/pollok.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const pollokResults = JSON.parse(jsonString)
+
+          pollokResults.sort((a, b) => {
+            // if (a.generalPosition !== b.generalPosition) {
+            //   return a.generalPosition - b.generalPosition;
+            // } else {
+            //   return a.position - b.position;
+            // }
+            return a.position - b.position;
+          });
+          
+          res.render('raceResults', {currentRace: pollokResults, race: "Pollok Country Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
+});
+
+app.get('/bellahouston', (req, res) => {
+  fs.readFile('results/bellahouston.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const bellahoustonResults = JSON.parse(jsonString)
+
+          bellahoustonResults.sort((a, b) => {
+            // if (a.generalPosition !== b.generalPosition) {
+            //   return a.generalPosition - b.generalPosition;
+            // } else {
+            //   return a.position - b.position;
+            // }
+            return a.position - b.position;
+          });
+          
+          res.render('raceResults', {currentRace: bellahoustonResults, race: "Bellahouston Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
+});
+
 // about page route
 app.get('/about', (req, res) => {
   res.render('about', { title: 'Acorn Trails - South by Five' });
