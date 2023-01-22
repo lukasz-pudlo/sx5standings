@@ -183,8 +183,8 @@ footer p {
         display: block;
         font-weight: bold;
       }
-      td[headers="points"]::before {
-        content: "Points";
+      td[headers="position"]::before {
+        content: "Position";
         display: block;
         font-weight: bold;
       }
@@ -195,6 +195,11 @@ footer p {
       }
       td[headers="generalPosition"]::before {
         content: "General Position";
+        display: block;
+        font-weight: bold;
+      }
+      td[headers="time"]::before {
+        content: "Time";
         display: block;
         font-weight: bold;
       }
