@@ -1,6 +1,6 @@
 # sx5standings - accessible at [https://sx5results.run/](https://sx5results.run/)
 
-# H1 **South by Five Race Results Website**
+## **South by Five Race Results Website**
 
 This website is designed for [https://acorntrails.run/](Acorn Trails), a local charity and running events organizer, to help runners easily review their performance in all races of the series. With this website, we aim to make it easier for runners to access race results, compare performances, and track their progress across different races.
 
@@ -10,7 +10,7 @@ This website is designed for [https://acorntrails.run/](Acorn Trails), a local c
 - Search and filter results by category, park, and name
 - Compare performance across races
  - Results are stored in local storage for easy access
- - 
+ 
 
 **Technology Stack**
 - Node.js
