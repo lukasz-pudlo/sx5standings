@@ -1,13 +1,25 @@
-# sx5standings # wordstock - accessible at [https://sx5results.run/](https://sx5results.run/)
+# sx5standings - accessible at [https://sx5results.run/](https://sx5results.run/)
 
-View the final general classification of the Acorn Trails South by Five race series after each race. 
+**South by Five Race Results Website**
 
-The Acorn Trails South by Five series general classification website is a simple, responsive and accessible website that allows users to view the results of the Acorn Trails South by Five series. The website uses a simple design and color scheme, making it easy to navigate and understand.
+This website is designed for [https://acorntrails.run/](Acorn Trails), a local charity and running events organizer, to help runners easily review their performance in all races of the series. With this website, we aim to make it easier for runners to access race results, compare performances, and track their progress across different races.
 
-The website uses a database with a table that contains race results. Each race has its own table, which makes it easy to modify the results if a runner drops out of the general classification. The results are calculated based on a system where 1st place gets 1 point, 2nd place gets 2 points and so on. The general classification is determined by identifying the person with the least number of points.
+**Features**
 
-After the 3rd race, the points allocated for the 1st and 2nd race will change. If a runner misses 2 races, they will not be counted towards the final classification, and will be removed from the previous race results, changing the points allocated for each race and the general classification.
+- Search and filter results by category, park, and name
+- Compare performance across races
+ - Results are stored in local storage for easy access
 
-The website also has a table that contains runners' names, races array, that will in turn contain race1, race2, etc. For each race, the number of points is stored. Participation check is done after the 4th, 5th and 6th race, to see if a runner participated in the required number of races. At any point, the participation variable can be defined as nth race - 1. If the variable is less than nth - 1, then the runner needs to be removed from previous race results and the general classification needs to be regenerated.
+**Technology Stack**
+- Node.js
+- MongoDB
 
-Overall, the website provides a clear and concise way for users to view the results of the Acorn Trails South by Five series and stay updated on the current standings. The website's design and functionality make it easy for users to understand and navigate. The use of the database ensures that the results are accurate and up-to-date.
+![Demo (Part 1)](https://media.giphy.com/media/4NNUGzNcWRUoTnvy1d/giphy.gif)
+
+Users can select a category and click on park names to see the race results for that category. The user's choices are saved in local storage, so that they can view how results changed for that category from race to race.
+
+![Demo (Part 1)](https://media.giphy.com/media/ZdeRLJ6CulRmTlNlEE/giphy.gif)
+
+In addition, users can also enter a name or names separated by commas to see and/or compare results.
+
+These searches and choices are saved in local storage so that they can compare the results from race to race.
