@@ -2,7 +2,7 @@
 
 ## **South by Five Race Results Website**
 
-This website is designed for [Acorn Trails](https://acorntrails.run/), a local charity and running events organizer, to help runners easily review their performance in all races of the series. With this website, we aim to make it easier for runners to access race results, compare performances, and track their progress across different races.
+I designed this website for [Acorn Trails](https://acorntrails.run/), a local charity and running events organizer, to help runners easily review their performance in all races of the series. The aim is to make it easier for runners to access race results, compare performances, and track their progress across different races.
 
 
 ### **Features**
