@@ -38,7 +38,7 @@ const path = require('path');
 const
   __dirname = dirname(fileURLToPath( import.meta.url )) + sep,
   cfg = {
-    port: process.env.PORT || 3005,
+    port: process.env.PORT || 3006,
     dir: {
       root:   __dirname,
       static: __dirname + 'static' + sep,
