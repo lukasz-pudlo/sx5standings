@@ -1,12 +1,19 @@
-// Highlight the active navigation tab
-const links = document.querySelectorAll('nav a');
+const mainLinks = document.querySelectorAll('nav.main-nav a');
+const smallLinks = document.querySelectorAll('nav.small-nav a');
 const currentPage = window.location.pathname;
 
-for (let i = 0; i < links.length; i++) {
-  if (links[i].getAttribute('href') === currentPage) {
-    links[i].parentNode.classList.add('active');
+for (let i = 0; i < mainLinks.length; i++) {
+  if (mainLinks[i].getAttribute('href') === currentPage) {
+    mainLinks[i].parentNode.classList.add('active');
   }
 }
+
+for (let i = 0; i < smallLinks.length; i++) {
+  if (smallLinks[i].getAttribute('href') === currentPage) {
+    smallLinks[i].parentNode.classList.add('small-active');
+  }
+}
+
 
 // Make li elements clickable links
 var lis = document.querySelectorAll("li");
