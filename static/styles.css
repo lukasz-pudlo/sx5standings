@@ -136,6 +136,7 @@ nav a {
 .small-active {
 background-color: rgb(255,253,248);
 color: rgb(10,118,52, 0.8);
+font-weight: bold;
 }
 
 .active {
@@ -252,8 +253,6 @@ footer p {
         position: relative;
         width: 100px;
     }
-
-    
 }
 
 .small-nav {
