@@ -25,7 +25,9 @@ for (let i = 0; i < mainLinks.length; i++) {
 }
 
 for (let i = 0; i < smallLinks.length; i++) {
+
   if (smallLinks[i].getAttribute('href') === currentPage) {
+    
     smallLinks[i].parentNode.classList.add('small-active');
   }
 }
@@ -47,9 +49,23 @@ const smallLinkMap = {
   "/bellahouston": "/results/5"
 };
 
+const raceLinkMap = {
+  "/results/1": "/kings",
+  "/results/2": "/linn",
+  "/results/3": "/rouken",
+  "/results/4": "/pollok",
+  "/results/5": "/bellahouston"
+}
 
-smallLinks[0].setAttribute("href", currentPage);
-smallLinks[1].setAttribute("href", smallLinkMap[currentPage]);
+if (currentPage.startsWith("/results/")) {
+  smallLinks[0].setAttribute("href", raceLinkMap[currentPage]);
+  smallLinks[1].setAttribute("href", currentPage);
+}
+else {
+  smallLinks[0].setAttribute("href", currentPage);
+  smallLinks[1].setAttribute("href", smallLinkMap[currentPage]);
+} 
+
 
 
 

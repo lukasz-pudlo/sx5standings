@@ -133,12 +133,6 @@ nav a {
     text-decoration: none;
 }
 
-.small-active {
-background-color: rgb(255,253,248);
-color: rgb(10,118,52, 0.8);
-font-weight: bold;
-}
-
 .active {
     background-color: rgb(10,118,52, 1);
 }
@@ -280,11 +274,16 @@ footer p {
     text-decoration: none;
   }
 
+  .small-active {
+    background-color: rgb(255,253,248);
+    color: rgb(10,118,52, 0.8);
+    font-weight: bold;
+}
+
   .nav-container {
     display: flex;
     justify-content: center;
   }
   
-
 
 
