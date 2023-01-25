@@ -3,8 +3,24 @@ const smallLinks = document.querySelectorAll('nav.small-nav a');
 const currentPage = window.location.pathname;
 
 for (let i = 0; i < mainLinks.length; i++) {
-  if (mainLinks[i].getAttribute('href') === currentPage) {
-    mainLinks[i].parentNode.classList.add('active');
+  if (currentPage.startsWith("/results/")) {
+    const number = currentPage.split("/")[2];
+    if (mainLinks[i].getAttribute("href") === `/kings` && number === "1") {
+      mainLinks[i].parentNode.classList.add("active");
+    } else if (mainLinks[i].getAttribute("href") === `/linn` && number === "2") {
+      mainLinks[i].parentNode.classList.add("active");
+    }
+    else if (mainLinks[i].getAttribute("href") === `/rouken` && number === "3") {
+      mainLinks[i].parentNode.classList.add("active");
+    }
+    else if (mainLinks[i].getAttribute("href") === `/pollok` && number === "4") {
+      mainLinks[i].parentNode.classList.add("active");
+    }
+    else if (mainLinks[i].getAttribute("href") === `/bellahouston` && number === "5") {
+      mainLinks[i].parentNode.classList.add("active");
+    }
+  } else if (mainLinks[i].getAttribute("href") === currentPage) {
+    mainLinks[i].parentNode.classList.add("active");
   }
 }
 
@@ -22,6 +38,18 @@ lis.forEach(function(li) {
         window.location.href = li.querySelector("a").href;
     });
 });
+
+const smallLinkMap = {
+  "/kings": "/results/1",
+  "/linn": "/results/2",
+  "/rouken": "/results/3",
+  "/pollok": "/results/4",
+  "/bellahouston": "/results/5"
+};
+
+
+smallLinks[0].setAttribute("href", currentPage);
+smallLinks[1].setAttribute("href", smallLinkMap[currentPage]);
 
 
 
