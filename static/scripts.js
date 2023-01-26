@@ -1,8 +1,13 @@
 const currentPage = window.location.pathname.trim();
-const mainLinks = document.querySelectorAll('nav.main-nav a');
+
 const smallLinks = document.querySelectorAll('nav.small-nav a');
+const mainLinks = document.querySelectorAll('nav.main-nav a');
+
+let resultType = localStorage.getItem("resultType");
+
 
 document.addEventListener("DOMContentLoaded", function() {
+  
   for (let i = 0; i < mainLinks.length; i++) {
     if (currentPage.startsWith("/results/")) {
       const number = currentPage.split("/")[2];
@@ -23,24 +28,44 @@ document.addEventListener("DOMContentLoaded", function() {
     } else if (mainLinks[i].getAttribute("href") === currentPage) {
       mainLinks[i].parentNode.classList.add("active");
     }
+
+  
+    mainLinks[i].addEventListener("click", function(event) {
+      console.log(resultType)
+      
+      if (resultType === "classification") {
+          
+          event.preventDefault();
+          
+          window.location.href = smallLinkMap[mainLinks[i].getAttribute("href")];
+      }
+    });
+    
   }
 
   for (let i = 0; i < smallLinks.length; i++) {
     if (smallLinks[i].getAttribute('href') === currentPage) {
       smallLinks[i].parentNode.classList.add('small-active');
     }
-  }
-});
 
-
-
-// Make li elements clickable links
-var lis = document.querySelectorAll("li");
-lis.forEach(function(li) {
-    li.addEventListener("click", function() {
-        window.location.href = li.querySelector("a").href;
+    smallLinks[i].addEventListener("click", function(event) {
+      if (smallLinks[i].getAttribute('href').startsWith('/results')) {
+        localStorage.setItem("resultType", 'classification');
+      }
+      else {
+        localStorage.setItem("resultType", 'raceResults');
+      }
     });
+  }
+
+
+
 });
+
+
+
+
+
 
 const smallLinkMap = {
   "/kings": "/results/1",
@@ -57,6 +82,18 @@ const raceLinkMap = {
   "/results/4": "/pollok",
   "/results/5": "/bellahouston"
 }
+
+// // Make li elements clickable links
+// var lis = document.querySelectorAll("li");
+// lis.forEach(function(li) {
+//     li.addEventListener("click", function() {
+//         window.location.href = li.querySelector("a").href;
+//     });
+// });
+
+
+
+
 
 if (currentPage.startsWith("/results/")) {
   smallLinks[0].setAttribute("href", raceLinkMap[currentPage]);
