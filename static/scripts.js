@@ -1,36 +1,37 @@
+const currentPage = window.location.pathname.trim();
 const mainLinks = document.querySelectorAll('nav.main-nav a');
 const smallLinks = document.querySelectorAll('nav.small-nav a');
-const currentPage = window.location.pathname;
 
-for (let i = 0; i < mainLinks.length; i++) {
-  if (currentPage.startsWith("/results/")) {
-    const number = currentPage.split("/")[2];
-    if (mainLinks[i].getAttribute("href") === `/kings` && number === "1") {
-      mainLinks[i].parentNode.classList.add("active");
-    } else if (mainLinks[i].getAttribute("href") === `/linn` && number === "2") {
+document.addEventListener("DOMContentLoaded", function() {
+  for (let i = 0; i < mainLinks.length; i++) {
+    if (currentPage.startsWith("/results/")) {
+      const number = currentPage.split("/")[2];
+      if (mainLinks[i].getAttribute("href") === `/kings` && number === "1") {
+        mainLinks[i].parentNode.classList.add("active");
+      } else if (mainLinks[i].getAttribute("href") === `/linn` && number === "2") {
+        mainLinks[i].parentNode.classList.add("active");
+      }
+      else if (mainLinks[i].getAttribute("href") === `/rouken` && number === "3") {
+        mainLinks[i].parentNode.classList.add("active");
+      }
+      else if (mainLinks[i].getAttribute("href") === `/pollok` && number === "4") {
+        mainLinks[i].parentNode.classList.add("active");
+      }
+      else if (mainLinks[i].getAttribute("href") === `/bellahouston` && number === "5") {
+        mainLinks[i].parentNode.classList.add("active");
+      }
+    } else if (mainLinks[i].getAttribute("href") === currentPage) {
       mainLinks[i].parentNode.classList.add("active");
     }
-    else if (mainLinks[i].getAttribute("href") === `/rouken` && number === "3") {
-      mainLinks[i].parentNode.classList.add("active");
-    }
-    else if (mainLinks[i].getAttribute("href") === `/pollok` && number === "4") {
-      mainLinks[i].parentNode.classList.add("active");
-    }
-    else if (mainLinks[i].getAttribute("href") === `/bellahouston` && number === "5") {
-      mainLinks[i].parentNode.classList.add("active");
-    }
-  } else if (mainLinks[i].getAttribute("href") === currentPage) {
-    mainLinks[i].parentNode.classList.add("active");
   }
-}
 
-for (let i = 0; i < smallLinks.length; i++) {
-
-  if (smallLinks[i].getAttribute('href') === currentPage) {
-    
-    smallLinks[i].parentNode.classList.add('small-active');
+  for (let i = 0; i < smallLinks.length; i++) {
+    if (smallLinks[i].getAttribute('href') === currentPage) {
+      smallLinks[i].parentNode.classList.add('small-active');
+    }
   }
-}
+});
+
 
 
 // Make li elements clickable links
