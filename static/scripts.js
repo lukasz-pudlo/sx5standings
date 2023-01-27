@@ -29,7 +29,8 @@ document.addEventListener("DOMContentLoaded", function() {
       mainLinks[i].parentNode.classList.add("active");
     }
 
-  
+    // Disable toggle between race results and classification for home mainLinks[0] and about pages mainLinks[mainLinks.length - 1]
+    for (let i = 1; i < mainLinks.length - 1; i++)
     mainLinks[i].addEventListener("click", function(event) {
       console.log(resultType)
       
