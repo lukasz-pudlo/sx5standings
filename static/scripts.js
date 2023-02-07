@@ -32,16 +32,11 @@ document.addEventListener("DOMContentLoaded", function() {
     // Disable toggle between race results and classification for home mainLinks[0] and about pages mainLinks[mainLinks.length - 1]
     for (let i = 1; i < mainLinks.length - 1; i++)
     mainLinks[i].addEventListener("click", function(event) {
-      console.log(resultType)
-      
       if (resultType === "classification") {
-          
           event.preventDefault();
-          
           window.location.href = smallLinkMap[mainLinks[i].getAttribute("href")];
       }
-    });
-    
+    });   
   }
 
   for (let i = 0; i < smallLinks.length; i++) {
@@ -58,15 +53,9 @@ document.addEventListener("DOMContentLoaded", function() {
       }
     });
   }
-
-
-
 });
 
-
-
-
-
+// Create mappings between race results and classification results
 
 const smallLinkMap = {
   "/kings": "/results/1",
@@ -92,10 +81,6 @@ const raceLinkMap = {
 //     });
 // });
 
-
-
-
-
 if (currentPage.startsWith("/results/")) {
   smallLinks[0].setAttribute("href", raceLinkMap[currentPage]);
   smallLinks[1].setAttribute("href", currentPage);
@@ -105,11 +90,9 @@ else {
   smallLinks[1].setAttribute("href", smallLinkMap[currentPage]);
 } 
 
-
-
-
 // Search runner
 const storedSearchValue = localStorage.getItem("searchValue");
+console.log(storedSearchValue)
 if (storedSearchValue) {
   $('#search-input').val(storedSearchValue);
   $('#sticky-search-input').val(storedSearchValue);
@@ -140,7 +123,6 @@ function filterResults(searchValue) {
   localStorage.removeItem("categoryValue");
 }
 
-
 // Search category
 const categorySelect = document.getElementById('category-select');
 const stickyCategorySelect = document.getElementById('sticky-category-select');
@@ -159,7 +141,7 @@ categoryValues.forEach(category => {
     categorySelect.appendChild(option);
 });
 
-// populate the select element with unique categories
+// Populate the select element with unique categories
 document.querySelectorAll('td[headers="category"]').forEach(categoryTd => {
   stickyCategoryValues.add(categoryTd.textContent);
 });
@@ -170,14 +152,16 @@ stickyCategoryValues.forEach(category => {
   stickyCategorySelect.appendChild(option);
 });
 
-
-
+// Filter categories
 const storedCategoryValue = localStorage.getItem("categoryValue");
+// console.log(storedCategoryValue)
 if (storedCategoryValue) {
   $('#category-select').val(storedCategoryValue);
   $('#sticky-category-select').val(storedCategoryValue);
   document.querySelectorAll('tbody tr').forEach(row => {
+    
     if (storedCategoryValue === 'all' || row.querySelector('td[headers="category"]').textContent === storedCategoryValue) {
+        // console.log(storedCategoryValue)
         row.style.display = '';
     } else {
         row.style.display = 'none';
@@ -185,9 +169,9 @@ if (storedCategoryValue) {
 });
 }
 
-
 categorySelect.addEventListener('change', () => {
     const selectedCategory = categorySelect.value;
+    // console.log(selectedCategory)
     document.querySelectorAll('tbody tr').forEach(row => {
         if (selectedCategory === 'all' || row.querySelector('td[headers="category"]').textContent === selectedCategory) {
             row.style.display = '';
@@ -195,6 +179,9 @@ categorySelect.addEventListener('change', () => {
             row.style.display = 'none';
         }
     });
+
+    localStorage.setItem("categoryValue", selectedCategory);
+    // console.log(selectedCategory)
     //clear the value of the runner search input field
     document.getElementById('search-input').value = '';
     document.getElementById('sticky-search-input').value = '';
@@ -210,20 +197,22 @@ stickyCategorySelect.addEventListener('change', () => {
           row.style.display = 'none';
       }
   });
-  //clear the value of the runner search input field
+
+  localStorage.setItem("categoryValue", selectedCategory);
+  // Clear the value of the runner search input field
   document.getElementById('search-input').value = '';
   document.getElementById('sticky-search-input').value = '';
   localStorage.removeItem("searchValue");
 });
 
-$('#category-select').on('change', function() {
-  let categoryValue = $('#category-select').val();
-  $('#sticky-category-select').val(categoryValue);
-  localStorage.setItem('categoryValue', categoryValue);
-});
+// $('#category-select').on('change', function() {
+//   let categoryValue = $('#category-select').val();
+//   $('#sticky-category-select').val(categoryValue);
+//   localStorage.setItem('categoryValue', categoryValue);
+// });
 
-$('#sticky-category-select').on('change', function() {
-  let categoryValue = $('#sticky-category-select').val();
-  $('#category-select').val(categoryValue);
-  localStorage.setItem('categoryValue', categoryValue);
-});
+// $('#sticky-category-select').on('change', function() {
+//   let categoryValue = $('#sticky-category-select').val();
+//   $('#category-select').val(categoryValue);
+//   localStorage.setItem('categoryValue', categoryValue);
+// });
