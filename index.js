@@ -7,9 +7,11 @@ import { dirname, parse, sep } from 'path';
 import { createRequire } from "module";
 
 const require = createRequire(import.meta.url);
-const { check, validationResult } = require('express-validator');
 const fs = require('fs');
+
 const path = require('path');
+
+const { check, validationResult } = require('express-validator');
 
 // const mongoose = require('mongoose');
 // mongoose.connect('mongodb://localhost/race', { useNewUrlParser: true });
