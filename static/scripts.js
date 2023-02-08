@@ -1,8 +1,3 @@
-const require = createRequire(import.meta.url);
-const fs = require('fs');
-
-const { filter } = require("compression");
-
 const currentPage = window.location.pathname.trim();
 
 const smallLinks = document.querySelectorAll('nav.small-nav a');
@@ -52,9 +47,11 @@ document.addEventListener("DOMContentLoaded", function() {
     smallLinks[i].addEventListener("click", function(event) {
       if (smallLinks[i].getAttribute('href').startsWith('/results')) {
         localStorage.setItem("resultType", 'classification');
+        
       }
       else {
         localStorage.setItem("resultType", 'raceResults');
+        
       }
     });
   }
@@ -158,45 +155,63 @@ stickyCategoryValues.forEach(category => {
 });
 
 // Filter categories
-const storedCategoryValue = localStorage.getItem("categoryValue");
-// console.log(storedCategoryValue)
-if (storedCategoryValue) {
-  $('#category-select').val(storedCategoryValue);
-  $('#sticky-category-select').val(storedCategoryValue);
-  document.querySelectorAll('tbody tr').forEach(row => {
-    if (storedCategoryValue === 'all' || row.querySelector('td[headers="category"]').textContent === storedCategoryValue) {
-        // console.log(storedCategoryValue)
-        row.style.display = '';
-    } else {
-        row.style.display = 'none';
-    }
-  });
+function getStoredCategoryValue() {
+  const storedCategoryValue = localStorage.getItem("categoryValue").trim();
+  
+  if (storedCategoryValue) {
+    console.log(storedCategoryValue)
+    $('#category-select').val(storedCategoryValue);
+    $('#sticky-category-select').val(storedCategoryValue);
+    
+    document.querySelectorAll('tbody tr').forEach(row => {
+      console.log(row.querySelector('td[headers="category"]').textContent)
+      // console.log(storedCategoryValue)
+      if (storedCategoryValue === 'all' || row.querySelector('td[headers="category"]').textContent.trim() === storedCategoryValue) {
+          // console.log(storedCategoryValue)
+          row.style.display = '';
+      } else {
+          
+          row.style.display = 'none';
+      }
+    });
+  }
 }
+
+getStoredCategoryValue()
+
 
 categorySelect.addEventListener('change', () => {
     const selectedCategory = categorySelect.value;
     // console.log(selectedCategory)
+    document.querySelectorAll('tbody tr').forEach(row => {
+        if (selectedCategory === 'all' || row.querySelector('td[headers="category"]').textContent === selectedCategory) {
+            row.style.display = '';
+        } else {
+            row.style.display = 'none';
+        }
+    });
 
-    filterCategories(selectedCategory)
+    localStorage.setItem("categoryValue", selectedCategory);
+    // console.log(selectedCategory)
+    //clear the value of the runner search input field
+    document.getElementById('search-input').value = '';
+    document.getElementById('sticky-search-input').value = '';
+    localStorage.removeItem("searchValue");
 });
 
 stickyCategorySelect.addEventListener('change', () => {
   const selectedCategory = stickyCategorySelect.value;
-  filterCategories(selectedCategory)
-});
-
-function filterCategories(categoryValue) {
   document.querySelectorAll('tbody tr').forEach(row => {
-    if (categoryValue === 'all' || row.querySelector('td[headers="category"]').textContent === categoryValue) {
-        row.style.display = '';
-    } else {
-        row.style.display = 'none';
-    }
+      if (selectedCategory === 'all' || row.querySelector('td[headers="category"]').textContent === selectedCategory) {
+          row.style.display = '';
+      } else {
+          row.style.display = 'none';
+      }
   });
 
-  localStorage.setItem("categoryValue", categoryValue);
+  localStorage.setItem("categoryValue", selectedCategory);
   // Clear the value of the runner search input field
   document.getElementById('search-input').value = '';
   document.getElementById('sticky-search-input').value = '';
   localStorage.removeItem("searchValue");
-}
+});

@@ -71,10 +71,7 @@
       <tr>
         <td headers="runner"><%= result.runner %></td>
         <td headers="position"><%= result.position %></td>
-        <td
-          headers="category"
-          class="<%= result.cat.startsWith('M') ? 'male' : result.cat.startsWith('F') ? 'female' : '' %>"
-        >
+        <td headers="category" class="<%= result.cat.startsWith('M') ? 'male' : result.cat.startsWith('F') ? 'female' : '' %>">
           <%= result.cat %>
         </td>
         <td headers="generalPosition"><%= result.generalPosition %></td>
