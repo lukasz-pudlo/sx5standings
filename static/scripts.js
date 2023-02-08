@@ -75,13 +75,13 @@ const raceLinkMap = {
   "/results/5": "/bellahouston"
 }
 
-// // Make li elements clickable links
-// var lis = document.querySelectorAll("li");
-// lis.forEach(function(li) {
-//     li.addEventListener("click", function() {
-//         window.location.href = li.querySelector("a").href;
-//     });
-// });
+// Make li elements clickable links
+var lis = document.querySelectorAll("li");
+lis.forEach(function(li) {
+    li.addEventListener("click", function() {
+        window.location.href = li.querySelector("a").href;
+    });
+});
 
 if (currentPage.startsWith("/results/")) {
   smallLinks[0].setAttribute("href", raceLinkMap[currentPage]);
@@ -135,7 +135,6 @@ const stickyCategoryValues = new Set();
 // populate the select element with unique categories
 document.querySelectorAll('td[headers="category"]').forEach(categoryTd => {
     categoryValues.add(categoryTd.textContent.trim());
-    console.log(categoryValues)
 });
 
 categoryValues.forEach(category => {
@@ -162,7 +161,6 @@ function getStoredCategoryValue() {
   
   if (storedCategoryValue) {
     // storedCategoryValue = storedCategoryValue.trim()
-    console.log(storedCategoryValue)
     $('#category-select').val(storedCategoryValue);
     $('#sticky-category-select').val(storedCategoryValue);
     
