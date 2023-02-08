@@ -156,10 +156,10 @@ stickyCategoryValues.forEach(category => {
 
 // Filter categories
 function getStoredCategoryValue() {
-  const storedCategoryValue = localStorage.getItem("categoryValue").trim();
+  let storedCategoryValue = localStorage.getItem("categoryValue");
   
   if (storedCategoryValue) {
-    console.log(storedCategoryValue)
+    storedCategoryValue = storedCategoryValue.trim()
     $('#category-select').val(storedCategoryValue);
     $('#sticky-category-select').val(storedCategoryValue);
     
