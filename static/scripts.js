@@ -94,7 +94,7 @@ else {
 
 // Search runner
 const storedSearchValue = localStorage.getItem("searchValue");
-console.log(storedSearchValue)
+
 if (storedSearchValue) {
   $('#search-input').val(storedSearchValue);
   $('#sticky-search-input').val(storedSearchValue);
@@ -134,8 +134,10 @@ const stickyCategoryValues = new Set();
 
 // populate the select element with unique categories
 document.querySelectorAll('td[headers="category"]').forEach(categoryTd => {
-    categoryValues.add(categoryTd.textContent);
+    categoryValues.add(categoryTd.textContent.trim());
+    console.log(categoryValues)
 });
+
 categoryValues.forEach(category => {
     const option = document.createElement('option');
     option.value = category;
@@ -145,7 +147,7 @@ categoryValues.forEach(category => {
 
 // Populate the select element with unique categories
 document.querySelectorAll('td[headers="category"]').forEach(categoryTd => {
-  stickyCategoryValues.add(categoryTd.textContent);
+  stickyCategoryValues.add(categoryTd.textContent.trim());
 });
 stickyCategoryValues.forEach(category => {
   const option = document.createElement('option');
@@ -159,18 +161,15 @@ function getStoredCategoryValue() {
   let storedCategoryValue = localStorage.getItem("categoryValue");
   
   if (storedCategoryValue) {
-    storedCategoryValue = storedCategoryValue.trim()
+    // storedCategoryValue = storedCategoryValue.trim()
+    console.log(storedCategoryValue)
     $('#category-select').val(storedCategoryValue);
     $('#sticky-category-select').val(storedCategoryValue);
     
     document.querySelectorAll('tbody tr').forEach(row => {
-      console.log(row.querySelector('td[headers="category"]').textContent)
-      // console.log(storedCategoryValue)
       if (storedCategoryValue === 'all' || row.querySelector('td[headers="category"]').textContent.trim() === storedCategoryValue) {
-          // console.log(storedCategoryValue)
           row.style.display = '';
-      } else {
-          
+      } else {   
           row.style.display = 'none';
       }
     });
@@ -182,9 +181,9 @@ getStoredCategoryValue()
 
 categorySelect.addEventListener('change', () => {
     const selectedCategory = categorySelect.value;
-    // console.log(selectedCategory)
+    
     document.querySelectorAll('tbody tr').forEach(row => {
-        if (selectedCategory === 'all' || row.querySelector('td[headers="category"]').textContent === selectedCategory) {
+        if (selectedCategory === 'all' || row.querySelector('td[headers="category"]').textContent.trim() === selectedCategory) {
             row.style.display = '';
         } else {
             row.style.display = 'none';
@@ -192,7 +191,7 @@ categorySelect.addEventListener('change', () => {
     });
 
     localStorage.setItem("categoryValue", selectedCategory);
-    // console.log(selectedCategory)
+  
     //clear the value of the runner search input field
     document.getElementById('search-input').value = '';
     document.getElementById('sticky-search-input').value = '';
@@ -202,7 +201,7 @@ categorySelect.addEventListener('change', () => {
 stickyCategorySelect.addEventListener('change', () => {
   const selectedCategory = stickyCategorySelect.value;
   document.querySelectorAll('tbody tr').forEach(row => {
-      if (selectedCategory === 'all' || row.querySelector('td[headers="category"]').textContent === selectedCategory) {
+      if (selectedCategory === 'all' || row.querySelector('td[headers="category"]').textContent.trim() === selectedCategory) {
           row.style.display = '';
       } else {
           row.style.display = 'none';
