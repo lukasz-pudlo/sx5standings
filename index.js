@@ -229,6 +229,30 @@ app.get('/results/5', (req, res) => {
   })
 });
 
+app.get('/results/6', (req, res) => {
+  fs.readFile('results/finalstandings.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const finalstandings = JSON.parse(jsonString)
+
+          finalstandings.sort((a, b) => {
+            if (a.points !== b.points) {
+              return a.points - b.points;
+            } else {
+              return a.generalPosition - b.generalPosition;
+            }
+          });
+          
+          res.render('results', {currentGeneralClassification: finalstandings, race: "Queen's Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
+});
+
 // Race results views
 
 app.get('/kings', (req, res) => {
@@ -350,6 +374,31 @@ app.get('/bellahouston', (req, res) => {
           });
           
           res.render('raceResults', {currentRace: bellahoustonResults, race: "Bellahouston Park"});
+      } catch(err) {
+          console.log('Error parsing JSON string:', err)
+      }
+  })
+});
+
+app.get('/queens', (req, res) => {
+  fs.readFile('results/queens.json', 'utf8', (err, jsonString) => {
+      if (err) {
+          console.log("Error reading file from disk:", err)
+          return
+      }
+      try {
+          const queensResults = JSON.parse(jsonString)
+
+          queensResults.sort((a, b) => {
+            // if (a.generalPosition !== b.generalPosition) {
+            //   return a.generalPosition - b.generalPosition;
+            // } else {
+            //   return a.position - b.position;
+            // }
+            return a.position - b.position;
+          });
+          
+          res.render('raceResults', {currentRace: queensResults, race: "Queen's Park"});
       } catch(err) {
           console.log('Error parsing JSON string:', err)
       }

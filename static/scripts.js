@@ -64,7 +64,8 @@ const smallLinkMap = {
   "/linn": "/results/2",
   "/rouken": "/results/3",
   "/pollok": "/results/4",
-  "/bellahouston": "/results/5"
+  "/bellahouston": "/results/5",
+  "/queens": "/results/6"
 };
 
 const raceLinkMap = {
@@ -72,7 +73,8 @@ const raceLinkMap = {
   "/results/2": "/linn",
   "/results/3": "/rouken",
   "/results/4": "/pollok",
-  "/results/5": "/bellahouston"
+  "/results/5": "/bellahouston",
+  "/results/6": "/queens"
 }
 
 // Make li elements clickable links

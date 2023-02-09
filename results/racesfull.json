@@ -1,0 +1,8144 @@
+[{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad5390"
+  },
+  "results": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad5321"
+  },
+  "results": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad53fd"
+  },
+  "results": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad5454"
+  },
+  "results": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad54c4"
+  },
+  "results": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad552a"
+  },
+  "results": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad52b3"
+  },
+  "name": "Kx5.xlsx",
+  "results": [
+    {
+      "runner": "Kieran Cooper",
+      "gender": "M",
+      "cat": "MS",
+      "position": 1,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 587,
+      "result": "00:16:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52b4"
+      }
+    },
+    {
+      "runner": "Grant Jeans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 2,
+      "generalPosition": 2,
+      "categoryPosition": 2,
+      "number": 652,
+      "result": "00:17:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52b5"
+      }
+    },
+    {
+      "runner": "David Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 3,
+      "generalPosition": 3,
+      "categoryPosition": 3,
+      "number": 624,
+      "result": "00:17:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52b6"
+      }
+    },
+    {
+      "runner": "Chris Upson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 4,
+      "generalPosition": 4,
+      "categoryPosition": 1,
+      "number": 549,
+      "result": "00:18:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52b7"
+      }
+    },
+    {
+      "runner": "Callum Wallace",
+      "gender": "M",
+      "cat": "MS",
+      "position": 5,
+      "generalPosition": 5,
+      "categoryPosition": 4,
+      "number": 577,
+      "result": "00:18:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52b8"
+      }
+    },
+    {
+      "runner": "Richard Cooper",
+      "gender": "M",
+      "cat": "M50",
+      "position": 6,
+      "generalPosition": 6,
+      "categoryPosition": 2,
+      "number": 586,
+      "result": "00:18:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52b9"
+      }
+    },
+    {
+      "runner": "Victor Mcgregor",
+      "gender": "M",
+      "cat": "MS",
+      "position": 7,
+      "generalPosition": 7,
+      "categoryPosition": 5,
+      "number": 551,
+      "result": "00:19:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ba"
+      }
+    },
+    {
+      "runner": "Lukasz Pudlo",
+      "gender": "M",
+      "cat": "MS",
+      "position": 8,
+      "generalPosition": 8,
+      "categoryPosition": 6,
+      "number": 567,
+      "result": "00:19:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52bb"
+      }
+    },
+    {
+      "runner": "mark king",
+      "gender": "M",
+      "cat": "M50",
+      "position": 9,
+      "generalPosition": 9,
+      "categoryPosition": 3,
+      "number": 569,
+      "result": "00:19:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52bc"
+      }
+    },
+    {
+      "runner": "Stephen Lyons",
+      "gender": "M",
+      "cat": "MS",
+      "position": 10,
+      "generalPosition": 10,
+      "categoryPosition": 7,
+      "number": 657,
+      "result": "00:19:22",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52bd"
+      }
+    },
+    {
+      "runner": "Eddie Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 11,
+      "generalPosition": 11,
+      "categoryPosition": 1,
+      "number": 585,
+      "result": "00:19:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52be"
+      }
+    },
+    {
+      "runner": "Mark McCormack",
+      "gender": "M",
+      "cat": "MS",
+      "position": 12,
+      "generalPosition": 12,
+      "categoryPosition": 8,
+      "number": 584,
+      "result": "00:19:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52bf"
+      }
+    },
+    {
+      "runner": "Stephen Grant",
+      "gender": "M",
+      "cat": "M40",
+      "position": 13,
+      "generalPosition": 13,
+      "categoryPosition": 2,
+      "number": 616,
+      "result": "00:19:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c0"
+      }
+    },
+    {
+      "runner": "Daniel Burns",
+      "gender": "M",
+      "cat": "MS",
+      "position": 14,
+      "generalPosition": 14,
+      "categoryPosition": 9,
+      "number": 635,
+      "result": "00:20:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c1"
+      }
+    },
+    {
+      "runner": "Jenny Brown",
+      "gender": "F",
+      "cat": "F40",
+      "position": 15,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 598,
+      "result": "00:20:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c2"
+      }
+    },
+    {
+      "runner": "Hannah Bayes",
+      "gender": "F",
+      "cat": "F40",
+      "position": 16,
+      "generalPosition": 2,
+      "categoryPosition": 2,
+      "number": 611,
+      "result": "00:20:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c3"
+      }
+    },
+    {
+      "runner": "Aaron McCrone",
+      "gender": "M",
+      "cat": "MS",
+      "position": 17,
+      "generalPosition": 15,
+      "categoryPosition": 10,
+      "number": 641,
+      "result": "00:21:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c4"
+      }
+    },
+    {
+      "runner": "Matthew M Hinton",
+      "gender": "M",
+      "cat": "MS",
+      "position": 18,
+      "generalPosition": 16,
+      "categoryPosition": 11,
+      "number": 595,
+      "result": "00:21:13",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c5"
+      }
+    },
+    {
+      "runner": "Scott Mcleod",
+      "gender": "M",
+      "cat": "M40",
+      "position": 19,
+      "generalPosition": 17,
+      "categoryPosition": 3,
+      "number": 654,
+      "result": "00:21:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c6"
+      }
+    },
+    {
+      "runner": "Jonathan Henderson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 20,
+      "generalPosition": 18,
+      "categoryPosition": 4,
+      "number": 556,
+      "result": "00:21:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c7"
+      }
+    },
+    {
+      "runner": "Elaine Somerville",
+      "gender": "F",
+      "cat": "F40",
+      "position": 21,
+      "generalPosition": 3,
+      "categoryPosition": 3,
+      "number": 559,
+      "result": "00:22:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c8"
+      }
+    },
+    {
+      "runner": "Craig Brown",
+      "gender": "M",
+      "cat": "M50",
+      "position": 22,
+      "generalPosition": 19,
+      "categoryPosition": 4,
+      "number": 555,
+      "result": "00:22:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52c9"
+      }
+    },
+    {
+      "runner": "Alistair Stenhouse",
+      "gender": "M",
+      "cat": "M50",
+      "position": 23,
+      "generalPosition": 20,
+      "categoryPosition": 5,
+      "number": 560,
+      "result": "00:22:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ca"
+      }
+    },
+    {
+      "runner": "Janis Mcarthur",
+      "gender": "F",
+      "cat": "FS",
+      "position": 24,
+      "generalPosition": 4,
+      "categoryPosition": 1,
+      "number": 625,
+      "result": "00:22:13",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52cb"
+      }
+    },
+    {
+      "runner": "Allan Mann",
+      "gender": "M",
+      "cat": "MS",
+      "position": 25,
+      "generalPosition": 21,
+      "categoryPosition": 12,
+      "number": 642,
+      "result": "00:22:13",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52cc"
+      }
+    },
+    {
+      "runner": "Jamie Wieland",
+      "gender": "M",
+      "cat": "MS",
+      "position": 26,
+      "generalPosition": 22,
+      "categoryPosition": 13,
+      "number": 571,
+      "result": "00:22:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52cd"
+      }
+    },
+    {
+      "runner": "Laura Lennon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 27,
+      "generalPosition": 5,
+      "categoryPosition": 2,
+      "number": 656,
+      "result": "00:22:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ce"
+      }
+    },
+    {
+      "runner": "Kenneth Taylor",
+      "gender": "M",
+      "cat": "M40",
+      "position": 28,
+      "generalPosition": 23,
+      "categoryPosition": 5,
+      "number": 655,
+      "result": "00:22:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52cf"
+      }
+    },
+    {
+      "runner": "Julie Atkinson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 29,
+      "generalPosition": 6,
+      "categoryPosition": 4,
+      "number": 574,
+      "result": "00:22:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d0"
+      }
+    },
+    {
+      "runner": "James Speakman",
+      "gender": "M",
+      "cat": "M50",
+      "position": 30,
+      "generalPosition": 24,
+      "categoryPosition": 6,
+      "number": 620,
+      "result": "00:22:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d1"
+      }
+    },
+    {
+      "runner": "Gordon McLarnon",
+      "gender": "M",
+      "cat": "MS",
+      "position": 31,
+      "generalPosition": 25,
+      "categoryPosition": 14,
+      "number": 644,
+      "result": "00:23:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d2"
+      }
+    },
+    {
+      "runner": "Steven Gilligan",
+      "gender": "M",
+      "cat": "M40",
+      "position": 32,
+      "generalPosition": 26,
+      "categoryPosition": 6,
+      "number": 591,
+      "result": "00:23:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d3"
+      }
+    },
+    {
+      "runner": "Laura Wallace",
+      "gender": "F",
+      "cat": "F40",
+      "position": 33,
+      "generalPosition": 7,
+      "categoryPosition": 5,
+      "number": 604,
+      "result": "00:23:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d4"
+      }
+    },
+    {
+      "runner": "David Sawyer",
+      "gender": "M",
+      "cat": "M50",
+      "position": 34,
+      "generalPosition": 27,
+      "categoryPosition": 7,
+      "number": 651,
+      "result": "00:23:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d5"
+      }
+    },
+    {
+      "runner": "Roberta Fletcher",
+      "gender": "F",
+      "cat": "FS",
+      "position": 35,
+      "generalPosition": 8,
+      "categoryPosition": 3,
+      "number": 561,
+      "result": "00:23:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d6"
+      }
+    },
+    {
+      "runner": "James Chesnet",
+      "gender": "M",
+      "cat": "M50",
+      "position": 36,
+      "generalPosition": 28,
+      "categoryPosition": 8,
+      "number": 601,
+      "result": "00:23:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d7"
+      }
+    },
+    {
+      "runner": "Mark McDonald",
+      "gender": "M",
+      "cat": "MS",
+      "position": 37,
+      "generalPosition": 29,
+      "categoryPosition": 15,
+      "number": 608,
+      "result": "00:23:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d8"
+      }
+    },
+    {
+      "runner": "Ged Lawrenson",
+      "gender": "M",
+      "cat": "MS",
+      "position": 38,
+      "generalPosition": 30,
+      "categoryPosition": 16,
+      "number": 643,
+      "result": "00:23:35",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52d9"
+      }
+    },
+    {
+      "runner": "Sheila Murray",
+      "gender": "F",
+      "cat": "F40",
+      "position": 39,
+      "generalPosition": 9,
+      "categoryPosition": 6,
+      "number": 599,
+      "result": "00:23:36",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52da"
+      }
+    },
+    {
+      "runner": "Andrew Howie",
+      "gender": "M",
+      "cat": "M40",
+      "position": 40,
+      "generalPosition": 31,
+      "categoryPosition": 7,
+      "number": 596,
+      "result": "00:23:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52db"
+      }
+    },
+    {
+      "runner": "Craig Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 41,
+      "generalPosition": 32,
+      "categoryPosition": 17,
+      "number": 626,
+      "result": "00:23:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52dc"
+      }
+    },
+    {
+      "runner": "Simon Parkinson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 42,
+      "generalPosition": 33,
+      "categoryPosition": 9,
+      "number": 565,
+      "result": "00:23:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52dd"
+      }
+    },
+    {
+      "runner": "Edward Guccione",
+      "gender": "M",
+      "cat": "M40",
+      "position": 43,
+      "generalPosition": 34,
+      "categoryPosition": 8,
+      "number": 579,
+      "result": "00:23:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52de"
+      }
+    },
+    {
+      "runner": "Maria Hunter",
+      "gender": "F",
+      "cat": "F50",
+      "position": 45,
+      "generalPosition": 10,
+      "categoryPosition": 1,
+      "number": 617,
+      "result": "00:23:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52df"
+      }
+    },
+    {
+      "runner": "Ciaran McEachen",
+      "gender": "M",
+      "cat": "MS",
+      "position": 44,
+      "generalPosition": 35,
+      "categoryPosition": 18,
+      "number": 607,
+      "result": "00:23:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e0"
+      }
+    },
+    {
+      "runner": "Joanne Walker",
+      "gender": "F",
+      "cat": "F40",
+      "position": 46,
+      "generalPosition": 11,
+      "categoryPosition": 7,
+      "number": 573,
+      "result": "00:24:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e1"
+      }
+    },
+    {
+      "runner": "Gareth Brooks",
+      "gender": "M",
+      "cat": "MS",
+      "position": 47,
+      "generalPosition": 36,
+      "categoryPosition": 19,
+      "number": 592,
+      "result": "00:24:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e2"
+      }
+    },
+    {
+      "runner": "David Kelly",
+      "gender": "M",
+      "cat": "MS",
+      "position": 48,
+      "generalPosition": 37,
+      "categoryPosition": 20,
+      "number": 627,
+      "result": "00:24:25",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e3"
+      }
+    },
+    {
+      "runner": "mark Bailkoski",
+      "gender": "M",
+      "cat": "M50",
+      "position": 49,
+      "generalPosition": 38,
+      "categoryPosition": 10,
+      "number": 562,
+      "result": "00:24:34",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e4"
+      }
+    },
+    {
+      "runner": "Graham Marshall",
+      "gender": "M",
+      "cat": "M40",
+      "position": 50,
+      "generalPosition": 39,
+      "categoryPosition": 9,
+      "number": 605,
+      "result": "00:24:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e5"
+      }
+    },
+    {
+      "runner": "Isobel McFarlane",
+      "gender": "F",
+      "cat": "F50",
+      "position": 51,
+      "generalPosition": 12,
+      "categoryPosition": 2,
+      "number": 619,
+      "result": "00:24:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e6"
+      }
+    },
+    {
+      "runner": "Kay Guccione",
+      "gender": "F",
+      "cat": "F40",
+      "position": 52,
+      "generalPosition": 13,
+      "categoryPosition": 8,
+      "number": 578,
+      "result": "00:25:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e7"
+      }
+    },
+    {
+      "runner": "Annibale Coia",
+      "gender": "M",
+      "cat": "M60",
+      "position": 53,
+      "generalPosition": 40,
+      "categoryPosition": 1,
+      "number": 553,
+      "result": "00:25:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e8"
+      }
+    },
+    {
+      "runner": "Angus Robinson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 54,
+      "generalPosition": 41,
+      "categoryPosition": 11,
+      "number": 612,
+      "result": "00:25:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52e9"
+      }
+    },
+    {
+      "runner": "Wendy Russell",
+      "gender": "F",
+      "cat": "F60",
+      "position": 55,
+      "generalPosition": 14,
+      "categoryPosition": 1,
+      "number": 554,
+      "result": "00:25:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ea"
+      }
+    },
+    {
+      "runner": "CÃ©dric Moreau",
+      "gender": "M",
+      "cat": "M50",
+      "position": 56,
+      "generalPosition": 42,
+      "categoryPosition": 12,
+      "number": 615,
+      "result": "00:25:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52eb"
+      }
+    },
+    {
+      "runner": "Emma Bowden",
+      "gender": "F",
+      "cat": "FS",
+      "position": 57,
+      "generalPosition": 15,
+      "categoryPosition": 4,
+      "number": 613,
+      "result": "00:25:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ec"
+      }
+    },
+    {
+      "runner": "Derek Millar",
+      "gender": "M",
+      "cat": "M50",
+      "position": 58,
+      "generalPosition": 43,
+      "categoryPosition": 13,
+      "number": 548,
+      "result": "00:26:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ed"
+      }
+    },
+    {
+      "runner": "Arthur O'Brien",
+      "gender": "M",
+      "cat": "M50",
+      "position": 59,
+      "generalPosition": 44,
+      "categoryPosition": 14,
+      "number": 575,
+      "result": "00:26:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ee"
+      }
+    },
+    {
+      "runner": "Stuart Macdonald",
+      "gender": "M",
+      "cat": "M50",
+      "position": 60,
+      "generalPosition": 45,
+      "categoryPosition": 15,
+      "number": 636,
+      "result": "00:26:16",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ef"
+      }
+    },
+    {
+      "runner": "Catherine Lynn Macnaughton",
+      "gender": "F",
+      "cat": "F40",
+      "position": 61,
+      "generalPosition": 16,
+      "categoryPosition": 9,
+      "number": 637,
+      "result": "00:26:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f0"
+      }
+    },
+    {
+      "runner": "Lyndsay Kerrigan",
+      "gender": "F",
+      "cat": "FS",
+      "position": 62,
+      "generalPosition": 17,
+      "categoryPosition": 5,
+      "number": 634,
+      "result": "00:26:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f1"
+      }
+    },
+    {
+      "runner": "Maureen Campbell",
+      "gender": "F",
+      "cat": "F50",
+      "position": 63,
+      "generalPosition": 18,
+      "categoryPosition": 3,
+      "number": 632,
+      "result": "00:26:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f2"
+      }
+    },
+    {
+      "runner": "Stephanie Rudd",
+      "gender": "F",
+      "cat": "F50",
+      "position": 64,
+      "generalPosition": 19,
+      "categoryPosition": 4,
+      "number": 639,
+      "result": "00:26:25",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f3"
+      }
+    },
+    {
+      "runner": "Graeme Gilkes",
+      "gender": "M",
+      "cat": "M50",
+      "position": 65,
+      "generalPosition": 46,
+      "categoryPosition": 16,
+      "number": 633,
+      "result": "00:26:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f4"
+      }
+    },
+    {
+      "runner": "Stuart Weatherley",
+      "gender": "M",
+      "cat": "M40",
+      "position": 66,
+      "generalPosition": 47,
+      "categoryPosition": 10,
+      "number": 597,
+      "result": "00:26:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f5"
+      }
+    },
+    {
+      "runner": "Garry Smith",
+      "gender": "M",
+      "cat": "M40",
+      "position": 67,
+      "generalPosition": 48,
+      "categoryPosition": 11,
+      "number": 570,
+      "result": "00:26:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f6"
+      }
+    },
+    {
+      "runner": "Peter Meehan",
+      "gender": "M",
+      "cat": "MS",
+      "position": 68,
+      "generalPosition": 49,
+      "categoryPosition": 21,
+      "number": 572,
+      "result": "00:26:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f7"
+      }
+    },
+    {
+      "runner": "Aileen Coulter",
+      "gender": "F",
+      "cat": "F50",
+      "position": 69,
+      "generalPosition": 20,
+      "categoryPosition": 5,
+      "number": 593,
+      "result": "00:26:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f8"
+      }
+    },
+    {
+      "runner": "John Sandbach",
+      "gender": "M",
+      "cat": "M50",
+      "position": 70,
+      "generalPosition": 50,
+      "categoryPosition": 17,
+      "number": 594,
+      "result": "00:26:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52f9"
+      }
+    },
+    {
+      "runner": "Kirstin Campbell",
+      "gender": "F",
+      "cat": "FS",
+      "position": 71,
+      "generalPosition": 21,
+      "categoryPosition": 6,
+      "number": 590,
+      "result": "00:26:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52fa"
+      }
+    },
+    {
+      "runner": "Michael McNamara",
+      "gender": "M",
+      "cat": "M50",
+      "position": 72,
+      "generalPosition": 51,
+      "categoryPosition": 18,
+      "number": 638,
+      "result": "00:26:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52fb"
+      }
+    },
+    {
+      "runner": "Lucy Addison",
+      "gender": "F",
+      "cat": "F50",
+      "position": 73,
+      "generalPosition": 22,
+      "categoryPosition": 6,
+      "number": 614,
+      "result": "00:26:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52fc"
+      }
+    },
+    {
+      "runner": "Nathalie Smith",
+      "gender": "F",
+      "cat": "F40",
+      "position": 74,
+      "generalPosition": 23,
+      "categoryPosition": 10,
+      "number": 582,
+      "result": "00:27:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52fd"
+      }
+    },
+    {
+      "runner": "Steven Smith",
+      "gender": "M",
+      "cat": "M50",
+      "position": 75,
+      "generalPosition": 52,
+      "categoryPosition": 19,
+      "number": 583,
+      "result": "00:27:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52fe"
+      }
+    },
+    {
+      "runner": "Lesley McKerral",
+      "gender": "F",
+      "cat": "F50",
+      "position": 76,
+      "generalPosition": 24,
+      "categoryPosition": 7,
+      "number": 557,
+      "result": "00:27:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad52ff"
+      }
+    },
+    {
+      "runner": "Kristin Sauer",
+      "gender": "F",
+      "cat": "F40",
+      "position": 77,
+      "generalPosition": 25,
+      "categoryPosition": 11,
+      "number": 610,
+      "result": "00:27:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5300"
+      }
+    },
+    {
+      "runner": "Gillian Irvine",
+      "gender": "F",
+      "cat": "F50",
+      "position": 78,
+      "generalPosition": 26,
+      "categoryPosition": 8,
+      "number": 646,
+      "result": "00:28:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5301"
+      }
+    },
+    {
+      "runner": "Lynne Coia",
+      "gender": "F",
+      "cat": "F50",
+      "position": 79,
+      "generalPosition": 27,
+      "categoryPosition": 9,
+      "number": 552,
+      "result": "00:28:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5302"
+      }
+    },
+    {
+      "runner": "Stuart Reid",
+      "gender": "M",
+      "cat": "M40",
+      "position": 80,
+      "generalPosition": 53,
+      "categoryPosition": 12,
+      "number": 629,
+      "result": "00:28:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5303"
+      }
+    },
+    {
+      "runner": "Wendy Morcos",
+      "gender": "F",
+      "cat": "F60",
+      "position": 81,
+      "generalPosition": 28,
+      "categoryPosition": 2,
+      "number": 564,
+      "result": "00:28:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5304"
+      }
+    },
+    {
+      "runner": "Lynn Reid",
+      "gender": "F",
+      "cat": "F50",
+      "position": 82,
+      "generalPosition": 29,
+      "categoryPosition": 10,
+      "number": 568,
+      "result": "00:28:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5305"
+      }
+    },
+    {
+      "runner": "Stuart Whittaker",
+      "gender": "M",
+      "cat": "M50",
+      "position": 83,
+      "generalPosition": 54,
+      "categoryPosition": 20,
+      "number": 621,
+      "result": "00:28:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5306"
+      }
+    },
+    {
+      "runner": "Kirsty Davidson",
+      "gender": "F",
+      "cat": "FS",
+      "position": 84,
+      "generalPosition": 30,
+      "categoryPosition": 7,
+      "number": 609,
+      "result": "00:29:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5307"
+      }
+    },
+    {
+      "runner": "Ole Pahl",
+      "gender": "M",
+      "cat": "M50",
+      "position": 85,
+      "generalPosition": 55,
+      "categoryPosition": 21,
+      "number": 600,
+      "result": "00:29:03",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5308"
+      }
+    },
+    {
+      "runner": "Melissa Williams",
+      "gender": "F",
+      "cat": "FS",
+      "position": 86,
+      "generalPosition": 31,
+      "categoryPosition": 8,
+      "number": 645,
+      "result": "00:29:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5309"
+      }
+    },
+    {
+      "runner": "Alan Duff",
+      "gender": "M",
+      "cat": "M60",
+      "position": 87,
+      "generalPosition": 56,
+      "categoryPosition": 2,
+      "number": 558,
+      "result": "00:29:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad530a"
+      }
+    },
+    {
+      "runner": "Deirdre Parkinson",
+      "gender": "F",
+      "cat": "F60",
+      "position": 88,
+      "generalPosition": 32,
+      "categoryPosition": 3,
+      "number": 566,
+      "result": "00:29:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad530b"
+      }
+    },
+    {
+      "runner": "David Gemmell",
+      "gender": "M",
+      "cat": "M40",
+      "position": 89,
+      "generalPosition": 57,
+      "categoryPosition": 13,
+      "number": 576,
+      "result": "00:29:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad530c"
+      }
+    },
+    {
+      "runner": "Penny Bond",
+      "gender": "F",
+      "cat": "F50",
+      "position": 90,
+      "generalPosition": 33,
+      "categoryPosition": 11,
+      "number": 580,
+      "result": "00:30:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad530d"
+      }
+    },
+    {
+      "runner": "Sarah Renouf",
+      "gender": "F",
+      "cat": "FS",
+      "position": 91,
+      "generalPosition": 34,
+      "categoryPosition": 9,
+      "number": 647,
+      "result": "00:30:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad530e"
+      }
+    },
+    {
+      "runner": "Rob Huggett",
+      "gender": "M",
+      "cat": "MS",
+      "position": 92,
+      "generalPosition": 58,
+      "categoryPosition": 22,
+      "number": 648,
+      "result": "00:30:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad530f"
+      }
+    },
+    {
+      "runner": "Melanie Scott",
+      "gender": "F",
+      "cat": "F40",
+      "position": 93,
+      "generalPosition": 35,
+      "categoryPosition": 12,
+      "number": 640,
+      "result": "00:30:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5310"
+      }
+    },
+    {
+      "runner": "Cindy McNeill",
+      "gender": "F",
+      "cat": "F50",
+      "position": 94,
+      "generalPosition": 36,
+      "categoryPosition": 12,
+      "number": 650,
+      "result": "00:30:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5311"
+      }
+    },
+    {
+      "runner": "Claire Purdie",
+      "gender": "F",
+      "cat": "F50",
+      "position": 95,
+      "generalPosition": 37,
+      "categoryPosition": 13,
+      "number": 563,
+      "result": "00:31:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5312"
+      }
+    },
+    {
+      "runner": "Barbara Donaldson",
+      "gender": "F",
+      "cat": "F70",
+      "position": 96,
+      "generalPosition": 38,
+      "categoryPosition": 1,
+      "number": 649,
+      "result": "00:31:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5313"
+      }
+    },
+    {
+      "runner": "Nicola Barrington",
+      "gender": "F",
+      "cat": "FS",
+      "position": 97,
+      "generalPosition": 39,
+      "categoryPosition": 10,
+      "number": 628,
+      "result": "00:31:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5314"
+      }
+    },
+    {
+      "runner": "Emma main",
+      "gender": "F",
+      "cat": "F40",
+      "position": 98,
+      "generalPosition": 40,
+      "categoryPosition": 13,
+      "number": 618,
+      "result": "00:31:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5315"
+      }
+    },
+    {
+      "runner": "Pamela Clark",
+      "gender": "F",
+      "cat": "F60",
+      "position": 99,
+      "generalPosition": 41,
+      "categoryPosition": 4,
+      "number": 622,
+      "result": "00:32:03",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5316"
+      }
+    },
+    {
+      "runner": "Audrey O'Brien",
+      "gender": "M",
+      "cat": "M40",
+      "position": 100,
+      "generalPosition": 59,
+      "categoryPosition": 14,
+      "number": 653,
+      "result": "00:32:14",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5317"
+      }
+    },
+    {
+      "runner": "Jules Collins",
+      "gender": "F",
+      "cat": "F50",
+      "position": 101,
+      "generalPosition": 42,
+      "categoryPosition": 14,
+      "number": 588,
+      "result": "00:32:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5318"
+      }
+    },
+    {
+      "runner": "Victoria Tinney",
+      "gender": "F",
+      "cat": "FS",
+      "position": 102,
+      "generalPosition": 43,
+      "categoryPosition": 11,
+      "number": 606,
+      "result": "00:33:05",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5319"
+      }
+    },
+    {
+      "runner": "Anna Robinson",
+      "gender": "F",
+      "cat": "F50",
+      "position": 103,
+      "generalPosition": 44,
+      "categoryPosition": 15,
+      "number": 623,
+      "result": "00:33:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad531a"
+      }
+    },
+    {
+      "runner": "Jayne Gilkes",
+      "gender": "F",
+      "cat": "F50",
+      "position": 104,
+      "generalPosition": 45,
+      "categoryPosition": 16,
+      "number": 631,
+      "result": "00:33:35",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad531b"
+      }
+    },
+    {
+      "runner": "Amy Gray",
+      "gender": "F",
+      "cat": "FS",
+      "position": 105,
+      "generalPosition": 46,
+      "categoryPosition": 12,
+      "number": 602,
+      "result": "00:34:34",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad531c"
+      }
+    },
+    {
+      "runner": "Colin Gray",
+      "gender": "M",
+      "cat": "M50",
+      "position": 106,
+      "generalPosition": 60,
+      "categoryPosition": 22,
+      "number": 603,
+      "result": "00:34:36",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad531d"
+      }
+    },
+    {
+      "runner": "Duncan Bond",
+      "gender": "M",
+      "cat": "M",
+      "position": 107,
+      "generalPosition": 61,
+      "number": 581,
+      "result": "00:36:06",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad531e"
+      }
+    },
+    {
+      "runner": "Kathleen McGee",
+      "gender": "F",
+      "cat": "F40",
+      "position": 108,
+      "generalPosition": 47,
+      "categoryPosition": 14,
+      "number": 589,
+      "result": "00:36:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad531f"
+      }
+    },
+    {
+      "runner": "Shona McCormack",
+      "gender": "F",
+      "cat": "F50",
+      "position": 109,
+      "generalPosition": 48,
+      "categoryPosition": 17,
+      "number": 550,
+      "result": "00:38:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5320"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad5322"
+  },
+  "name": "Lx5.xlsx",
+  "results": [
+    {
+      "runner": "David Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 1,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 624,
+      "result": "00:19:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5323"
+      }
+    },
+    {
+      "runner": "Grant Jeans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 2,
+      "generalPosition": 2,
+      "categoryPosition": 2,
+      "number": 652,
+      "result": "00:20:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5324"
+      }
+    },
+    {
+      "runner": "Richard Cooper",
+      "gender": "M",
+      "cat": "M50",
+      "position": 3,
+      "generalPosition": 3,
+      "categoryPosition": 1,
+      "number": 586,
+      "result": "00:20:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5325"
+      }
+    },
+    {
+      "runner": "Chris Upson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 4,
+      "generalPosition": 4,
+      "categoryPosition": 2,
+      "number": 549,
+      "result": "00:20:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5326"
+      }
+    },
+    {
+      "runner": "Lukasz Pudlo",
+      "gender": "M",
+      "cat": "MS",
+      "position": 5,
+      "generalPosition": 5,
+      "categoryPosition": 3,
+      "number": 567,
+      "result": "00:21:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5327"
+      }
+    },
+    {
+      "runner": "Ryan Macready",
+      "gender": "M",
+      "cat": "MS",
+      "position": 6,
+      "generalPosition": 6,
+      "categoryPosition": 4,
+      "number": 674,
+      "result": "00:21:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5328"
+      }
+    },
+    {
+      "runner": "Victor Mcgregor",
+      "gender": "M",
+      "cat": "MS",
+      "position": 7,
+      "generalPosition": 7,
+      "categoryPosition": 5,
+      "number": 551,
+      "result": "00:21:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5329"
+      }
+    },
+    {
+      "runner": "Eddie Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 8,
+      "generalPosition": 8,
+      "categoryPosition": 1,
+      "number": 585,
+      "result": "00:22:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad532a"
+      }
+    },
+    {
+      "runner": "Stephen Lyons",
+      "gender": "M",
+      "cat": "MS",
+      "position": 9,
+      "generalPosition": 9,
+      "categoryPosition": 6,
+      "number": 657,
+      "result": "00:22:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad532b"
+      }
+    },
+    {
+      "runner": "colin wylie",
+      "gender": "M",
+      "cat": "M50",
+      "position": 10,
+      "generalPosition": 10,
+      "categoryPosition": 3,
+      "number": 660,
+      "result": "00:22:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad532c"
+      }
+    },
+    {
+      "runner": "Duncan Boyd",
+      "gender": "M",
+      "cat": "M50",
+      "position": 11,
+      "generalPosition": 11,
+      "categoryPosition": 4,
+      "number": 671,
+      "result": "00:22:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad532d"
+      }
+    },
+    {
+      "runner": "DAVID RIACH",
+      "gender": "M",
+      "cat": "M50",
+      "position": 12,
+      "generalPosition": 12,
+      "categoryPosition": 5,
+      "number": 668,
+      "result": "00:22:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad532e"
+      }
+    },
+    {
+      "runner": "Mark McCormack",
+      "gender": "M",
+      "cat": "MS",
+      "position": 13,
+      "generalPosition": 13,
+      "categoryPosition": 7,
+      "number": 584,
+      "result": "00:23:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad532f"
+      }
+    },
+    {
+      "runner": "Daniel Burns",
+      "gender": "M",
+      "cat": "MS",
+      "position": 14,
+      "generalPosition": 14,
+      "categoryPosition": 8,
+      "number": 635,
+      "result": "00:23:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5330"
+      }
+    },
+    {
+      "runner": "Richard Stark",
+      "gender": "M",
+      "cat": "M60",
+      "position": 15,
+      "generalPosition": 15,
+      "categoryPosition": 1,
+      "number": 661,
+      "result": "00:23:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5331"
+      }
+    },
+    {
+      "runner": "Jenny Brown",
+      "gender": "F",
+      "cat": "F40",
+      "position": 16,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 598,
+      "result": "00:23:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5332"
+      }
+    },
+    {
+      "runner": "Richard McKean",
+      "gender": "M",
+      "cat": "M40",
+      "position": 17,
+      "generalPosition": 16,
+      "categoryPosition": 2,
+      "number": 689,
+      "result": "00:23:52",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5333"
+      }
+    },
+    {
+      "runner": "Greig Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 18,
+      "generalPosition": 17,
+      "categoryPosition": 3,
+      "number": 682,
+      "result": "00:24:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5334"
+      }
+    },
+    {
+      "runner": "Philip Knight",
+      "gender": "M",
+      "cat": "M50",
+      "position": 19,
+      "generalPosition": 18,
+      "categoryPosition": 6,
+      "number": 673,
+      "result": "00:24:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5335"
+      }
+    },
+    {
+      "runner": "Edward Guccione",
+      "gender": "M",
+      "cat": "M40",
+      "position": 20,
+      "generalPosition": 19,
+      "categoryPosition": 4,
+      "number": 579,
+      "result": "00:24:36",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5336"
+      }
+    },
+    {
+      "runner": "Hugh Brown",
+      "gender": "M",
+      "cat": "M50",
+      "position": 21,
+      "generalPosition": 20,
+      "categoryPosition": 7,
+      "number": 683,
+      "result": "00:24:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5337"
+      }
+    },
+    {
+      "runner": "Steven Glasgow",
+      "gender": "M",
+      "cat": "MS",
+      "position": 22,
+      "generalPosition": 21,
+      "categoryPosition": 9,
+      "number": 664,
+      "result": "00:24:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5338"
+      }
+    },
+    {
+      "runner": "Alan Main",
+      "gender": "M",
+      "cat": "MS",
+      "position": 23,
+      "generalPosition": 22,
+      "categoryPosition": 10,
+      "number": 687,
+      "result": "00:24:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5339"
+      }
+    },
+    {
+      "runner": "Janis Mcarthur",
+      "gender": "F",
+      "cat": "FS",
+      "position": 24,
+      "generalPosition": 2,
+      "categoryPosition": 1,
+      "number": 625,
+      "result": "00:24:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad533a"
+      }
+    },
+    {
+      "runner": "Laura Wallace",
+      "gender": "F",
+      "cat": "F40",
+      "position": 25,
+      "generalPosition": 3,
+      "categoryPosition": 2,
+      "number": 604,
+      "result": "00:24:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad533b"
+      }
+    },
+    {
+      "runner": "Allan Mann",
+      "gender": "M",
+      "cat": "MS",
+      "position": 26,
+      "generalPosition": 23,
+      "categoryPosition": 11,
+      "number": 642,
+      "result": "00:25:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad533c"
+      }
+    },
+    {
+      "runner": "Aaron McCrone",
+      "gender": "M",
+      "cat": "MS",
+      "position": 27,
+      "generalPosition": 24,
+      "categoryPosition": 12,
+      "number": 641,
+      "result": "00:25:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad533d"
+      }
+    },
+    {
+      "runner": "Gordon McLarnon",
+      "gender": "M",
+      "cat": "MS",
+      "position": 28,
+      "generalPosition": 25,
+      "categoryPosition": 13,
+      "number": 644,
+      "result": "00:25:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad533e"
+      }
+    },
+    {
+      "runner": "Kenneth Taylor",
+      "gender": "M",
+      "cat": "M40",
+      "position": 29,
+      "generalPosition": 26,
+      "categoryPosition": 5,
+      "number": 655,
+      "result": "00:25:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad533f"
+      }
+    },
+    {
+      "runner": "James Speakman",
+      "gender": "M",
+      "cat": "M50",
+      "position": 30,
+      "generalPosition": 27,
+      "categoryPosition": 8,
+      "number": 620,
+      "result": "00:25:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5340"
+      }
+    },
+    {
+      "runner": "Jamie Wieland",
+      "gender": "M",
+      "cat": "MS",
+      "position": 31,
+      "generalPosition": 28,
+      "categoryPosition": 14,
+      "number": 571,
+      "result": "00:26:06",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5341"
+      }
+    },
+    {
+      "runner": "James Chesnet",
+      "gender": "M",
+      "cat": "M50",
+      "position": 32,
+      "generalPosition": 29,
+      "categoryPosition": 9,
+      "number": 601,
+      "result": "00:26:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5342"
+      }
+    },
+    {
+      "runner": "Craig Brown",
+      "gender": "M",
+      "cat": "M50",
+      "position": 33,
+      "generalPosition": 30,
+      "categoryPosition": 10,
+      "number": 555,
+      "result": "00:26:14",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5343"
+      }
+    },
+    {
+      "runner": "Laura Lennon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 34,
+      "generalPosition": 4,
+      "categoryPosition": 2,
+      "number": 656,
+      "result": "00:26:17",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5344"
+      }
+    },
+    {
+      "runner": "Roberta Fletcher",
+      "gender": "F",
+      "cat": "FS",
+      "position": 35,
+      "generalPosition": 5,
+      "categoryPosition": 3,
+      "number": 561,
+      "result": "00:26:25",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5345"
+      }
+    },
+    {
+      "runner": "Sharon O'Leary",
+      "gender": "F",
+      "cat": "F50",
+      "position": 36,
+      "generalPosition": 6,
+      "categoryPosition": 1,
+      "number": 680,
+      "result": "00:26:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5346"
+      }
+    },
+    {
+      "runner": "Craig Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 37,
+      "generalPosition": 31,
+      "categoryPosition": 15,
+      "number": 626,
+      "result": "00:26:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5347"
+      }
+    },
+    {
+      "runner": "Liam McGregor",
+      "gender": "M",
+      "cat": "M40",
+      "position": 38,
+      "generalPosition": 32,
+      "categoryPosition": 6,
+      "number": 662,
+      "result": "00:26:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5348"
+      }
+    },
+    {
+      "runner": "Steven Gilligan",
+      "gender": "M",
+      "cat": "M40",
+      "position": 39,
+      "generalPosition": 33,
+      "categoryPosition": 7,
+      "number": 591,
+      "result": "00:27:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5349"
+      }
+    },
+    {
+      "runner": "Joanne Walker",
+      "gender": "F",
+      "cat": "F40",
+      "position": 40,
+      "generalPosition": 7,
+      "categoryPosition": 3,
+      "number": 573,
+      "result": "00:27:22",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad534a"
+      }
+    },
+    {
+      "runner": "Simon Parkinson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 41,
+      "generalPosition": 34,
+      "categoryPosition": 11,
+      "number": 565,
+      "result": "00:27:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad534b"
+      }
+    },
+    {
+      "runner": "Graham Marshall",
+      "gender": "M",
+      "cat": "M40",
+      "position": 42,
+      "generalPosition": 35,
+      "categoryPosition": 8,
+      "number": 605,
+      "result": "00:27:53",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad534c"
+      }
+    },
+    {
+      "runner": "Sheila Murray",
+      "gender": "F",
+      "cat": "F40",
+      "position": 43,
+      "generalPosition": 8,
+      "categoryPosition": 4,
+      "number": 599,
+      "result": "00:27:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad534d"
+      }
+    },
+    {
+      "runner": "Andrew Howie",
+      "gender": "M",
+      "cat": "M40",
+      "position": 44,
+      "generalPosition": 36,
+      "categoryPosition": 9,
+      "number": 596,
+      "result": "00:28:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad534e"
+      }
+    },
+    {
+      "runner": "Isobel McFarlane",
+      "gender": "F",
+      "cat": "F50",
+      "position": 45,
+      "generalPosition": 9,
+      "categoryPosition": 2,
+      "number": 619,
+      "result": "00:28:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad534f"
+      }
+    },
+    {
+      "runner": "David Kelly",
+      "gender": "M",
+      "cat": "MS",
+      "position": 46,
+      "generalPosition": 37,
+      "categoryPosition": 16,
+      "number": 627,
+      "result": "00:28:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5350"
+      }
+    },
+    {
+      "runner": "Jennifer Killeen",
+      "gender": "F",
+      "cat": "FS",
+      "position": 47,
+      "generalPosition": 10,
+      "categoryPosition": 4,
+      "number": 692,
+      "result": "00:28:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5351"
+      }
+    },
+    {
+      "runner": "Annibale Coia",
+      "gender": "M",
+      "cat": "M60",
+      "position": 48,
+      "generalPosition": 38,
+      "categoryPosition": 2,
+      "number": 553,
+      "result": "00:28:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5352"
+      }
+    },
+    {
+      "runner": "CÃ©dric Moreau",
+      "gender": "M",
+      "cat": "M50",
+      "position": 49,
+      "generalPosition": 39,
+      "categoryPosition": 12,
+      "number": 615,
+      "result": "00:28:36",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5353"
+      }
+    },
+    {
+      "runner": "mark Bailkoski",
+      "gender": "M",
+      "cat": "M50",
+      "position": 50,
+      "generalPosition": 40,
+      "categoryPosition": 13,
+      "number": 562,
+      "result": "00:28:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5354"
+      }
+    },
+    {
+      "runner": "Nick McKerrell",
+      "gender": "M",
+      "cat": "M50",
+      "position": 51,
+      "generalPosition": 41,
+      "categoryPosition": 14,
+      "number": 686,
+      "result": "00:28:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5355"
+      }
+    },
+    {
+      "runner": "Kay Guccione",
+      "gender": "F",
+      "cat": "F40",
+      "position": 52,
+      "generalPosition": 11,
+      "categoryPosition": 5,
+      "number": 578,
+      "result": "00:28:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5356"
+      }
+    },
+    {
+      "runner": "Robert Doherty",
+      "gender": "M",
+      "cat": "M60",
+      "position": 53,
+      "generalPosition": 42,
+      "categoryPosition": 3,
+      "number": 663,
+      "result": "00:28:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5357"
+      }
+    },
+    {
+      "runner": "Angus Robinson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 54,
+      "generalPosition": 43,
+      "categoryPosition": 15,
+      "number": 612,
+      "result": "00:28:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5358"
+      }
+    },
+    {
+      "runner": "krystin Macmillan",
+      "gender": "F",
+      "cat": "FS",
+      "position": 55,
+      "generalPosition": 12,
+      "categoryPosition": 5,
+      "number": 688,
+      "result": "00:29:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5359"
+      }
+    },
+    {
+      "runner": "Kirsten Downie",
+      "gender": "F",
+      "cat": "FS",
+      "position": 56,
+      "generalPosition": 13,
+      "categoryPosition": 6,
+      "number": 691,
+      "result": "00:29:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad535a"
+      }
+    },
+    {
+      "runner": "Stuart Macdonald",
+      "gender": "M",
+      "cat": "M50",
+      "position": 57,
+      "generalPosition": 44,
+      "categoryPosition": 16,
+      "number": 636,
+      "result": "00:29:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad535b"
+      }
+    },
+    {
+      "runner": "Gillian Gallagher",
+      "gender": "F",
+      "cat": "F40",
+      "position": 58,
+      "generalPosition": 14,
+      "categoryPosition": 6,
+      "number": 684,
+      "result": "00:29:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad535c"
+      }
+    },
+    {
+      "runner": "Jan Boyd",
+      "gender": "F",
+      "cat": "F50",
+      "position": 59,
+      "generalPosition": 15,
+      "categoryPosition": 3,
+      "number": 670,
+      "result": "00:29:35",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad535d"
+      }
+    },
+    {
+      "runner": "Maureen Campbell",
+      "gender": "F",
+      "cat": "F50",
+      "position": 60,
+      "generalPosition": 16,
+      "categoryPosition": 4,
+      "number": 632,
+      "result": "00:29:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad535e"
+      }
+    },
+    {
+      "runner": "Gordan Gallagher",
+      "gender": "M",
+      "cat": "M50",
+      "position": 61,
+      "generalPosition": 45,
+      "categoryPosition": 17,
+      "number": 678,
+      "result": "00:29:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad535f"
+      }
+    },
+    {
+      "runner": "Arthur O'Brien",
+      "gender": "M",
+      "cat": "M50",
+      "position": 62,
+      "generalPosition": 46,
+      "categoryPosition": 18,
+      "number": 575,
+      "result": "00:29:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5360"
+      }
+    },
+    {
+      "runner": "Lindsey Shields Waters",
+      "gender": "F",
+      "cat": "F50",
+      "position": 63,
+      "generalPosition": 17,
+      "categoryPosition": 5,
+      "number": 690,
+      "result": "00:30:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5361"
+      }
+    },
+    {
+      "runner": "Fiona Roberts",
+      "gender": "F",
+      "cat": "F50",
+      "position": 64,
+      "generalPosition": 18,
+      "categoryPosition": 6,
+      "number": 679,
+      "result": "00:30:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5362"
+      }
+    },
+    {
+      "runner": "Alice Thompson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 65,
+      "generalPosition": 19,
+      "categoryPosition": 7,
+      "number": 672,
+      "result": "00:30:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5363"
+      }
+    },
+    {
+      "runner": "Aileen Coulter",
+      "gender": "F",
+      "cat": "F50",
+      "position": 66,
+      "generalPosition": 20,
+      "categoryPosition": 7,
+      "number": 677,
+      "result": "00:30:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5364"
+      }
+    },
+    {
+      "runner": "John Sandbach",
+      "gender": "M",
+      "cat": "M50",
+      "position": 67,
+      "generalPosition": 47,
+      "categoryPosition": 19,
+      "number": 676,
+      "result": "00:30:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5365"
+      }
+    },
+    {
+      "runner": "Stephanie Rudd",
+      "gender": "F",
+      "cat": "F50",
+      "position": 68,
+      "generalPosition": 21,
+      "categoryPosition": 8,
+      "number": 639,
+      "result": "00:30:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5366"
+      }
+    },
+    {
+      "runner": "Kelly Ludwig",
+      "gender": "F",
+      "cat": "F40",
+      "position": 69,
+      "generalPosition": 22,
+      "categoryPosition": 8,
+      "number": 675,
+      "result": "00:31:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5367"
+      }
+    },
+    {
+      "runner": "Penny Bond",
+      "gender": "F",
+      "cat": "F50",
+      "position": 70,
+      "generalPosition": 23,
+      "categoryPosition": 9,
+      "number": 580,
+      "result": "00:31:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5368"
+      }
+    },
+    {
+      "runner": "Derek Millar",
+      "gender": "M",
+      "cat": "M50",
+      "position": 71,
+      "generalPosition": 48,
+      "categoryPosition": 20,
+      "number": 548,
+      "result": "00:31:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5369"
+      }
+    },
+    {
+      "runner": "Stuart Weatherley",
+      "gender": "M",
+      "cat": "M40",
+      "position": 72,
+      "generalPosition": 49,
+      "categoryPosition": 10,
+      "number": 597,
+      "result": "00:31:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad536a"
+      }
+    },
+    {
+      "runner": "Lyndsay Kerrigan",
+      "gender": "F",
+      "cat": "FS",
+      "position": 73,
+      "generalPosition": 24,
+      "categoryPosition": 7,
+      "number": 634,
+      "result": "00:31:35",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad536b"
+      }
+    },
+    {
+      "runner": "Ole Pahl",
+      "gender": "M",
+      "cat": "M50",
+      "position": 74,
+      "generalPosition": 50,
+      "categoryPosition": 21,
+      "number": 600,
+      "result": "00:31:36",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad536c"
+      }
+    },
+    {
+      "runner": "Kirsty Davidson",
+      "gender": "F",
+      "cat": "FS",
+      "position": 75,
+      "generalPosition": 25,
+      "categoryPosition": 8,
+      "number": 609,
+      "result": "00:31:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad536d"
+      }
+    },
+    {
+      "runner": "Michael McNamara",
+      "gender": "M",
+      "cat": "M50",
+      "position": 76,
+      "generalPosition": 51,
+      "categoryPosition": 22,
+      "number": 638,
+      "result": "00:31:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad536e"
+      }
+    },
+    {
+      "runner": "Audrey O'Brien",
+      "gender": "M",
+      "cat": "M40",
+      "position": 77,
+      "generalPosition": 52,
+      "categoryPosition": 11,
+      "number": 653,
+      "result": "00:31:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad536f"
+      }
+    },
+    {
+      "runner": "Kirstin Campbell",
+      "gender": "F",
+      "cat": "FS",
+      "position": 78,
+      "generalPosition": 26,
+      "categoryPosition": 9,
+      "number": 590,
+      "result": "00:31:51",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5370"
+      }
+    },
+    {
+      "runner": "Emma Bowden",
+      "gender": "F",
+      "cat": "FS",
+      "position": 79,
+      "generalPosition": 27,
+      "categoryPosition": 10,
+      "number": 613,
+      "result": "00:31:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5371"
+      }
+    },
+    {
+      "runner": "Melissa Williams",
+      "gender": "F",
+      "cat": "FS",
+      "position": 80,
+      "generalPosition": 28,
+      "categoryPosition": 11,
+      "number": 645,
+      "result": "00:32:03",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5372"
+      }
+    },
+    {
+      "runner": "Lesley McKerral",
+      "gender": "F",
+      "cat": "F50",
+      "position": 81,
+      "generalPosition": 29,
+      "categoryPosition": 10,
+      "number": 557,
+      "result": "00:32:34",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5373"
+      }
+    },
+    {
+      "runner": "Stuart Reid",
+      "gender": "M",
+      "cat": "M40",
+      "position": 82,
+      "generalPosition": 53,
+      "categoryPosition": 12,
+      "number": 629,
+      "result": "00:32:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5374"
+      }
+    },
+    {
+      "runner": "Raymond Loughran",
+      "gender": "M",
+      "cat": "M60",
+      "position": 83,
+      "generalPosition": 54,
+      "categoryPosition": 4,
+      "number": 658,
+      "result": "00:32:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5375"
+      }
+    },
+    {
+      "runner": "Nathalie Smith",
+      "gender": "F",
+      "cat": "F40",
+      "position": 84,
+      "generalPosition": 30,
+      "categoryPosition": 9,
+      "number": 582,
+      "result": "00:32:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5376"
+      }
+    },
+    {
+      "runner": "Steven Smith",
+      "gender": "M",
+      "cat": "M50",
+      "position": 85,
+      "generalPosition": 55,
+      "categoryPosition": 23,
+      "number": 583,
+      "result": "00:32:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5377"
+      }
+    },
+    {
+      "runner": "Andy Taylor",
+      "gender": "M",
+      "cat": "M60",
+      "position": 86,
+      "generalPosition": 56,
+      "categoryPosition": 5,
+      "number": 669,
+      "result": "00:33:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5378"
+      }
+    },
+    {
+      "runner": "Lynn Reid",
+      "gender": "F",
+      "cat": "F50",
+      "position": 87,
+      "generalPosition": 31,
+      "categoryPosition": 11,
+      "number": 568,
+      "result": "00:33:22",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5379"
+      }
+    },
+    {
+      "runner": "Deirdre Parkinson",
+      "gender": "F",
+      "cat": "F60",
+      "position": 88,
+      "generalPosition": 32,
+      "categoryPosition": 1,
+      "number": 566,
+      "result": "00:33:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad537a"
+      }
+    },
+    {
+      "runner": "Anna Conlon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 89,
+      "generalPosition": 33,
+      "categoryPosition": 12,
+      "number": 685,
+      "result": "00:33:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad537b"
+      }
+    },
+    {
+      "runner": "Lucy Addison",
+      "gender": "F",
+      "cat": "F50",
+      "position": 90,
+      "generalPosition": 34,
+      "categoryPosition": 12,
+      "number": 614,
+      "result": "00:33:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad537c"
+      }
+    },
+    {
+      "runner": "Rob Huggett",
+      "gender": "M",
+      "cat": "MS",
+      "position": 91,
+      "generalPosition": 57,
+      "categoryPosition": 17,
+      "number": 648,
+      "result": "00:33:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad537d"
+      }
+    },
+    {
+      "runner": "Catherine Lynn Macnaughton",
+      "gender": "F",
+      "cat": "F40",
+      "position": 92,
+      "generalPosition": 35,
+      "categoryPosition": 10,
+      "number": 637,
+      "result": "00:34:06",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad537e"
+      }
+    },
+    {
+      "runner": "Paul Fletcher",
+      "gender": "M",
+      "cat": "M50",
+      "position": 93,
+      "generalPosition": 58,
+      "categoryPosition": 24,
+      "number": 659,
+      "result": "00:34:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad537f"
+      }
+    },
+    {
+      "runner": "David Gemmell",
+      "gender": "M",
+      "cat": "M40",
+      "position": 94,
+      "generalPosition": 59,
+      "categoryPosition": 13,
+      "number": 576,
+      "result": "00:34:13",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5380"
+      }
+    },
+    {
+      "runner": "Sarah Renouf",
+      "gender": "F",
+      "cat": "FS",
+      "position": 95,
+      "generalPosition": 36,
+      "categoryPosition": 13,
+      "number": 647,
+      "result": "00:34:16",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5381"
+      }
+    },
+    {
+      "runner": "Claire Purdie",
+      "gender": "F",
+      "cat": "F50",
+      "position": 96,
+      "generalPosition": 37,
+      "categoryPosition": 13,
+      "number": 563,
+      "result": "00:36:01",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5382"
+      }
+    },
+    {
+      "runner": "Pamela Clark",
+      "gender": "F",
+      "cat": "F60",
+      "position": 97,
+      "generalPosition": 38,
+      "categoryPosition": 2,
+      "number": 622,
+      "result": "00:36:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5383"
+      }
+    },
+    {
+      "runner": "David Sawyer",
+      "gender": "M",
+      "cat": "M50",
+      "position": 98,
+      "generalPosition": 60,
+      "categoryPosition": 25,
+      "number": 651,
+      "result": "00:36:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5384"
+      }
+    },
+    {
+      "runner": "Emma main",
+      "gender": "F",
+      "cat": "F40",
+      "position": 99,
+      "generalPosition": 39,
+      "categoryPosition": 11,
+      "number": 618,
+      "result": "00:36:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5385"
+      }
+    },
+    {
+      "runner": "Anna Robinson",
+      "gender": "F",
+      "cat": "F50",
+      "position": 100,
+      "generalPosition": 40,
+      "categoryPosition": 14,
+      "number": 623,
+      "result": "00:37:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5386"
+      }
+    },
+    {
+      "runner": "Nicola Barrington",
+      "gender": "F",
+      "cat": "FS",
+      "position": 101,
+      "generalPosition": 41,
+      "categoryPosition": 14,
+      "number": 628,
+      "result": "00:38:01",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5387"
+      }
+    },
+    {
+      "runner": "Catherine Mullaney",
+      "gender": "F",
+      "cat": "F60",
+      "position": 102,
+      "generalPosition": 42,
+      "categoryPosition": 3,
+      "number": 666,
+      "result": "00:40:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5388"
+      }
+    },
+    {
+      "runner": "Bridget Cox",
+      "gender": "F",
+      "cat": "F50",
+      "position": 103,
+      "generalPosition": 43,
+      "categoryPosition": 15,
+      "number": 665,
+      "result": "00:41:05",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5389"
+      }
+    },
+    {
+      "runner": "Annette McKirdy",
+      "gender": "F",
+      "cat": "F60",
+      "position": 104,
+      "generalPosition": 44,
+      "categoryPosition": 4,
+      "number": 667,
+      "result": "00:41:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad538a"
+      }
+    },
+    {
+      "runner": "Amy Gray",
+      "gender": "F",
+      "cat": "FS",
+      "position": 105,
+      "generalPosition": 45,
+      "categoryPosition": 15,
+      "number": 602,
+      "result": "00:42:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad538b"
+      }
+    },
+    {
+      "runner": "Colin Gray",
+      "gender": "M",
+      "cat": "M50",
+      "position": 106,
+      "generalPosition": 61,
+      "categoryPosition": 26,
+      "number": 603,
+      "result": "00:42:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad538c"
+      }
+    },
+    {
+      "runner": "Kathleen McGee",
+      "gender": "F",
+      "cat": "F40",
+      "position": 107,
+      "generalPosition": 46,
+      "categoryPosition": 12,
+      "number": 589,
+      "result": "00:42:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad538d"
+      }
+    },
+    {
+      "runner": "James Steel",
+      "gender": "M",
+      "cat": "M40",
+      "position": 108,
+      "generalPosition": 62,
+      "categoryPosition": 14,
+      "number": 681,
+      "result": "00:42:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad538e"
+      }
+    },
+    {
+      "runner": "Shona McCormack",
+      "gender": "F",
+      "cat": "F50",
+      "position": 109,
+      "generalPosition": 47,
+      "categoryPosition": 16,
+      "number": 550,
+      "result": "00:43:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad538f"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad5391"
+  },
+  "name": "Rx5.xlsx",
+  "results": [
+    {
+      "runner": "David Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 1,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 624,
+      "result": "00:18:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5392"
+      }
+    },
+    {
+      "runner": "Grant Jeans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 2,
+      "generalPosition": 2,
+      "categoryPosition": 2,
+      "number": 652,
+      "result": "00:19:03",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5393"
+      }
+    },
+    {
+      "runner": "Callum Wallace",
+      "gender": "M",
+      "cat": "MS",
+      "position": 3,
+      "generalPosition": 3,
+      "categoryPosition": 3,
+      "number": 577,
+      "result": "00:20:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5394"
+      }
+    },
+    {
+      "runner": "Ryan Macready",
+      "gender": "M",
+      "cat": "MS",
+      "position": 4,
+      "generalPosition": 4,
+      "categoryPosition": 4,
+      "number": 674,
+      "result": "00:20:17",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5395"
+      }
+    },
+    {
+      "runner": "Lukasz Pudlo",
+      "gender": "M",
+      "cat": "MS",
+      "position": 5,
+      "generalPosition": 5,
+      "categoryPosition": 5,
+      "number": 567,
+      "result": "00:20:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5396"
+      }
+    },
+    {
+      "runner": "Victor Mcgregor",
+      "gender": "M",
+      "cat": "MS",
+      "position": 6,
+      "generalPosition": 6,
+      "categoryPosition": 6,
+      "number": 551,
+      "result": "00:20:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5397"
+      }
+    },
+    {
+      "runner": "Mark Ford",
+      "gender": "M",
+      "cat": "M40",
+      "position": 7,
+      "generalPosition": 7,
+      "categoryPosition": 1,
+      "number": 116,
+      "result": "00:21:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5398"
+      }
+    },
+    {
+      "runner": "Mark McCormack",
+      "gender": "M",
+      "cat": "MS",
+      "position": 8,
+      "generalPosition": 8,
+      "categoryPosition": 7,
+      "number": 584,
+      "result": "00:21:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5399"
+      }
+    },
+    {
+      "runner": "Eddie Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 9,
+      "generalPosition": 9,
+      "categoryPosition": 2,
+      "number": 585,
+      "result": "00:21:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad539a"
+      }
+    },
+    {
+      "runner": "Hannah Bayes",
+      "gender": "F",
+      "cat": "F40",
+      "position": 10,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 611,
+      "result": "00:22:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad539b"
+      }
+    },
+    {
+      "runner": "DAVID RIACH",
+      "gender": "M",
+      "cat": "M50",
+      "position": 11,
+      "generalPosition": 10,
+      "categoryPosition": 1,
+      "number": 668,
+      "result": "00:22:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad539c"
+      }
+    },
+    {
+      "runner": "mark king",
+      "gender": "M",
+      "cat": "M50",
+      "position": 12,
+      "generalPosition": 11,
+      "categoryPosition": 2,
+      "number": 569,
+      "result": "00:22:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad539d"
+      }
+    },
+    {
+      "runner": "John Murray",
+      "gender": "M",
+      "cat": "M40",
+      "position": 13,
+      "generalPosition": 12,
+      "categoryPosition": 3,
+      "number": 137,
+      "result": "00:22:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad539e"
+      }
+    },
+    {
+      "runner": "Georgia Freeman-Mills",
+      "gender": "F",
+      "cat": "FS",
+      "position": 14,
+      "generalPosition": 2,
+      "categoryPosition": 1,
+      "number": 133,
+      "result": "00:22:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad539f"
+      }
+    },
+    {
+      "runner": "Jenny Brown",
+      "gender": "F",
+      "cat": "F40",
+      "position": 15,
+      "generalPosition": 3,
+      "categoryPosition": 2,
+      "number": 598,
+      "result": "00:22:34",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a0"
+      }
+    },
+    {
+      "runner": "Greig Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 16,
+      "generalPosition": 13,
+      "categoryPosition": 4,
+      "number": 682,
+      "result": "00:22:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a1"
+      }
+    },
+    {
+      "runner": "Richard Stark",
+      "gender": "M",
+      "cat": "M60",
+      "position": 17,
+      "generalPosition": 14,
+      "categoryPosition": 1,
+      "number": 661,
+      "result": "00:22:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a2"
+      }
+    },
+    {
+      "runner": "Iain Muirhead",
+      "gender": "M",
+      "cat": "M50",
+      "position": 18,
+      "generalPosition": 15,
+      "categoryPosition": 3,
+      "number": 61,
+      "result": "00:23:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a3"
+      }
+    },
+    {
+      "runner": "Tom Cairns",
+      "gender": "M",
+      "cat": "MS",
+      "position": 19,
+      "generalPosition": 16,
+      "categoryPosition": 8,
+      "number": 82,
+      "result": "00:23:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a4"
+      }
+    },
+    {
+      "runner": "Scott Mcleod",
+      "gender": "M",
+      "cat": "M40",
+      "position": 20,
+      "generalPosition": 17,
+      "categoryPosition": 5,
+      "number": 654,
+      "result": "00:23:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a5"
+      }
+    },
+    {
+      "runner": "Jamie Wieland",
+      "gender": "M",
+      "cat": "MS",
+      "position": 21,
+      "generalPosition": 18,
+      "categoryPosition": 9,
+      "number": 571,
+      "result": "00:23:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a6"
+      }
+    },
+    {
+      "runner": "Jonathan Henderson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 22,
+      "generalPosition": 19,
+      "categoryPosition": 6,
+      "number": 556,
+      "result": "00:23:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a7"
+      }
+    },
+    {
+      "runner": "Ruth Craddock",
+      "gender": "F",
+      "cat": "F40",
+      "position": 23,
+      "generalPosition": 4,
+      "categoryPosition": 3,
+      "number": 97,
+      "result": "00:23:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a8"
+      }
+    },
+    {
+      "runner": "Kenneth Taylor",
+      "gender": "M",
+      "cat": "M40",
+      "position": 24,
+      "generalPosition": 20,
+      "categoryPosition": 7,
+      "number": 655,
+      "result": "00:23:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53a9"
+      }
+    },
+    {
+      "runner": "Craig Brown",
+      "gender": "M",
+      "cat": "M50",
+      "position": 25,
+      "generalPosition": 21,
+      "categoryPosition": 4,
+      "number": 555,
+      "result": "00:23:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53aa"
+      }
+    },
+    {
+      "runner": "Edward Guccione",
+      "gender": "M",
+      "cat": "M40",
+      "position": 26,
+      "generalPosition": 22,
+      "categoryPosition": 8,
+      "number": 579,
+      "result": "00:24:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ab"
+      }
+    },
+    {
+      "runner": "Janis Mcarthur",
+      "gender": "F",
+      "cat": "FS",
+      "position": 27,
+      "generalPosition": 5,
+      "categoryPosition": 2,
+      "number": 625,
+      "result": "00:24:05",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ac"
+      }
+    },
+    {
+      "runner": "Laura Lennon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 28,
+      "generalPosition": 6,
+      "categoryPosition": 3,
+      "number": 656,
+      "result": "00:24:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ad"
+      }
+    },
+    {
+      "runner": "Robbie Evans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 29,
+      "generalPosition": 23,
+      "categoryPosition": 10,
+      "number": 96,
+      "result": "00:24:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ae"
+      }
+    },
+    {
+      "runner": "Gordon McLarnon",
+      "gender": "M",
+      "cat": "MS",
+      "position": 30,
+      "generalPosition": 24,
+      "categoryPosition": 11,
+      "number": 644,
+      "result": "00:24:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53af"
+      }
+    },
+    {
+      "runner": "Allan Mann",
+      "gender": "M",
+      "cat": "MS",
+      "position": 31,
+      "generalPosition": 25,
+      "categoryPosition": 12,
+      "number": 642,
+      "result": "00:24:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b0"
+      }
+    },
+    {
+      "runner": "Laura Wallace",
+      "gender": "F",
+      "cat": "F40",
+      "position": 32,
+      "generalPosition": 7,
+      "categoryPosition": 4,
+      "number": 604,
+      "result": "00:24:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b1"
+      }
+    },
+    {
+      "runner": "Andrew Howie",
+      "gender": "M",
+      "cat": "M40",
+      "position": 33,
+      "generalPosition": 26,
+      "categoryPosition": 9,
+      "number": 596,
+      "result": "00:24:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b2"
+      }
+    },
+    {
+      "runner": "Jo McKnight",
+      "gender": "F",
+      "cat": "F40",
+      "position": 34,
+      "generalPosition": 8,
+      "categoryPosition": 5,
+      "number": 63,
+      "result": "00:24:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b3"
+      }
+    },
+    {
+      "runner": "James Chesnet",
+      "gender": "M",
+      "cat": "M50",
+      "position": 35,
+      "generalPosition": 27,
+      "categoryPosition": 5,
+      "number": 601,
+      "result": "00:24:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b4"
+      }
+    },
+    {
+      "runner": "Sharon O'Leary",
+      "gender": "F",
+      "cat": "F50",
+      "position": 36,
+      "generalPosition": 9,
+      "categoryPosition": 1,
+      "number": 680,
+      "result": "00:24:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b5"
+      }
+    },
+    {
+      "runner": "Julie Atkinson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 37,
+      "generalPosition": 10,
+      "categoryPosition": 6,
+      "number": 574,
+      "result": "00:25:01",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b6"
+      }
+    },
+    {
+      "runner": "Karen McIntyre",
+      "gender": "F",
+      "cat": "F40",
+      "position": 38,
+      "generalPosition": 12,
+      "categoryPosition": 7,
+      "number": 57,
+      "result": "00:25:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b7"
+      }
+    },
+    {
+      "runner": "Roberta Fletcher",
+      "gender": "F",
+      "cat": "FS",
+      "position": 39,
+      "generalPosition": 11,
+      "categoryPosition": 4,
+      "number": 561,
+      "result": "00:25:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b8"
+      }
+    },
+    {
+      "runner": "James Speakman",
+      "gender": "M",
+      "cat": "M50",
+      "position": 40,
+      "generalPosition": 28,
+      "categoryPosition": 6,
+      "number": 620,
+      "result": "00:25:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53b9"
+      }
+    },
+    {
+      "runner": "Marie Kane",
+      "gender": "F",
+      "cat": "FS",
+      "position": 41,
+      "generalPosition": 13,
+      "categoryPosition": 5,
+      "number": 105,
+      "result": "00:25:34",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ba"
+      }
+    },
+    {
+      "runner": "Sheila Murray",
+      "gender": "F",
+      "cat": "F40",
+      "position": 42,
+      "generalPosition": 14,
+      "categoryPosition": 8,
+      "number": 599,
+      "result": "00:25:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53bb"
+      }
+    },
+    {
+      "runner": "Craig Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 43,
+      "generalPosition": 29,
+      "categoryPosition": 13,
+      "number": 626,
+      "result": "00:25:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53bc"
+      }
+    },
+    {
+      "runner": "Joanne Walker",
+      "gender": "F",
+      "cat": "F40",
+      "position": 44,
+      "generalPosition": 15,
+      "categoryPosition": 9,
+      "number": 573,
+      "result": "00:25:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53bd"
+      }
+    },
+    {
+      "runner": "Ruth Harrison",
+      "gender": "F",
+      "cat": "F40",
+      "position": 45,
+      "generalPosition": 16,
+      "categoryPosition": 10,
+      "number": 126,
+      "result": "00:26:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53be"
+      }
+    },
+    {
+      "runner": "mark Bailkoski",
+      "gender": "M",
+      "cat": "M50",
+      "position": 46,
+      "generalPosition": 30,
+      "categoryPosition": 7,
+      "number": 562,
+      "result": "00:26:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53bf"
+      }
+    },
+    {
+      "runner": "Marina McCallum",
+      "gender": "F",
+      "cat": "F50",
+      "position": 47,
+      "generalPosition": 17,
+      "categoryPosition": 2,
+      "number": 135,
+      "result": "00:26:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c0"
+      }
+    },
+    {
+      "runner": "Nick McKerrell",
+      "gender": "M",
+      "cat": "M50",
+      "position": 48,
+      "generalPosition": 31,
+      "categoryPosition": 8,
+      "number": 686,
+      "result": "00:26:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c1"
+      }
+    },
+    {
+      "runner": "CÃ©dric Moreau",
+      "gender": "M",
+      "cat": "M50",
+      "position": 49,
+      "generalPosition": 32,
+      "categoryPosition": 9,
+      "number": 615,
+      "result": "00:27:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c2"
+      }
+    },
+    {
+      "runner": "Robert Doherty",
+      "gender": "M",
+      "cat": "M60",
+      "position": 50,
+      "generalPosition": 33,
+      "categoryPosition": 2,
+      "number": 663,
+      "result": "00:27:14",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c3"
+      }
+    },
+    {
+      "runner": "Gillian Gallagher",
+      "gender": "F",
+      "cat": "F40",
+      "position": 51,
+      "generalPosition": 18,
+      "categoryPosition": 11,
+      "number": 684,
+      "result": "00:27:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c4"
+      }
+    },
+    {
+      "runner": "Isobel McFarlane",
+      "gender": "F",
+      "cat": "F50",
+      "position": 52,
+      "generalPosition": 19,
+      "categoryPosition": 3,
+      "number": 619,
+      "result": "00:27:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c5"
+      }
+    },
+    {
+      "runner": "Kay Guccione",
+      "gender": "F",
+      "cat": "F40",
+      "position": 53,
+      "generalPosition": 20,
+      "categoryPosition": 12,
+      "number": 578,
+      "result": "00:27:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c6"
+      }
+    },
+    {
+      "runner": "David Kelly",
+      "gender": "M",
+      "cat": "MS",
+      "position": 54,
+      "generalPosition": 34,
+      "categoryPosition": 14,
+      "number": 627,
+      "result": "00:27:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c7"
+      }
+    },
+    {
+      "runner": "Angus Robinson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 55,
+      "generalPosition": 35,
+      "categoryPosition": 10,
+      "number": 612,
+      "result": "00:27:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c8"
+      }
+    },
+    {
+      "runner": "Alice Thompson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 56,
+      "generalPosition": 21,
+      "categoryPosition": 13,
+      "number": 672,
+      "result": "00:28:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53c9"
+      }
+    },
+    {
+      "runner": "Stephanie Rudd",
+      "gender": "F",
+      "cat": "F50",
+      "position": 57,
+      "generalPosition": 22,
+      "categoryPosition": 4,
+      "number": 639,
+      "result": "00:28:16",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ca"
+      }
+    },
+    {
+      "runner": "James Steel",
+      "gender": "M",
+      "cat": "M40",
+      "position": 58,
+      "generalPosition": 36,
+      "categoryPosition": 10,
+      "number": 681,
+      "result": "00:28:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53cb"
+      }
+    },
+    {
+      "runner": "Paul Rooney",
+      "gender": "M",
+      "cat": "M40",
+      "position": 59,
+      "generalPosition": 37,
+      "categoryPosition": 11,
+      "number": 122,
+      "result": "00:28:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53cc"
+      }
+    },
+    {
+      "runner": "Nicholas Dowley",
+      "gender": "M",
+      "cat": "M50",
+      "position": 60,
+      "generalPosition": 23,
+      "categoryPosition": 11,
+      "number": 691,
+      "result": "00:28:34",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53cd"
+      }
+    },
+    {
+      "runner": "Stuart Macdonald",
+      "gender": "M",
+      "cat": "M50",
+      "position": 61,
+      "generalPosition": 38,
+      "categoryPosition": 12,
+      "number": 636,
+      "result": "00:28:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ce"
+      }
+    },
+    {
+      "runner": "Michael Devlin",
+      "gender": "M",
+      "cat": "M60",
+      "position": 62,
+      "generalPosition": 39,
+      "categoryPosition": 3,
+      "number": 128,
+      "result": "00:28:51",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53cf"
+      }
+    },
+    {
+      "runner": "Graeme Gilkes",
+      "gender": "M",
+      "cat": "M50",
+      "position": 63,
+      "generalPosition": 40,
+      "categoryPosition": 13,
+      "number": 633,
+      "result": "00:29:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d0"
+      }
+    },
+    {
+      "runner": "Kristin Sauer",
+      "gender": "F",
+      "cat": "F40",
+      "position": 64,
+      "generalPosition": 24,
+      "categoryPosition": 14,
+      "number": 610,
+      "result": "00:29:03",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d1"
+      }
+    },
+    {
+      "runner": "Michael McNamara",
+      "gender": "M",
+      "cat": "M50",
+      "position": 65,
+      "generalPosition": 41,
+      "categoryPosition": 14,
+      "number": 638,
+      "result": "00:29:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d2"
+      }
+    },
+    {
+      "runner": "Derek Millar",
+      "gender": "M",
+      "cat": "M50",
+      "position": 66,
+      "generalPosition": 42,
+      "categoryPosition": 15,
+      "number": 548,
+      "result": "00:29:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d3"
+      }
+    },
+    {
+      "runner": "Catherine Lyn Macnaughton",
+      "gender": "F",
+      "cat": "F40",
+      "position": 67,
+      "generalPosition": 25,
+      "categoryPosition": 15,
+      "number": 637,
+      "result": "00:29:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d4"
+      }
+    },
+    {
+      "runner": "Maureen Campbell",
+      "gender": "F",
+      "cat": "F50",
+      "position": 68,
+      "generalPosition": 26,
+      "categoryPosition": 5,
+      "number": 632,
+      "result": "00:29:22",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d5"
+      }
+    },
+    {
+      "runner": "Fiona Roberts",
+      "gender": "F",
+      "cat": "F50",
+      "position": 69,
+      "generalPosition": 27,
+      "categoryPosition": 6,
+      "number": 679,
+      "result": "00:29:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d6"
+      }
+    },
+    {
+      "runner": "Peter Meehan",
+      "gender": "M",
+      "cat": "MS",
+      "position": 70,
+      "generalPosition": 43,
+      "categoryPosition": 15,
+      "number": 572,
+      "result": "00:29:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d7"
+      }
+    },
+    {
+      "runner": "Nathalie Smith",
+      "gender": "F",
+      "cat": "F40",
+      "position": 71,
+      "generalPosition": 28,
+      "categoryPosition": 16,
+      "number": 582,
+      "result": "00:29:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d8"
+      }
+    },
+    {
+      "runner": "Steven Smith",
+      "gender": "M",
+      "cat": "M50",
+      "position": 72,
+      "generalPosition": 44,
+      "categoryPosition": 16,
+      "number": 583,
+      "result": "00:29:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53d9"
+      }
+    },
+    {
+      "runner": "Kirstin Campbell",
+      "gender": "F",
+      "cat": "FS",
+      "position": 73,
+      "generalPosition": 29,
+      "categoryPosition": 6,
+      "number": 590,
+      "result": "00:30:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53da"
+      }
+    },
+    {
+      "runner": "Kelly Ludwig",
+      "gender": "F",
+      "cat": "F40",
+      "position": 74,
+      "generalPosition": 30,
+      "categoryPosition": 17,
+      "number": 675,
+      "result": "00:30:06",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53db"
+      }
+    },
+    {
+      "runner": "Paul Fletcher",
+      "gender": "M",
+      "cat": "M50",
+      "position": 75,
+      "generalPosition": 45,
+      "categoryPosition": 17,
+      "number": 659,
+      "result": "00:30:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53dc"
+      }
+    },
+    {
+      "runner": "Kirsty Davidson",
+      "gender": "F",
+      "cat": "FS",
+      "position": 76,
+      "generalPosition": 31,
+      "categoryPosition": 7,
+      "number": 609,
+      "result": "00:30:36",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53dd"
+      }
+    },
+    {
+      "runner": "Gillian Irvine",
+      "gender": "F",
+      "cat": "F50",
+      "position": 77,
+      "generalPosition": 32,
+      "categoryPosition": 7,
+      "number": 646,
+      "result": "00:30:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53de"
+      }
+    },
+    {
+      "runner": "Lucy Addison",
+      "gender": "F",
+      "cat": "F50",
+      "position": 78,
+      "generalPosition": 33,
+      "categoryPosition": 8,
+      "number": 614,
+      "result": "00:30:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53df"
+      }
+    },
+    {
+      "runner": "Andy Taylor",
+      "gender": "M",
+      "cat": "M60",
+      "position": 79,
+      "generalPosition": 46,
+      "categoryPosition": 4,
+      "number": 669,
+      "result": "00:31:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e0"
+      }
+    },
+    {
+      "runner": "Tania Duffy",
+      "gender": "F",
+      "cat": "F40",
+      "position": 81,
+      "generalPosition": 34,
+      "categoryPosition": 18,
+      "number": 109,
+      "result": "00:31:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e1"
+      }
+    },
+    {
+      "runner": "Donna Gillon",
+      "gender": "F",
+      "cat": "F50",
+      "position": 80,
+      "generalPosition": 35,
+      "categoryPosition": 9,
+      "number": 95,
+      "result": "00:31:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e2"
+      }
+    },
+    {
+      "runner": "Anna Conlon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 82,
+      "generalPosition": 36,
+      "categoryPosition": 8,
+      "number": 685,
+      "result": "00:31:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e3"
+      }
+    },
+    {
+      "runner": "Deirdre Parkinson",
+      "gender": "F",
+      "cat": "F60",
+      "position": 83,
+      "generalPosition": 37,
+      "categoryPosition": 1,
+      "number": 566,
+      "result": "00:31:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e4"
+      }
+    },
+    {
+      "runner": "Rob Huggett",
+      "gender": "M",
+      "cat": "MS",
+      "position": 84,
+      "generalPosition": 47,
+      "categoryPosition": 16,
+      "number": 648,
+      "result": "00:31:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e5"
+      }
+    },
+    {
+      "runner": "Melissa Williams",
+      "gender": "F",
+      "cat": "FS",
+      "position": 85,
+      "generalPosition": 38,
+      "categoryPosition": 9,
+      "number": 645,
+      "result": "00:31:34",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e6"
+      }
+    },
+    {
+      "runner": "Lynn Reid",
+      "gender": "F",
+      "cat": "F50",
+      "position": 86,
+      "generalPosition": 39,
+      "categoryPosition": 10,
+      "number": 568,
+      "result": "00:31:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e7"
+      }
+    },
+    {
+      "runner": "Sarah Renouf",
+      "gender": "F",
+      "cat": "FS",
+      "position": 87,
+      "generalPosition": 40,
+      "categoryPosition": 10,
+      "number": 647,
+      "result": "00:31:52",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e8"
+      }
+    },
+    {
+      "runner": "David Gemmell",
+      "gender": "M",
+      "cat": "M40",
+      "position": 88,
+      "generalPosition": 48,
+      "categoryPosition": 12,
+      "number": 576,
+      "result": "00:31:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53e9"
+      }
+    },
+    {
+      "runner": "Linda Dickson",
+      "gender": "F",
+      "cat": "F50",
+      "position": 89,
+      "generalPosition": 41,
+      "categoryPosition": 11,
+      "number": 98,
+      "result": "00:31:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ea"
+      }
+    },
+    {
+      "runner": "Karen Rosling",
+      "gender": "F",
+      "cat": "F40",
+      "position": 90,
+      "generalPosition": 42,
+      "categoryPosition": 19,
+      "number": 100,
+      "result": "00:32:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53eb"
+      }
+    },
+    {
+      "runner": "Wendy Morcos",
+      "gender": "F",
+      "cat": "F60",
+      "position": 91,
+      "generalPosition": 43,
+      "categoryPosition": 2,
+      "number": 81,
+      "result": "00:32:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ec"
+      }
+    },
+    {
+      "runner": "Terry Nimmo",
+      "gender": "F",
+      "cat": "F60",
+      "position": 92,
+      "generalPosition": 44,
+      "categoryPosition": 3,
+      "number": 60,
+      "result": "00:32:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ed"
+      }
+    },
+    {
+      "runner": "Raymond Loughran",
+      "gender": "M",
+      "cat": "M60",
+      "position": 93,
+      "generalPosition": 49,
+      "categoryPosition": 5,
+      "number": 658,
+      "result": "00:33:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ee"
+      }
+    },
+    {
+      "runner": "Emma main",
+      "gender": "F",
+      "cat": "F40",
+      "position": 94,
+      "generalPosition": 45,
+      "categoryPosition": 20,
+      "number": 618,
+      "result": "00:33:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ef"
+      }
+    },
+    {
+      "runner": "Kirsten Macleman",
+      "gender": "F",
+      "cat": "FS",
+      "position": 95,
+      "generalPosition": 46,
+      "categoryPosition": 11,
+      "number": 119,
+      "result": "00:33:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f0"
+      }
+    },
+    {
+      "runner": "Claire Purdie",
+      "gender": "F",
+      "cat": "F50",
+      "position": 96,
+      "generalPosition": 47,
+      "categoryPosition": 12,
+      "number": 563,
+      "result": "00:34:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f1"
+      }
+    },
+    {
+      "runner": "Cindy McNeill",
+      "gender": "F",
+      "cat": "F50",
+      "position": 97,
+      "generalPosition": 48,
+      "categoryPosition": 13,
+      "number": 650,
+      "result": "00:34:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f2"
+      }
+    },
+    {
+      "runner": "Pamela Clark",
+      "gender": "F",
+      "cat": "F60",
+      "position": 98,
+      "generalPosition": 49,
+      "categoryPosition": 4,
+      "number": 622,
+      "result": "00:34:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f3"
+      }
+    },
+    {
+      "runner": "Gillian Phillips",
+      "gender": "F",
+      "cat": "F50",
+      "position": 99,
+      "generalPosition": 50,
+      "categoryPosition": 14,
+      "number": 136,
+      "result": "00:34:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f4"
+      }
+    },
+    {
+      "runner": "Nicola Barrington",
+      "gender": "F",
+      "cat": "FS",
+      "position": 100,
+      "generalPosition": 51,
+      "categoryPosition": 12,
+      "number": 628,
+      "result": "00:35:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f5"
+      }
+    },
+    {
+      "runner": "Anna Robinson",
+      "gender": "F",
+      "cat": "F50",
+      "position": 101,
+      "generalPosition": 52,
+      "categoryPosition": 15,
+      "number": 623,
+      "result": "00:36:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f6"
+      }
+    },
+    {
+      "runner": "Charles Gorrie",
+      "gender": "M",
+      "cat": "M70",
+      "position": 102,
+      "generalPosition": 50,
+      "categoryPosition": 1,
+      "number": 131,
+      "result": "00:36:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f7"
+      }
+    },
+    {
+      "runner": "Jayne Gilkes",
+      "gender": "F",
+      "cat": "F50",
+      "position": 103,
+      "generalPosition": 53,
+      "categoryPosition": 16,
+      "number": 631,
+      "result": "00:36:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f8"
+      }
+    },
+    {
+      "runner": "Amy Gray",
+      "gender": "F",
+      "cat": "FS",
+      "position": 104,
+      "generalPosition": 54,
+      "categoryPosition": 13,
+      "number": 602,
+      "result": "00:37:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53f9"
+      }
+    },
+    {
+      "runner": "Colin Gray",
+      "gender": "M",
+      "cat": "M50",
+      "position": 105,
+      "generalPosition": 51,
+      "categoryPosition": 18,
+      "number": 603,
+      "result": "00:37:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53fa"
+      }
+    },
+    {
+      "runner": "Kathleen McGee",
+      "gender": "F",
+      "cat": "F40",
+      "position": 106,
+      "generalPosition": 55,
+      "categoryPosition": 21,
+      "number": 589,
+      "result": "00:38:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53fb"
+      }
+    },
+    {
+      "runner": "Richard Cooper",
+      "gender": "M",
+      "cat": "M50",
+      "position": 107,
+      "generalPosition": 52,
+      "categoryPosition": 19,
+      "number": 586,
+      "result": "00:38:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53fc"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad53fe"
+  },
+  "name": "Px5.xlsx",
+  "results": [
+    {
+      "runner": "Grant Jeans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 1,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 652,
+      "result": "00:20:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad53ff"
+      }
+    },
+    {
+      "runner": "Iain Murphy",
+      "gender": "M",
+      "cat": "MS",
+      "position": 2,
+      "generalPosition": 2,
+      "categoryPosition": 2,
+      "number": 93,
+      "result": "00:21:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5400"
+      }
+    },
+    {
+      "runner": "Callum Wallace",
+      "gender": "M",
+      "cat": "MS",
+      "position": 3,
+      "generalPosition": 3,
+      "categoryPosition": 3,
+      "number": 577,
+      "result": "00:21:16",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5401"
+      }
+    },
+    {
+      "runner": "Andrew Anderson",
+      "gender": "M",
+      "cat": "MS",
+      "position": 4,
+      "generalPosition": 4,
+      "categoryPosition": 4,
+      "number": 89,
+      "result": "00:21:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5402"
+      }
+    },
+    {
+      "runner": "Ryan Macready",
+      "gender": "M",
+      "cat": "MS",
+      "position": 5,
+      "generalPosition": 5,
+      "categoryPosition": 5,
+      "number": 674,
+      "result": "00:22:11",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5403"
+      }
+    },
+    {
+      "runner": "Stephen Lyons",
+      "gender": "M",
+      "cat": "MS",
+      "position": 6,
+      "generalPosition": 6,
+      "categoryPosition": 6,
+      "number": 657,
+      "result": "00:22:52",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5404"
+      }
+    },
+    {
+      "runner": "Mark Ford",
+      "gender": "M",
+      "cat": "M40",
+      "position": 7,
+      "generalPosition": 7,
+      "categoryPosition": 1,
+      "number": 116,
+      "result": "00:22:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5405"
+      }
+    },
+    {
+      "runner": "Eddie Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 8,
+      "generalPosition": 8,
+      "categoryPosition": 2,
+      "number": 585,
+      "result": "00:22:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5406"
+      }
+    },
+    {
+      "runner": "mark king",
+      "gender": "M",
+      "cat": "M50",
+      "position": 9,
+      "generalPosition": 9,
+      "categoryPosition": 1,
+      "number": 569,
+      "result": "00:22:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5407"
+      }
+    },
+    {
+      "runner": "Mark McCormack",
+      "gender": "M",
+      "cat": "MS",
+      "position": 10,
+      "generalPosition": 10,
+      "categoryPosition": 7,
+      "number": 584,
+      "result": "00:23:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5408"
+      }
+    },
+    {
+      "runner": "John Murray",
+      "gender": "M",
+      "cat": "M40",
+      "position": 11,
+      "generalPosition": 11,
+      "categoryPosition": 3,
+      "number": 137,
+      "result": "00:23:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5409"
+      }
+    },
+    {
+      "runner": "Hannah Bayes",
+      "gender": "F",
+      "cat": "F40",
+      "position": 12,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 611,
+      "result": "00:23:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad540a"
+      }
+    },
+    {
+      "runner": "DAVID RIACH",
+      "gender": "M",
+      "cat": "M50",
+      "position": 13,
+      "generalPosition": 12,
+      "categoryPosition": 2,
+      "number": 668,
+      "result": "00:23:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad540b"
+      }
+    },
+    {
+      "runner": "Greig Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 14,
+      "generalPosition": 13,
+      "categoryPosition": 4,
+      "number": 682,
+      "result": "00:24:01",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad540c"
+      }
+    },
+    {
+      "runner": "Tom Cairns",
+      "gender": "M",
+      "cat": "MS",
+      "position": 15,
+      "generalPosition": 14,
+      "categoryPosition": 8,
+      "number": 82,
+      "result": "00:24:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad540d"
+      }
+    },
+    {
+      "runner": "Richard Stark",
+      "gender": "M",
+      "cat": "M60",
+      "position": 16,
+      "generalPosition": 15,
+      "categoryPosition": 1,
+      "number": 661,
+      "result": "00:24:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad540e"
+      }
+    },
+    {
+      "runner": "Georgia Freeman-Mills",
+      "gender": "F",
+      "cat": "FS",
+      "position": 17,
+      "generalPosition": 2,
+      "categoryPosition": 1,
+      "number": 133,
+      "result": "00:24:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad540f"
+      }
+    },
+    {
+      "runner": "Jenny Brown",
+      "gender": "F",
+      "cat": "F40",
+      "position": 18,
+      "generalPosition": 3,
+      "categoryPosition": 2,
+      "number": 598,
+      "result": "00:24:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5410"
+      }
+    },
+    {
+      "runner": "Tom Dumbleton",
+      "gender": "M",
+      "cat": "MS",
+      "position": 19,
+      "generalPosition": 16,
+      "categoryPosition": 9,
+      "number": 87,
+      "result": "00:24:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5411"
+      }
+    },
+    {
+      "runner": "Daniel Burns",
+      "gender": "M",
+      "cat": "MS",
+      "position": 20,
+      "generalPosition": 17,
+      "categoryPosition": 10,
+      "number": 635,
+      "result": "00:25:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5412"
+      }
+    },
+    {
+      "runner": "Janis Mcarthur",
+      "gender": "F",
+      "cat": "FS",
+      "position": 21,
+      "generalPosition": 4,
+      "categoryPosition": 2,
+      "number": 625,
+      "result": "00:25:35",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5413"
+      }
+    },
+    {
+      "runner": "Ruth Craddock",
+      "gender": "F",
+      "cat": "F40",
+      "position": 22,
+      "generalPosition": 5,
+      "categoryPosition": 3,
+      "number": 97,
+      "result": "00:26:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5414"
+      }
+    },
+    {
+      "runner": "Jonathan Henderson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 23,
+      "generalPosition": 18,
+      "categoryPosition": 5,
+      "number": 556,
+      "result": "00:26:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5415"
+      }
+    },
+    {
+      "runner": "James Chesnet",
+      "gender": "M",
+      "cat": "M50",
+      "position": 24,
+      "generalPosition": 19,
+      "categoryPosition": 3,
+      "number": 601,
+      "result": "00:26:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5416"
+      }
+    },
+    {
+      "runner": "Laura Lennon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 25,
+      "generalPosition": 6,
+      "categoryPosition": 3,
+      "number": 656,
+      "result": "00:26:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5417"
+      }
+    },
+    {
+      "runner": "Aaron McCrone",
+      "gender": "M",
+      "cat": "MS",
+      "position": 26,
+      "generalPosition": 20,
+      "categoryPosition": 11,
+      "number": 641,
+      "result": "00:26:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5418"
+      }
+    },
+    {
+      "runner": "Robbie Evans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 27,
+      "generalPosition": 21,
+      "categoryPosition": 12,
+      "number": 96,
+      "result": "00:27:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5419"
+      }
+    },
+    {
+      "runner": "Jamie Wieland",
+      "gender": "M",
+      "cat": "MS",
+      "position": 28,
+      "generalPosition": 22,
+      "categoryPosition": 13,
+      "number": 571,
+      "result": "00:27:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad541a"
+      }
+    },
+    {
+      "runner": "Karen McIntyre",
+      "gender": "F",
+      "cat": "F40",
+      "position": 29,
+      "generalPosition": 7,
+      "categoryPosition": 4,
+      "number": 57,
+      "result": "00:27:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad541b"
+      }
+    },
+    {
+      "runner": "Sharon O'Leary",
+      "gender": "F",
+      "cat": "F50",
+      "position": 30,
+      "generalPosition": 8,
+      "categoryPosition": 1,
+      "number": 680,
+      "result": "00:27:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad541c"
+      }
+    },
+    {
+      "runner": "Julie Atkinson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 31,
+      "generalPosition": 9,
+      "categoryPosition": 5,
+      "number": 574,
+      "result": "00:27:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad541d"
+      }
+    },
+    {
+      "runner": "Craig Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 32,
+      "generalPosition": 23,
+      "categoryPosition": 14,
+      "number": 626,
+      "result": "00:27:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad541e"
+      }
+    },
+    {
+      "runner": "Steven Gilligan",
+      "gender": "M",
+      "cat": "M40",
+      "position": 33,
+      "generalPosition": 24,
+      "categoryPosition": 6,
+      "number": 591,
+      "result": "00:28:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad541f"
+      }
+    },
+    {
+      "runner": "James Speakman",
+      "gender": "M",
+      "cat": "M50",
+      "position": 34,
+      "generalPosition": 25,
+      "categoryPosition": 4,
+      "number": 620,
+      "result": "00:28:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5420"
+      }
+    },
+    {
+      "runner": "Craig Brown",
+      "gender": "M",
+      "cat": "M50",
+      "position": 35,
+      "generalPosition": 26,
+      "categoryPosition": 5,
+      "number": 555,
+      "result": "00:28:11",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5421"
+      }
+    },
+    {
+      "runner": "Sheila Murray",
+      "gender": "F",
+      "cat": "F40",
+      "position": 36,
+      "generalPosition": 10,
+      "categoryPosition": 6,
+      "number": 599,
+      "result": "00:28:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5422"
+      }
+    },
+    {
+      "runner": "Allan Mann",
+      "gender": "M",
+      "cat": "MS",
+      "position": 37,
+      "generalPosition": 27,
+      "categoryPosition": 15,
+      "number": 642,
+      "result": "00:28:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5423"
+      }
+    },
+    {
+      "runner": "CÃ©dric Moreau",
+      "gender": "M",
+      "cat": "M50",
+      "position": 38,
+      "generalPosition": 28,
+      "categoryPosition": 6,
+      "number": 615,
+      "result": "00:29:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5424"
+      }
+    },
+    {
+      "runner": "Nick McKerrell",
+      "gender": "M",
+      "cat": "M50",
+      "position": 39,
+      "generalPosition": 29,
+      "categoryPosition": 7,
+      "number": 686,
+      "result": "00:29:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5425"
+      }
+    },
+    {
+      "runner": "Robert Doherty",
+      "gender": "M",
+      "cat": "M60",
+      "position": 40,
+      "generalPosition": 30,
+      "categoryPosition": 2,
+      "number": 663,
+      "result": "00:29:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5426"
+      }
+    },
+    {
+      "runner": "Jingjie Cheng",
+      "gender": "F",
+      "cat": "FS",
+      "position": 41,
+      "generalPosition": 11,
+      "categoryPosition": 4,
+      "number": 71,
+      "result": "00:30:01",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5427"
+      }
+    },
+    {
+      "runner": "Steven Smith",
+      "gender": "M",
+      "cat": "M50",
+      "position": 42,
+      "generalPosition": 31,
+      "categoryPosition": 8,
+      "number": 553,
+      "result": "00:30:03",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5428"
+      }
+    },
+    {
+      "runner": "Angus Robinson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 43,
+      "generalPosition": 32,
+      "categoryPosition": 9,
+      "number": 612,
+      "result": "00:30:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5429"
+      }
+    },
+    {
+      "runner": "Ruth Harrison",
+      "gender": "F",
+      "cat": "F40",
+      "position": 44,
+      "generalPosition": 12,
+      "categoryPosition": 7,
+      "number": 126,
+      "result": "00:30:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad542a"
+      }
+    },
+    {
+      "runner": "Joanne Walker",
+      "gender": "F",
+      "cat": "F40",
+      "position": 45,
+      "generalPosition": 13,
+      "categoryPosition": 8,
+      "number": 573,
+      "result": "00:30:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad542b"
+      }
+    },
+    {
+      "runner": "Stuart Macdonald",
+      "gender": "M",
+      "cat": "M50",
+      "position": 46,
+      "generalPosition": 33,
+      "categoryPosition": 10,
+      "number": 636,
+      "result": "00:30:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad542c"
+      }
+    },
+    {
+      "runner": "Graeme Gilkes",
+      "gender": "M",
+      "cat": "M50",
+      "position": 47,
+      "generalPosition": 34,
+      "categoryPosition": 11,
+      "number": 633,
+      "result": "00:30:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad542d"
+      }
+    },
+    {
+      "runner": "Kristin Sauer",
+      "gender": "F",
+      "cat": "F40",
+      "position": 48,
+      "generalPosition": 14,
+      "categoryPosition": 9,
+      "number": 610,
+      "result": "00:30:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad542e"
+      }
+    },
+    {
+      "runner": "Stephanie Rudd",
+      "gender": "F",
+      "cat": "F50",
+      "position": 49,
+      "generalPosition": 15,
+      "categoryPosition": 2,
+      "number": 639,
+      "result": "00:30:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad542f"
+      }
+    },
+    {
+      "runner": "Alice Thompson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 50,
+      "generalPosition": 16,
+      "categoryPosition": 10,
+      "number": 672,
+      "result": "00:30:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5430"
+      }
+    },
+    {
+      "runner": "Michael McNamara",
+      "gender": "M",
+      "cat": "M50",
+      "position": 51,
+      "generalPosition": 35,
+      "categoryPosition": 12,
+      "number": 638,
+      "result": "00:31:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5431"
+      }
+    },
+    {
+      "runner": "Kirsten Downie",
+      "gender": "F",
+      "cat": "FS",
+      "position": 52,
+      "generalPosition": 17,
+      "categoryPosition": 5,
+      "number": 691,
+      "result": "00:31:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5432"
+      }
+    },
+    {
+      "runner": "Aileen Coulter",
+      "gender": "F",
+      "cat": "F50",
+      "position": 53,
+      "generalPosition": 18,
+      "categoryPosition": 3,
+      "number": 677,
+      "result": "00:31:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5433"
+      }
+    },
+    {
+      "runner": "John Sandbach",
+      "gender": "M",
+      "cat": "M50",
+      "position": 54,
+      "generalPosition": 36,
+      "categoryPosition": 13,
+      "number": 676,
+      "result": "00:31:31",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5434"
+      }
+    },
+    {
+      "runner": "Jan Boyd",
+      "gender": "F",
+      "cat": "F50",
+      "position": 55,
+      "generalPosition": 19,
+      "categoryPosition": 4,
+      "number": 670,
+      "result": "00:31:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5435"
+      }
+    },
+    {
+      "runner": "Isobel McFarlane",
+      "gender": "F",
+      "cat": "F50",
+      "position": 56,
+      "generalPosition": 20,
+      "categoryPosition": 5,
+      "number": 619,
+      "result": "00:31:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5436"
+      }
+    },
+    {
+      "runner": "Paul Fletcher",
+      "gender": "M",
+      "cat": "M50",
+      "position": 57,
+      "generalPosition": 37,
+      "categoryPosition": 14,
+      "number": 659,
+      "result": "00:32:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5437"
+      }
+    },
+    {
+      "runner": "Anna Conlon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 58,
+      "generalPosition": 21,
+      "categoryPosition": 6,
+      "number": 685,
+      "result": "00:32:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5438"
+      }
+    },
+    {
+      "runner": "Derek Millar",
+      "gender": "M",
+      "cat": "M50",
+      "position": 59,
+      "generalPosition": 38,
+      "categoryPosition": 15,
+      "number": 548,
+      "result": "00:32:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5439"
+      }
+    },
+    {
+      "runner": "Arthur O'Brien",
+      "gender": "M",
+      "cat": "M50",
+      "position": 60,
+      "generalPosition": 39,
+      "categoryPosition": 16,
+      "number": 575,
+      "result": "00:32:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad543a"
+      }
+    },
+    {
+      "runner": "Peter Meehan",
+      "gender": "M",
+      "cat": "MS",
+      "position": 61,
+      "generalPosition": 40,
+      "categoryPosition": 16,
+      "number": 572,
+      "result": "00:32:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad543b"
+      }
+    },
+    {
+      "runner": "Lyndsay Kerrigan",
+      "gender": "F",
+      "cat": "FS",
+      "position": 62,
+      "generalPosition": 22,
+      "categoryPosition": 7,
+      "number": 634,
+      "result": "00:32:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad543c"
+      }
+    },
+    {
+      "runner": "Fiona Greaney",
+      "gender": "F",
+      "cat": "F50",
+      "position": 63,
+      "generalPosition": 23,
+      "categoryPosition": 6,
+      "number": 72,
+      "result": "00:32:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad543d"
+      }
+    },
+    {
+      "runner": "krystin Macmillan",
+      "gender": "F",
+      "cat": "FS",
+      "position": 64,
+      "generalPosition": 24,
+      "categoryPosition": 8,
+      "number": 688,
+      "result": "00:33:11",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad543e"
+      }
+    },
+    {
+      "runner": "Stuart Weatherley",
+      "gender": "M",
+      "cat": "M40",
+      "position": 65,
+      "generalPosition": 41,
+      "categoryPosition": 7,
+      "number": 597,
+      "result": "00:33:16",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad543f"
+      }
+    },
+    {
+      "runner": "Lesley McKerral",
+      "gender": "F",
+      "cat": "F50",
+      "position": 66,
+      "generalPosition": 25,
+      "categoryPosition": 7,
+      "number": 557,
+      "result": "00:33:34",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5440"
+      }
+    },
+    {
+      "runner": "Nathalie Smith",
+      "gender": "F",
+      "cat": "F40",
+      "position": 67,
+      "generalPosition": 26,
+      "categoryPosition": 11,
+      "number": 582,
+      "result": "00:33:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5441"
+      }
+    },
+    {
+      "runner": "Kirsty Davidson",
+      "gender": "F",
+      "cat": "FS",
+      "position": 68,
+      "generalPosition": 27,
+      "categoryPosition": 9,
+      "number": 609,
+      "result": "00:34:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5442"
+      }
+    },
+    {
+      "runner": "Fiona Roberts",
+      "gender": "F",
+      "cat": "F50",
+      "position": 69,
+      "generalPosition": 28,
+      "categoryPosition": 8,
+      "number": 679,
+      "result": "00:34:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5443"
+      }
+    },
+    {
+      "runner": "David Gemmell",
+      "gender": "M",
+      "cat": "M40",
+      "position": 70,
+      "generalPosition": 42,
+      "categoryPosition": 8,
+      "number": 576,
+      "result": "00:35:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5444"
+      }
+    },
+    {
+      "runner": "Lynne Coia",
+      "gender": "F",
+      "cat": "F50",
+      "position": 71,
+      "generalPosition": 29,
+      "categoryPosition": 9,
+      "number": 552,
+      "result": "00:35:53",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5445"
+      }
+    },
+    {
+      "runner": "Lucy Addison",
+      "gender": "F",
+      "cat": "F50",
+      "position": 72,
+      "generalPosition": 30,
+      "categoryPosition": 10,
+      "number": 614,
+      "result": "00:35:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5446"
+      }
+    },
+    {
+      "runner": "Gillian Phillips",
+      "gender": "F",
+      "cat": "F50",
+      "position": 73,
+      "generalPosition": 31,
+      "categoryPosition": 11,
+      "number": 136,
+      "result": "00:36:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5447"
+      }
+    },
+    {
+      "runner": "Raymond Loughran",
+      "gender": "M",
+      "cat": "M60",
+      "position": 74,
+      "generalPosition": 43,
+      "categoryPosition": 3,
+      "number": 658,
+      "result": "00:36:53",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5448"
+      }
+    },
+    {
+      "runner": "Kirsten Macleman",
+      "gender": "F",
+      "cat": "FS",
+      "position": 75,
+      "generalPosition": 32,
+      "categoryPosition": 10,
+      "number": 119,
+      "result": "00:37:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5449"
+      }
+    },
+    {
+      "runner": "Pamela Clark",
+      "gender": "F",
+      "cat": "F60",
+      "position": 76,
+      "generalPosition": 33,
+      "categoryPosition": 1,
+      "number": 622,
+      "result": "00:37:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad544a"
+      }
+    },
+    {
+      "runner": "Terry Nimmo",
+      "gender": "F",
+      "cat": "F60",
+      "position": 77,
+      "generalPosition": 34,
+      "categoryPosition": 2,
+      "number": 60,
+      "result": "00:37:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad544b"
+      }
+    },
+    {
+      "runner": "Kirstin Campbell",
+      "gender": "F",
+      "cat": "FS",
+      "position": 78,
+      "generalPosition": 35,
+      "categoryPosition": 11,
+      "number": 590,
+      "result": "00:37:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad544c"
+      }
+    },
+    {
+      "runner": "Anna Robinson",
+      "gender": "F",
+      "cat": "F50",
+      "position": 79,
+      "generalPosition": 36,
+      "categoryPosition": 12,
+      "number": 623,
+      "result": "00:38:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad544d"
+      }
+    },
+    {
+      "runner": "Charles Gorrie",
+      "gender": "M",
+      "cat": "M70",
+      "position": 80,
+      "generalPosition": 44,
+      "categoryPosition": 1,
+      "number": 131,
+      "result": "00:38:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad544e"
+      }
+    },
+    {
+      "runner": "Nicola Barrington",
+      "gender": "F",
+      "cat": "FS",
+      "position": 81,
+      "generalPosition": 37,
+      "categoryPosition": 12,
+      "number": 628,
+      "result": "00:38:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad544f"
+      }
+    },
+    {
+      "runner": "Victoria Tinney",
+      "gender": "F",
+      "cat": "FS",
+      "position": 82,
+      "generalPosition": 38,
+      "categoryPosition": 13,
+      "number": 606,
+      "result": "00:40:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5450"
+      }
+    },
+    {
+      "runner": "Amy Gray",
+      "gender": "F",
+      "cat": "FS",
+      "position": 83,
+      "generalPosition": 39,
+      "categoryPosition": 14,
+      "number": 602,
+      "result": "00:44:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5451"
+      }
+    },
+    {
+      "runner": "Colin Gray",
+      "gender": "M",
+      "cat": "M50",
+      "position": 84,
+      "generalPosition": 45,
+      "categoryPosition": 17,
+      "number": 603,
+      "result": "00:44:52",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5452"
+      }
+    },
+    {
+      "runner": "Richard Cooper",
+      "gender": "M",
+      "cat": "M50",
+      "position": 85,
+      "generalPosition": 46,
+      "categoryPosition": 18,
+      "number": 586,
+      "result": "00:44:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5453"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad5455"
+  },
+  "name": "Bx5.xlsx",
+  "results": [
+    {
+      "runner": "David Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 1,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 624,
+      "result": "00:17:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5456"
+      }
+    },
+    {
+      "runner": "Grant Jeans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 2,
+      "generalPosition": 2,
+      "categoryPosition": 2,
+      "number": 652,
+      "result": "00:17:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5457"
+      }
+    },
+    {
+      "runner": "Callum Wallace",
+      "gender": "M",
+      "cat": "MS",
+      "position": 3,
+      "generalPosition": 3,
+      "categoryPosition": 3,
+      "number": 577,
+      "result": "00:17:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5458"
+      }
+    },
+    {
+      "runner": "Chris Upson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 4,
+      "generalPosition": 4,
+      "categoryPosition": 1,
+      "number": 549,
+      "result": "00:18:36",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5459"
+      }
+    },
+    {
+      "runner": "Lukasz Pudlo",
+      "gender": "M",
+      "cat": "MS",
+      "position": 5,
+      "generalPosition": 5,
+      "categoryPosition": 4,
+      "number": 567,
+      "result": "00:18:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad545a"
+      }
+    },
+    {
+      "runner": "Ryan Macready",
+      "gender": "M",
+      "cat": "MS",
+      "position": 6,
+      "generalPosition": 6,
+      "categoryPosition": 5,
+      "number": 674,
+      "result": "00:18:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad545b"
+      }
+    },
+    {
+      "runner": "mark king",
+      "gender": "M",
+      "cat": "M50",
+      "position": 7,
+      "generalPosition": 7,
+      "categoryPosition": 2,
+      "number": 569,
+      "result": "00:19:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad545c"
+      }
+    },
+    {
+      "runner": "Mark McCormack",
+      "gender": "M",
+      "cat": "MS",
+      "position": 8,
+      "generalPosition": 8,
+      "categoryPosition": 6,
+      "number": 584,
+      "result": "00:19:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad545d"
+      }
+    },
+    {
+      "runner": "Eddie Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 9,
+      "generalPosition": 9,
+      "categoryPosition": 1,
+      "number": 585,
+      "result": "00:19:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad545e"
+      }
+    },
+    {
+      "runner": "Greig Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 10,
+      "generalPosition": 10,
+      "categoryPosition": 2,
+      "number": 682,
+      "result": "00:20:03",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad545f"
+      }
+    },
+    {
+      "runner": "Jenny Brown",
+      "gender": "F",
+      "cat": "F40",
+      "position": 11,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 598,
+      "result": "00:20:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5460"
+      }
+    },
+    {
+      "runner": "Daniel Burns",
+      "gender": "M",
+      "cat": "MS",
+      "position": 12,
+      "generalPosition": 11,
+      "categoryPosition": 7,
+      "number": 635,
+      "result": "00:20:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5461"
+      }
+    },
+    {
+      "runner": "Hannah Bayes",
+      "gender": "F",
+      "cat": "F40",
+      "position": 13,
+      "generalPosition": 2,
+      "categoryPosition": 2,
+      "number": 611,
+      "result": "00:20:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5462"
+      }
+    },
+    {
+      "runner": "Stephen Lyons",
+      "gender": "M",
+      "cat": "MS",
+      "position": 14,
+      "generalPosition": 12,
+      "categoryPosition": 8,
+      "number": 657,
+      "result": "00:20:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5463"
+      }
+    },
+    {
+      "runner": "Richard Stark",
+      "gender": "M",
+      "cat": "M60",
+      "position": 15,
+      "generalPosition": 13,
+      "categoryPosition": 1,
+      "number": 661,
+      "result": "00:20:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5464"
+      }
+    },
+    {
+      "runner": "Juliette Linford",
+      "gender": "F",
+      "cat": "FS",
+      "position": 16,
+      "generalPosition": 3,
+      "categoryPosition": 1,
+      "number": 73,
+      "result": "00:21:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5465"
+      }
+    },
+    {
+      "runner": "Scott Mcleod",
+      "gender": "M",
+      "cat": "M40",
+      "position": 17,
+      "generalPosition": 14,
+      "categoryPosition": 3,
+      "number": 654,
+      "result": "00:21:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5466"
+      }
+    },
+    {
+      "runner": "Laura Lennon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 18,
+      "generalPosition": 4,
+      "categoryPosition": 2,
+      "number": 656,
+      "result": "00:21:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5467"
+      }
+    },
+    {
+      "runner": "Aaron McCrone",
+      "gender": "M",
+      "cat": "MS",
+      "position": 19,
+      "generalPosition": 15,
+      "categoryPosition": 9,
+      "number": 641,
+      "result": "00:21:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5468"
+      }
+    },
+    {
+      "runner": "John Murray",
+      "gender": "M",
+      "cat": "M40",
+      "position": 20,
+      "generalPosition": 16,
+      "categoryPosition": 4,
+      "number": 137,
+      "result": "00:21:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5469"
+      }
+    },
+    {
+      "runner": "Hugh Brown",
+      "gender": "M",
+      "cat": "M50",
+      "position": 21,
+      "generalPosition": 17,
+      "categoryPosition": 3,
+      "number": 683,
+      "result": "00:21:56",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad546a"
+      }
+    },
+    {
+      "runner": "Jamie Wieland",
+      "gender": "M",
+      "cat": "MS",
+      "position": 22,
+      "generalPosition": 18,
+      "categoryPosition": 10,
+      "number": 571,
+      "result": "00:21:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad546b"
+      }
+    },
+    {
+      "runner": "Janis Mcarthur",
+      "gender": "F",
+      "cat": "FS",
+      "position": 23,
+      "generalPosition": 5,
+      "categoryPosition": 3,
+      "number": 625,
+      "result": "00:22:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad546c"
+      }
+    },
+    {
+      "runner": "Edward Guccione",
+      "gender": "M",
+      "cat": "M40",
+      "position": 24,
+      "generalPosition": 19,
+      "categoryPosition": 5,
+      "number": 579,
+      "result": "00:22:13",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad546d"
+      }
+    },
+    {
+      "runner": "Craig Brown",
+      "gender": "M",
+      "cat": "M50",
+      "position": 25,
+      "generalPosition": 20,
+      "categoryPosition": 4,
+      "number": 555,
+      "result": "00:22:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad546e"
+      }
+    },
+    {
+      "runner": "Jonathan Henderson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 26,
+      "generalPosition": 21,
+      "categoryPosition": 6,
+      "number": 556,
+      "result": "00:22:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad546f"
+      }
+    },
+    {
+      "runner": "Elaine Somerville",
+      "gender": "F",
+      "cat": "F40",
+      "position": 27,
+      "generalPosition": 6,
+      "categoryPosition": 3,
+      "number": 559,
+      "result": "00:22:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5470"
+      }
+    },
+    {
+      "runner": "Gordon McLarnon",
+      "gender": "M",
+      "cat": "MS",
+      "position": 28,
+      "generalPosition": 22,
+      "categoryPosition": 11,
+      "number": 644,
+      "result": "00:22:51",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5471"
+      }
+    },
+    {
+      "runner": "Robbie Evans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 29,
+      "generalPosition": 23,
+      "categoryPosition": 12,
+      "number": 96,
+      "result": "00:23:06",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5472"
+      }
+    },
+    {
+      "runner": "Laura Wallace",
+      "gender": "F",
+      "cat": "F40",
+      "position": 30,
+      "generalPosition": 7,
+      "categoryPosition": 4,
+      "number": 604,
+      "result": "00:23:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5473"
+      }
+    },
+    {
+      "runner": "Sharon O'Leary",
+      "gender": "F",
+      "cat": "F50",
+      "position": 31,
+      "generalPosition": 8,
+      "categoryPosition": 1,
+      "number": 680,
+      "result": "00:23:13",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5474"
+      }
+    },
+    {
+      "runner": "Sheila Murray",
+      "gender": "F",
+      "cat": "F40",
+      "position": 32,
+      "generalPosition": 9,
+      "categoryPosition": 5,
+      "number": 599,
+      "result": "00:23:16",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5475"
+      }
+    },
+    {
+      "runner": "Alistair Stenhouse",
+      "gender": "M",
+      "cat": "M50",
+      "position": 33,
+      "generalPosition": 24,
+      "categoryPosition": 5,
+      "number": 560,
+      "result": "00:23:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5476"
+      }
+    },
+    {
+      "runner": "Craig Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 34,
+      "generalPosition": 25,
+      "categoryPosition": 13,
+      "number": 626,
+      "result": "00:23:31",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5477"
+      }
+    },
+    {
+      "runner": "Julie Atkinson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 35,
+      "generalPosition": 10,
+      "categoryPosition": 6,
+      "number": 574,
+      "result": "00:23:36",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5478"
+      }
+    },
+    {
+      "runner": "Allan Mann",
+      "gender": "M",
+      "cat": "MS",
+      "position": 36,
+      "generalPosition": 26,
+      "categoryPosition": 14,
+      "number": 642,
+      "result": "00:23:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5479"
+      }
+    },
+    {
+      "runner": "Jennifer Killeen",
+      "gender": "F",
+      "cat": "FS",
+      "position": 37,
+      "generalPosition": 11,
+      "categoryPosition": 4,
+      "number": 692,
+      "result": "00:23:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad547a"
+      }
+    },
+    {
+      "runner": "Ruth Harrison",
+      "gender": "F",
+      "cat": "F40",
+      "position": 38,
+      "generalPosition": 12,
+      "categoryPosition": 7,
+      "number": 126,
+      "result": "00:23:52",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad547b"
+      }
+    },
+    {
+      "runner": "Kenneth Taylor",
+      "gender": "M",
+      "cat": "M40",
+      "position": 39,
+      "generalPosition": 27,
+      "categoryPosition": 7,
+      "number": 655,
+      "result": "00:24:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad547c"
+      }
+    },
+    {
+      "runner": "Jo McKnight",
+      "gender": "F",
+      "cat": "F40",
+      "position": 40,
+      "generalPosition": 13,
+      "categoryPosition": 8,
+      "number": 63,
+      "result": "00:24:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad547d"
+      }
+    },
+    {
+      "runner": "Joanne Walker",
+      "gender": "F",
+      "cat": "F40",
+      "position": 41,
+      "generalPosition": 14,
+      "categoryPosition": 9,
+      "number": 573,
+      "result": "00:24:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad547e"
+      }
+    },
+    {
+      "runner": "Steven Gilligan",
+      "gender": "M",
+      "cat": "M40",
+      "position": 42,
+      "generalPosition": 28,
+      "categoryPosition": 8,
+      "number": 591,
+      "result": "00:24:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad547f"
+      }
+    },
+    {
+      "runner": "Gordan Gallagher",
+      "gender": "M",
+      "cat": "M50",
+      "position": 43,
+      "generalPosition": 29,
+      "categoryPosition": 6,
+      "number": 678,
+      "result": "00:24:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5480"
+      }
+    },
+    {
+      "runner": "Nicholas Dowley",
+      "gender": "M",
+      "cat": "M50",
+      "position": 44,
+      "generalPosition": 15,
+      "categoryPosition": 7,
+      "number": 691,
+      "result": "00:25:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5481"
+      }
+    },
+    {
+      "runner": "Gillian Gallagher",
+      "gender": "F",
+      "cat": "F40",
+      "position": 45,
+      "generalPosition": 16,
+      "categoryPosition": 10,
+      "number": 684,
+      "result": "00:25:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5482"
+      }
+    },
+    {
+      "runner": "Fiona Greaney",
+      "gender": "F",
+      "cat": "F50",
+      "position": 46,
+      "generalPosition": 17,
+      "categoryPosition": 2,
+      "number": 72,
+      "result": "00:25:22",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5483"
+      }
+    },
+    {
+      "runner": "mark Bailkoski",
+      "gender": "M",
+      "cat": "M50",
+      "position": 47,
+      "generalPosition": 30,
+      "categoryPosition": 8,
+      "number": 562,
+      "result": "00:25:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5484"
+      }
+    },
+    {
+      "runner": "Kay Guccione",
+      "gender": "F",
+      "cat": "F40",
+      "position": 48,
+      "generalPosition": 18,
+      "categoryPosition": 11,
+      "number": 578,
+      "result": "00:25:25",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5485"
+      }
+    },
+    {
+      "runner": "Robert Doherty",
+      "gender": "M",
+      "cat": "M60",
+      "position": 49,
+      "generalPosition": 31,
+      "categoryPosition": 2,
+      "number": 663,
+      "result": "00:25:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5486"
+      }
+    },
+    {
+      "runner": "Isobel McFarlane",
+      "gender": "F",
+      "cat": "F50",
+      "position": 50,
+      "generalPosition": 19,
+      "categoryPosition": 3,
+      "number": 619,
+      "result": "00:25:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5487"
+      }
+    },
+    {
+      "runner": "Stuart Macdonald",
+      "gender": "M",
+      "cat": "M50",
+      "position": 51,
+      "generalPosition": 32,
+      "categoryPosition": 9,
+      "number": 636,
+      "result": "00:25:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5488"
+      }
+    },
+    {
+      "runner": "CÃ©dric Moreau",
+      "gender": "M",
+      "cat": "M50",
+      "position": 52,
+      "generalPosition": 33,
+      "categoryPosition": 10,
+      "number": 615,
+      "result": "00:25:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5489"
+      }
+    },
+    {
+      "runner": "krystin Macmillan",
+      "gender": "F",
+      "cat": "FS",
+      "position": 53,
+      "generalPosition": 20,
+      "categoryPosition": 5,
+      "number": 688,
+      "result": "00:25:51",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad548a"
+      }
+    },
+    {
+      "runner": "Angus Robinson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 54,
+      "generalPosition": 34,
+      "categoryPosition": 11,
+      "number": 612,
+      "result": "00:25:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad548b"
+      }
+    },
+    {
+      "runner": "Stephanie Rudd",
+      "gender": "F",
+      "cat": "F50",
+      "position": 55,
+      "generalPosition": 21,
+      "categoryPosition": 4,
+      "number": 639,
+      "result": "00:26:01",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad548c"
+      }
+    },
+    {
+      "runner": "Derek Millar",
+      "gender": "M",
+      "cat": "M50",
+      "position": 56,
+      "generalPosition": 35,
+      "categoryPosition": 12,
+      "number": 548,
+      "result": "00:26:06",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad548d"
+      }
+    },
+    {
+      "runner": "Maureen Campbell",
+      "gender": "F",
+      "cat": "F50",
+      "position": 57,
+      "generalPosition": 22,
+      "categoryPosition": 5,
+      "number": 632,
+      "result": "00:26:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad548e"
+      }
+    },
+    {
+      "runner": "Michael Devlin",
+      "gender": "M",
+      "cat": "M60",
+      "position": 58,
+      "generalPosition": 36,
+      "categoryPosition": 3,
+      "number": 128,
+      "result": "00:26:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad548f"
+      }
+    },
+    {
+      "runner": "Arthur O'Brien",
+      "gender": "M",
+      "cat": "M50",
+      "position": 59,
+      "generalPosition": 37,
+      "categoryPosition": 13,
+      "number": 575,
+      "result": "00:26:11",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5490"
+      }
+    },
+    {
+      "runner": "Michael McNamara",
+      "gender": "M",
+      "cat": "M50",
+      "position": 60,
+      "generalPosition": 38,
+      "categoryPosition": 14,
+      "number": 638,
+      "result": "00:26:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5491"
+      }
+    },
+    {
+      "runner": "Paul Fletcher",
+      "gender": "M",
+      "cat": "M50",
+      "position": 61,
+      "generalPosition": 39,
+      "categoryPosition": 15,
+      "number": 659,
+      "result": "00:26:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5492"
+      }
+    },
+    {
+      "runner": "Rob Huggett",
+      "gender": "M",
+      "cat": "MS",
+      "position": 62,
+      "generalPosition": 40,
+      "categoryPosition": 15,
+      "number": 648,
+      "result": "00:26:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5493"
+      }
+    },
+    {
+      "runner": "Lyndsay Kerrigan",
+      "gender": "F",
+      "cat": "FS",
+      "position": 63,
+      "generalPosition": 23,
+      "categoryPosition": 6,
+      "number": 634,
+      "result": "00:26:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5494"
+      }
+    },
+    {
+      "runner": "Kristin Sauer",
+      "gender": "F",
+      "cat": "F40",
+      "position": 64,
+      "generalPosition": 24,
+      "categoryPosition": 12,
+      "number": 610,
+      "result": "00:26:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5495"
+      }
+    },
+    {
+      "runner": "Alice Thompson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 65,
+      "generalPosition": 25,
+      "categoryPosition": 13,
+      "number": 672,
+      "result": "00:26:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5496"
+      }
+    },
+    {
+      "runner": "Graeme Gilkes",
+      "gender": "M",
+      "cat": "M50",
+      "position": 66,
+      "generalPosition": 41,
+      "categoryPosition": 16,
+      "number": 633,
+      "result": "00:27:14",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5497"
+      }
+    },
+    {
+      "runner": "Catherine Lynn Macnaughton",
+      "gender": "F",
+      "cat": "F40",
+      "position": 67,
+      "generalPosition": 26,
+      "categoryPosition": 14,
+      "number": 637,
+      "result": "00:27:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5498"
+      }
+    },
+    {
+      "runner": "Lindsey Shields Waters",
+      "gender": "F",
+      "cat": "F50",
+      "position": 68,
+      "generalPosition": 27,
+      "categoryPosition": 6,
+      "number": 690,
+      "result": "00:27:22",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5499"
+      }
+    },
+    {
+      "runner": "Ceri Ferguson",
+      "gender": "F",
+      "cat": "FS",
+      "position": 69,
+      "generalPosition": 28,
+      "categoryPosition": 7,
+      "number": 59,
+      "result": "00:27:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad549a"
+      }
+    },
+    {
+      "runner": "Andy Taylor",
+      "gender": "M",
+      "cat": "M60",
+      "position": 70,
+      "generalPosition": 42,
+      "categoryPosition": 4,
+      "number": 669,
+      "result": "00:27:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad549b"
+      }
+    },
+    {
+      "runner": "John Sandbach",
+      "gender": "M",
+      "cat": "M50",
+      "position": 71,
+      "generalPosition": 43,
+      "categoryPosition": 17,
+      "number": 676,
+      "result": "00:27:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad549c"
+      }
+    },
+    {
+      "runner": "Aileen Coulter",
+      "gender": "F",
+      "cat": "F50",
+      "position": 72,
+      "generalPosition": 29,
+      "categoryPosition": 7,
+      "number": 677,
+      "result": "00:27:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad549d"
+      }
+    },
+    {
+      "runner": "Nathalie Smith",
+      "gender": "F",
+      "cat": "F40",
+      "position": 73,
+      "generalPosition": 30,
+      "categoryPosition": 15,
+      "number": 582,
+      "result": "00:27:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad549e"
+      }
+    },
+    {
+      "runner": "Steven Smith",
+      "gender": "M",
+      "cat": "M50",
+      "position": 74,
+      "generalPosition": 44,
+      "categoryPosition": 18,
+      "number": 583,
+      "result": "00:27:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad549f"
+      }
+    },
+    {
+      "runner": "Kirstin Campbell",
+      "gender": "F",
+      "cat": "FS",
+      "position": 75,
+      "generalPosition": 31,
+      "categoryPosition": 8,
+      "number": 590,
+      "result": "00:27:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a0"
+      }
+    },
+    {
+      "runner": "Anna Conlon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 76,
+      "generalPosition": 32,
+      "categoryPosition": 9,
+      "number": 685,
+      "result": "00:27:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a1"
+      }
+    },
+    {
+      "runner": "Fiona Roberts",
+      "gender": "F",
+      "cat": "F50",
+      "position": 77,
+      "generalPosition": 33,
+      "categoryPosition": 8,
+      "number": 679,
+      "result": "00:28:05",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a2"
+      }
+    },
+    {
+      "runner": "Emma Bowden",
+      "gender": "F",
+      "cat": "FS",
+      "position": 78,
+      "generalPosition": 34,
+      "categoryPosition": 10,
+      "number": 613,
+      "result": "00:28:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a3"
+      }
+    },
+    {
+      "runner": "Kirsty Davidson",
+      "gender": "F",
+      "cat": "FS",
+      "position": 79,
+      "generalPosition": 35,
+      "categoryPosition": 11,
+      "number": 609,
+      "result": "00:28:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a4"
+      }
+    },
+    {
+      "runner": "Melissa Williams",
+      "gender": "F",
+      "cat": "FS",
+      "position": 80,
+      "generalPosition": 36,
+      "categoryPosition": 12,
+      "number": 645,
+      "result": "00:28:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a5"
+      }
+    },
+    {
+      "runner": "Wendy Morcos",
+      "gender": "F",
+      "cat": "F60",
+      "position": 81,
+      "generalPosition": 37,
+      "categoryPosition": 1,
+      "number": 564,
+      "result": "00:28:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a6"
+      }
+    },
+    {
+      "runner": "Sarah Renouf",
+      "gender": "F",
+      "cat": "FS",
+      "position": 82,
+      "generalPosition": 38,
+      "categoryPosition": 13,
+      "number": 647,
+      "result": "00:29:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a7"
+      }
+    },
+    {
+      "runner": "Lynn Reid",
+      "gender": "F",
+      "cat": "F50",
+      "position": 83,
+      "generalPosition": 39,
+      "categoryPosition": 9,
+      "number": 568,
+      "result": "00:29:03",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a8"
+      }
+    },
+    {
+      "runner": "Deirdre Parkinson",
+      "gender": "F",
+      "cat": "F60",
+      "position": 84,
+      "generalPosition": 40,
+      "categoryPosition": 2,
+      "number": 566,
+      "result": "00:29:05",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54a9"
+      }
+    },
+    {
+      "runner": "Kelly Ludwig",
+      "gender": "F",
+      "cat": "F40",
+      "position": 85,
+      "generalPosition": 41,
+      "categoryPosition": 16,
+      "number": 675,
+      "result": "00:29:05",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54aa"
+      }
+    },
+    {
+      "runner": "Lesley McKerral",
+      "gender": "F",
+      "cat": "F50",
+      "position": 86,
+      "generalPosition": 42,
+      "categoryPosition": 10,
+      "number": 557,
+      "result": "00:29:06",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ab"
+      }
+    },
+    {
+      "runner": "David Gemmell",
+      "gender": "M",
+      "cat": "M40",
+      "position": 87,
+      "generalPosition": 45,
+      "categoryPosition": 9,
+      "number": 576,
+      "result": "00:29:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ac"
+      }
+    },
+    {
+      "runner": "Gillian Irvine",
+      "gender": "F",
+      "cat": "F50",
+      "position": 88,
+      "generalPosition": 43,
+      "categoryPosition": 11,
+      "number": 646,
+      "result": "00:29:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ad"
+      }
+    },
+    {
+      "runner": "Alan Duff",
+      "gender": "M",
+      "cat": "M60",
+      "position": 89,
+      "generalPosition": 46,
+      "categoryPosition": 5,
+      "number": 558,
+      "result": "00:29:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ae"
+      }
+    },
+    {
+      "runner": "Peter Meehan",
+      "gender": "M",
+      "cat": "MS",
+      "position": 90,
+      "generalPosition": 47,
+      "categoryPosition": 16,
+      "number": 572,
+      "result": "00:29:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54af"
+      }
+    },
+    {
+      "runner": "Andrew Howie",
+      "gender": "M",
+      "cat": "M40",
+      "position": 91,
+      "generalPosition": 48,
+      "categoryPosition": 10,
+      "number": 596,
+      "result": "00:29:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b0"
+      }
+    },
+    {
+      "runner": "Alison Brown",
+      "gender": "F",
+      "cat": "F50",
+      "position": 92,
+      "generalPosition": 44,
+      "categoryPosition": 12,
+      "number": 79,
+      "result": "00:29:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b1"
+      }
+    },
+    {
+      "runner": "Carole Spy",
+      "gender": "F",
+      "cat": "F50",
+      "position": 93,
+      "generalPosition": 45,
+      "categoryPosition": 13,
+      "number": 58,
+      "result": "00:29:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b2"
+      }
+    },
+    {
+      "runner": "Penny Bond",
+      "gender": "F",
+      "cat": "F50",
+      "position": 94,
+      "generalPosition": 46,
+      "categoryPosition": 14,
+      "number": 580,
+      "result": "00:29:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b3"
+      }
+    },
+    {
+      "runner": "Pamela Clark",
+      "gender": "F",
+      "cat": "F60",
+      "position": 95,
+      "generalPosition": 47,
+      "categoryPosition": 3,
+      "number": 622,
+      "result": "00:30:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b4"
+      }
+    },
+    {
+      "runner": "Raymond Loughran",
+      "gender": "M",
+      "cat": "M60",
+      "position": 96,
+      "generalPosition": 49,
+      "categoryPosition": 6,
+      "number": 658,
+      "result": "00:31:12",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b5"
+      }
+    },
+    {
+      "runner": "Claire Purdie",
+      "gender": "F",
+      "cat": "F50",
+      "position": 97,
+      "generalPosition": 48,
+      "categoryPosition": 15,
+      "number": 563,
+      "result": "00:31:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b6"
+      }
+    },
+    {
+      "runner": "Nicola Barrington",
+      "gender": "F",
+      "cat": "FS",
+      "position": 98,
+      "generalPosition": 49,
+      "categoryPosition": 14,
+      "number": 628,
+      "result": "00:31:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b7"
+      }
+    },
+    {
+      "runner": "Emma main",
+      "gender": "F",
+      "cat": "F40",
+      "position": 99,
+      "generalPosition": 50,
+      "categoryPosition": 17,
+      "number": 618,
+      "result": "00:31:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b8"
+      }
+    },
+    {
+      "runner": "John Macdonald",
+      "gender": "M",
+      "cat": "M40",
+      "position": 100,
+      "generalPosition": 50,
+      "categoryPosition": 11,
+      "number": 80,
+      "result": "00:32:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54b9"
+      }
+    },
+    {
+      "runner": "Annette McKirdy",
+      "gender": "F",
+      "cat": "F60",
+      "position": 101,
+      "generalPosition": 51,
+      "categoryPosition": 4,
+      "number": 667,
+      "result": "00:32:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ba"
+      }
+    },
+    {
+      "runner": "Victoria Tinney",
+      "gender": "F",
+      "cat": "FS",
+      "position": 102,
+      "generalPosition": 52,
+      "categoryPosition": 15,
+      "number": 606,
+      "result": "00:33:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54bb"
+      }
+    },
+    {
+      "runner": "Bridget Cox",
+      "gender": "F",
+      "cat": "F50",
+      "position": 103,
+      "generalPosition": 53,
+      "categoryPosition": 16,
+      "number": 665,
+      "result": "00:33:58",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54bc"
+      }
+    },
+    {
+      "runner": "Charles Gorrie",
+      "gender": "M",
+      "cat": "M70",
+      "position": 104,
+      "generalPosition": 51,
+      "categoryPosition": 1,
+      "number": 131,
+      "result": "00:34:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54bd"
+      }
+    },
+    {
+      "runner": "Shona McCormack",
+      "gender": "F",
+      "cat": "F50",
+      "position": 105,
+      "generalPosition": 54,
+      "categoryPosition": 17,
+      "number": 550,
+      "result": "00:34:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54be"
+      }
+    },
+    {
+      "runner": "Catherine Mullaney",
+      "gender": "F",
+      "cat": "F60",
+      "position": 106,
+      "generalPosition": 55,
+      "categoryPosition": 5,
+      "number": 666,
+      "result": "00:34:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54bf"
+      }
+    },
+    {
+      "runner": "Amy Gray",
+      "gender": "F",
+      "cat": "FS",
+      "position": 107,
+      "generalPosition": 56,
+      "categoryPosition": 16,
+      "number": 602,
+      "result": "00:34:59",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54c0"
+      }
+    },
+    {
+      "runner": "Colin Gray",
+      "gender": "M",
+      "cat": "M50",
+      "position": 108,
+      "generalPosition": 52,
+      "categoryPosition": 19,
+      "number": 603,
+      "result": "00:35:00",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54c1"
+      }
+    },
+    {
+      "runner": "Kathleen McGee",
+      "gender": "F",
+      "cat": "F40",
+      "position": 109,
+      "generalPosition": 57,
+      "categoryPosition": 18,
+      "number": 589,
+      "result": "00:36:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54c2"
+      }
+    },
+    {
+      "runner": "Richard Cooper",
+      "gender": "M",
+      "cat": "M50",
+      "position": 110,
+      "generalPosition": 53,
+      "categoryPosition": 20,
+      "number": 586,
+      "result": "00:36:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54c3"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4cf8da4ac6a7f83ad54c5"
+  },
+  "name": "Qx5.xlsx",
+  "results": [
+    {
+      "runner": "David Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 1,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 624,
+      "result": "00:20:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54c6"
+      }
+    },
+    {
+      "runner": "Callum Wallace",
+      "gender": "M",
+      "cat": "MS",
+      "position": 2,
+      "generalPosition": 2,
+      "categoryPosition": 2,
+      "number": 577,
+      "result": "00:20:35",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54c7"
+      }
+    },
+    {
+      "runner": "Lukasz Pudlo",
+      "gender": "M",
+      "cat": "MS",
+      "position": 3,
+      "generalPosition": 3,
+      "categoryPosition": 3,
+      "number": 567,
+      "result": "00:20:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54c8"
+      }
+    },
+    {
+      "runner": "Ryan Macready",
+      "gender": "M",
+      "cat": "MS",
+      "position": 4,
+      "generalPosition": 4,
+      "categoryPosition": 4,
+      "number": 674,
+      "result": "00:21:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54c9"
+      }
+    },
+    {
+      "runner": "Eddie Neilson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 5,
+      "generalPosition": 5,
+      "categoryPosition": 1,
+      "number": 585,
+      "result": "00:21:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ca"
+      }
+    },
+    {
+      "runner": "David Shaw",
+      "gender": "M",
+      "cat": "MS",
+      "position": 6,
+      "generalPosition": 6,
+      "categoryPosition": 5,
+      "number": 94,
+      "result": "00:21:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54cb"
+      }
+    },
+    {
+      "runner": "Stephen Lyons",
+      "gender": "M",
+      "cat": "MS",
+      "position": 7,
+      "generalPosition": 7,
+      "categoryPosition": 6,
+      "number": 657,
+      "result": "00:22:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54cc"
+      }
+    },
+    {
+      "runner": "Mark McCormack",
+      "gender": "M",
+      "cat": "MS",
+      "position": 8,
+      "generalPosition": 8,
+      "categoryPosition": 7,
+      "number": 584,
+      "result": "00:22:53",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54cd"
+      }
+    },
+    {
+      "runner": "Hannah Bayes",
+      "gender": "F",
+      "cat": "F40",
+      "position": 9,
+      "generalPosition": 1,
+      "categoryPosition": 1,
+      "number": 611,
+      "result": "00:23:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ce"
+      }
+    },
+    {
+      "runner": "Laura Lennon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 10,
+      "generalPosition": 2,
+      "categoryPosition": 1,
+      "number": 656,
+      "result": "00:24:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54cf"
+      }
+    },
+    {
+      "runner": "Richard Stark",
+      "gender": "M",
+      "cat": "M60",
+      "position": 11,
+      "generalPosition": 9,
+      "categoryPosition": 1,
+      "number": 661,
+      "result": "00:24:22",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d0"
+      }
+    },
+    {
+      "runner": "Jamie Wieland",
+      "gender": "M",
+      "cat": "MS",
+      "position": 12,
+      "generalPosition": 10,
+      "categoryPosition": 8,
+      "number": 571,
+      "result": "00:24:53",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d1"
+      }
+    },
+    {
+      "runner": "Ruth Craddock",
+      "gender": "F",
+      "cat": "F40",
+      "position": 13,
+      "generalPosition": 3,
+      "categoryPosition": 2,
+      "number": 97,
+      "result": "00:25:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d2"
+      }
+    },
+    {
+      "runner": "Janis Mcarthur",
+      "gender": "F",
+      "cat": "FS",
+      "position": 14,
+      "generalPosition": 4,
+      "categoryPosition": 2,
+      "number": 625,
+      "result": "00:25:17",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d3"
+      }
+    },
+    {
+      "runner": "Allan Mann",
+      "gender": "M",
+      "cat": "MS",
+      "position": 15,
+      "generalPosition": 11,
+      "categoryPosition": 9,
+      "number": 642,
+      "result": "00:25:21",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d4"
+      }
+    },
+    {
+      "runner": "Elaine Somerville",
+      "gender": "F",
+      "cat": "F40",
+      "position": 16,
+      "generalPosition": 5,
+      "categoryPosition": 3,
+      "number": 559,
+      "result": "00:25:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d5"
+      }
+    },
+    {
+      "runner": "Jonathan Henderson",
+      "gender": "M",
+      "cat": "M40",
+      "position": 17,
+      "generalPosition": 12,
+      "categoryPosition": 2,
+      "number": 556,
+      "result": "00:25:29",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d6"
+      }
+    },
+    {
+      "runner": "Julie Atkinson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 18,
+      "generalPosition": 6,
+      "categoryPosition": 4,
+      "number": 574,
+      "result": "00:25:30",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d7"
+      }
+    },
+    {
+      "runner": "Aaron McCrone",
+      "gender": "M",
+      "cat": "MS",
+      "position": 19,
+      "generalPosition": 13,
+      "categoryPosition": 10,
+      "number": 641,
+      "result": "00:25:31",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d8"
+      }
+    },
+    {
+      "runner": "Kenneth Taylor",
+      "gender": "M",
+      "cat": "M40",
+      "position": 20,
+      "generalPosition": 14,
+      "categoryPosition": 3,
+      "number": 655,
+      "result": "00:25:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54d9"
+      }
+    },
+    {
+      "runner": "Laura Wallace",
+      "gender": "F",
+      "cat": "F40",
+      "position": 21,
+      "generalPosition": 7,
+      "categoryPosition": 5,
+      "number": 604,
+      "result": "00:25:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54da"
+      }
+    },
+    {
+      "runner": "James Chesnet",
+      "gender": "M",
+      "cat": "M50",
+      "position": 22,
+      "generalPosition": 15,
+      "categoryPosition": 1,
+      "number": 601,
+      "result": "00:25:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54db"
+      }
+    },
+    {
+      "runner": "Gordon McLarnon",
+      "gender": "M",
+      "cat": "MS",
+      "position": 23,
+      "generalPosition": 16,
+      "categoryPosition": 11,
+      "number": 644,
+      "result": "00:25:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54dc"
+      }
+    },
+    {
+      "runner": "Edward Guccione",
+      "gender": "M",
+      "cat": "M40",
+      "position": 24,
+      "generalPosition": 17,
+      "categoryPosition": 4,
+      "number": 579,
+      "result": "00:25:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54dd"
+      }
+    },
+    {
+      "runner": "Alistair Stenhouse",
+      "gender": "M",
+      "cat": "M50",
+      "position": 25,
+      "generalPosition": 18,
+      "categoryPosition": 2,
+      "number": 560,
+      "result": "00:26:02",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54de"
+      }
+    },
+    {
+      "runner": "Sheila Murray",
+      "gender": "F",
+      "cat": "F40",
+      "position": 26,
+      "generalPosition": 8,
+      "categoryPosition": 6,
+      "number": 599,
+      "result": "00:26:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54df"
+      }
+    },
+    {
+      "runner": "Sharon O'Leary",
+      "gender": "F",
+      "cat": "F50",
+      "position": 27,
+      "generalPosition": 9,
+      "categoryPosition": 1,
+      "number": 680,
+      "result": "00:26:07",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e0"
+      }
+    },
+    {
+      "runner": "Craig Hepburn",
+      "gender": "M",
+      "cat": "MS",
+      "position": 28,
+      "generalPosition": 19,
+      "categoryPosition": 12,
+      "number": 626,
+      "result": "00:26:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e1"
+      }
+    },
+    {
+      "runner": "Robbie Evans",
+      "gender": "M",
+      "cat": "MS",
+      "position": 29,
+      "generalPosition": 20,
+      "categoryPosition": 13,
+      "number": 96,
+      "result": "00:26:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e2"
+      }
+    },
+    {
+      "runner": "Ruth Harrison",
+      "gender": "F",
+      "cat": "F40",
+      "position": 30,
+      "generalPosition": 10,
+      "categoryPosition": 7,
+      "number": 126,
+      "result": "00:27:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e3"
+      }
+    },
+    {
+      "runner": "Annibale Coia",
+      "gender": "M",
+      "cat": "M60",
+      "position": 31,
+      "generalPosition": 21,
+      "categoryPosition": 2,
+      "number": 553,
+      "result": "00:27:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e4"
+      }
+    },
+    {
+      "runner": "James Speakman",
+      "gender": "M",
+      "cat": "M50",
+      "position": 32,
+      "generalPosition": 22,
+      "categoryPosition": 3,
+      "number": 620,
+      "result": "00:28:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e5"
+      }
+    },
+    {
+      "runner": "Jo McKnight",
+      "gender": "F",
+      "cat": "F40",
+      "position": 33,
+      "generalPosition": 11,
+      "categoryPosition": 8,
+      "number": 63,
+      "result": "00:28:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e6"
+      }
+    },
+    {
+      "runner": "Joanne Walker",
+      "gender": "F",
+      "cat": "F40",
+      "position": 34,
+      "generalPosition": 12,
+      "categoryPosition": 9,
+      "number": 573,
+      "result": "00:28:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e7"
+      }
+    },
+    {
+      "runner": "Nick McKerrell",
+      "gender": "M",
+      "cat": "M50",
+      "position": 35,
+      "generalPosition": 23,
+      "categoryPosition": 4,
+      "number": 686,
+      "result": "00:28:14",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e8"
+      }
+    },
+    {
+      "runner": "CÃ©dric Moreau",
+      "gender": "M",
+      "cat": "M50",
+      "position": 36,
+      "generalPosition": 24,
+      "categoryPosition": 5,
+      "number": 615,
+      "result": "00:28:19",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54e9"
+      }
+    },
+    {
+      "runner": "Steven Gilligan",
+      "gender": "M",
+      "cat": "M40",
+      "position": 37,
+      "generalPosition": 25,
+      "categoryPosition": 5,
+      "number": 591,
+      "result": "00:28:23",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ea"
+      }
+    },
+    {
+      "runner": "Nicholas Dowley",
+      "gender": "M",
+      "cat": "M50",
+      "position": 38,
+      "generalPosition": 13,
+      "categoryPosition": 6,
+      "number": 691,
+      "result": "00:28:37",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54eb"
+      }
+    },
+    {
+      "runner": "Gordan Gallagher",
+      "gender": "M",
+      "cat": "M50",
+      "position": 39,
+      "generalPosition": 26,
+      "categoryPosition": 7,
+      "number": 678,
+      "result": "00:28:41",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ec"
+      }
+    },
+    {
+      "runner": "mark Bailkoski",
+      "gender": "M",
+      "cat": "M50",
+      "position": 40,
+      "generalPosition": 27,
+      "categoryPosition": 8,
+      "number": 562,
+      "result": "00:28:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ed"
+      }
+    },
+    {
+      "runner": "Angus Robinson",
+      "gender": "M",
+      "cat": "M50",
+      "position": 41,
+      "generalPosition": 28,
+      "categoryPosition": 9,
+      "number": 612,
+      "result": "00:28:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ee"
+      }
+    },
+    {
+      "runner": "Isobel McFarlane",
+      "gender": "F",
+      "cat": "F50",
+      "position": 42,
+      "generalPosition": 14,
+      "categoryPosition": 2,
+      "number": 619,
+      "result": "00:29:01",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ef"
+      }
+    },
+    {
+      "runner": "Kay Guccione",
+      "gender": "F",
+      "cat": "F40",
+      "position": 43,
+      "generalPosition": 15,
+      "categoryPosition": 10,
+      "number": 578,
+      "result": "00:29:14",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f0"
+      }
+    },
+    {
+      "runner": "Fiona Greaney",
+      "gender": "F",
+      "cat": "F50",
+      "position": 44,
+      "generalPosition": 16,
+      "categoryPosition": 3,
+      "number": 72,
+      "result": "00:29:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f1"
+      }
+    },
+    {
+      "runner": "Lindsey Shields Waters",
+      "gender": "F",
+      "cat": "F50",
+      "position": 45,
+      "generalPosition": 17,
+      "categoryPosition": 4,
+      "number": 690,
+      "result": "00:29:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f2"
+      }
+    },
+    {
+      "runner": "Arthur O'Brien",
+      "gender": "M",
+      "cat": "M50",
+      "position": 46,
+      "generalPosition": 29,
+      "categoryPosition": 10,
+      "number": 575,
+      "result": "00:30:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f3"
+      }
+    },
+    {
+      "runner": "Robert Doherty",
+      "gender": "M",
+      "cat": "M60",
+      "position": 47,
+      "generalPosition": 30,
+      "categoryPosition": 3,
+      "number": 663,
+      "result": "00:30:17",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f4"
+      }
+    },
+    {
+      "runner": "Alice Thompson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 48,
+      "generalPosition": 18,
+      "categoryPosition": 11,
+      "number": 672,
+      "result": "00:30:18",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f5"
+      }
+    },
+    {
+      "runner": "Kristin Sauer",
+      "gender": "F",
+      "cat": "F40",
+      "position": 49,
+      "generalPosition": 19,
+      "categoryPosition": 12,
+      "number": 610,
+      "result": "00:30:25",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f6"
+      }
+    },
+    {
+      "runner": "Maureen Campbell",
+      "gender": "F",
+      "cat": "F50",
+      "position": 51,
+      "generalPosition": 21,
+      "categoryPosition": 5,
+      "number": 632,
+      "result": "00:30:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f7"
+      }
+    },
+    {
+      "runner": "Katy Tallon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 50,
+      "generalPosition": 20,
+      "categoryPosition": 3,
+      "number": 237,
+      "result": "00:30:28",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f8"
+      }
+    },
+    {
+      "runner": "Michael Devlin",
+      "gender": "M",
+      "cat": "M60",
+      "position": 52,
+      "generalPosition": 31,
+      "categoryPosition": 4,
+      "number": 128,
+      "result": "00:30:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54f9"
+      }
+    },
+    {
+      "runner": "Derek Millar",
+      "gender": "M",
+      "cat": "M50",
+      "position": 53,
+      "generalPosition": 32,
+      "categoryPosition": 11,
+      "number": 548,
+      "result": "00:30:38",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54fa"
+      }
+    },
+    {
+      "runner": "Paul Fletcher",
+      "gender": "M",
+      "cat": "M50",
+      "position": 54,
+      "generalPosition": 33,
+      "categoryPosition": 12,
+      "number": 659,
+      "result": "00:30:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54fb"
+      }
+    },
+    {
+      "runner": "Aileen Coulter",
+      "gender": "F",
+      "cat": "F50",
+      "position": 56,
+      "generalPosition": 22,
+      "categoryPosition": 6,
+      "number": 677,
+      "result": "00:31:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54fc"
+      }
+    },
+    {
+      "runner": "John Sandbach",
+      "gender": "M",
+      "cat": "M50",
+      "position": 55,
+      "generalPosition": 34,
+      "categoryPosition": 13,
+      "number": 676,
+      "result": "00:31:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54fd"
+      }
+    },
+    {
+      "runner": "Catherine Macnaughton",
+      "gender": "F",
+      "cat": "F40",
+      "position": 57,
+      "generalPosition": 23,
+      "categoryPosition": 13,
+      "number": 637,
+      "result": "00:31:57",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54fe"
+      }
+    },
+    {
+      "runner": "Lucy Addison",
+      "gender": "F",
+      "cat": "F50",
+      "position": 58,
+      "generalPosition": 24,
+      "categoryPosition": 7,
+      "number": 614,
+      "result": "00:32:06",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad54ff"
+      }
+    },
+    {
+      "runner": "Lesley McKerral",
+      "gender": "F",
+      "cat": "F50",
+      "position": 59,
+      "generalPosition": 25,
+      "categoryPosition": 8,
+      "number": 557,
+      "result": "00:32:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5500"
+      }
+    },
+    {
+      "runner": "Kirstin Campbell",
+      "gender": "F",
+      "cat": "FS",
+      "position": 60,
+      "generalPosition": 26,
+      "categoryPosition": 4,
+      "number": 590,
+      "result": "00:32:17",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5501"
+      }
+    },
+    {
+      "runner": "Kelly Ludwig",
+      "gender": "F",
+      "cat": "F40",
+      "position": 61,
+      "generalPosition": 27,
+      "categoryPosition": 14,
+      "number": 675,
+      "result": "00:32:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5502"
+      }
+    },
+    {
+      "runner": "Gillian Irvine",
+      "gender": "F",
+      "cat": "F50",
+      "position": 62,
+      "generalPosition": 28,
+      "categoryPosition": 9,
+      "number": 646,
+      "result": "00:32:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5503"
+      }
+    },
+    {
+      "runner": "Melissa Williams",
+      "gender": "F",
+      "cat": "FS",
+      "position": 63,
+      "generalPosition": 29,
+      "categoryPosition": 5,
+      "number": 645,
+      "result": "00:32:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5504"
+      }
+    },
+    {
+      "runner": "Kirsty Davidson",
+      "gender": "F",
+      "cat": "FS",
+      "position": 64,
+      "generalPosition": 30,
+      "categoryPosition": 6,
+      "number": 609,
+      "result": "00:32:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5505"
+      }
+    },
+    {
+      "runner": "Nathalie Smith",
+      "gender": "F",
+      "cat": "F40",
+      "position": 65,
+      "generalPosition": 31,
+      "categoryPosition": 15,
+      "number": 582,
+      "result": "00:32:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5506"
+      }
+    },
+    {
+      "runner": "Andy Taylor",
+      "gender": "M",
+      "cat": "M60",
+      "position": 66,
+      "generalPosition": 35,
+      "categoryPosition": 5,
+      "number": 669,
+      "result": "00:32:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5507"
+      }
+    },
+    {
+      "runner": "Peter Meehan",
+      "gender": "M",
+      "cat": "MS",
+      "position": 67,
+      "generalPosition": 36,
+      "categoryPosition": 14,
+      "number": 572,
+      "result": "00:32:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5508"
+      }
+    },
+    {
+      "runner": "Ole Pahl",
+      "gender": "M",
+      "cat": "M50",
+      "position": 68,
+      "generalPosition": 37,
+      "categoryPosition": 14,
+      "number": 600,
+      "result": "00:33:04",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5509"
+      }
+    },
+    {
+      "runner": "Vicki Fraser-hopewell",
+      "gender": "F",
+      "cat": "F40",
+      "position": 69,
+      "generalPosition": 32,
+      "categoryPosition": 16,
+      "number": 302,
+      "result": "00:33:09",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad550a"
+      }
+    },
+    {
+      "runner": "Lynn Reid",
+      "gender": "F",
+      "cat": "F50",
+      "position": 70,
+      "generalPosition": 33,
+      "categoryPosition": 10,
+      "number": 568,
+      "result": "00:33:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad550b"
+      }
+    },
+    {
+      "runner": "Anna Conlon",
+      "gender": "F",
+      "cat": "FS",
+      "position": 71,
+      "generalPosition": 34,
+      "categoryPosition": 7,
+      "number": 685,
+      "result": "00:33:10",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad550c"
+      }
+    },
+    {
+      "runner": "Graeme Gilkes",
+      "gender": "M",
+      "cat": "M50",
+      "position": 72,
+      "generalPosition": 38,
+      "categoryPosition": 15,
+      "number": 633,
+      "result": "00:33:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad550d"
+      }
+    },
+    {
+      "runner": "David Gemmell",
+      "gender": "M",
+      "cat": "M40",
+      "position": 73,
+      "generalPosition": 39,
+      "categoryPosition": 6,
+      "number": 576,
+      "result": "00:33:26",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad550e"
+      }
+    },
+    {
+      "runner": "Sarah Renouf",
+      "gender": "F",
+      "cat": "FS",
+      "position": 74,
+      "generalPosition": 35,
+      "categoryPosition": 8,
+      "number": 647,
+      "result": "00:33:27",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad550f"
+      }
+    },
+    {
+      "runner": "Jennifer Coelho",
+      "gender": "F",
+      "cat": "F50",
+      "position": 75,
+      "generalPosition": 36,
+      "categoryPosition": 11,
+      "number": 312,
+      "result": "00:33:33",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5510"
+      }
+    },
+    {
+      "runner": "Alan Duff",
+      "gender": "M",
+      "cat": "M60",
+      "position": 76,
+      "generalPosition": 40,
+      "categoryPosition": 6,
+      "number": 558,
+      "result": "00:33:40",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5511"
+      }
+    },
+    {
+      "runner": "Emma Bowden",
+      "gender": "F",
+      "cat": "FS",
+      "position": 77,
+      "generalPosition": 37,
+      "categoryPosition": 9,
+      "number": 613,
+      "result": "00:33:43",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5512"
+      }
+    },
+    {
+      "runner": "Gill Sisson",
+      "gender": "F",
+      "cat": "F40",
+      "position": 78,
+      "generalPosition": 38,
+      "categoryPosition": 17,
+      "number": 321,
+      "result": "00:33:44",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5513"
+      }
+    },
+    {
+      "runner": "Deirdre Parkinson",
+      "gender": "F",
+      "cat": "F60",
+      "position": 79,
+      "generalPosition": 39,
+      "categoryPosition": 1,
+      "number": 566,
+      "result": "00:33:47",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5514"
+      }
+    },
+    {
+      "runner": "Stuart Reid",
+      "gender": "M",
+      "cat": "M40",
+      "position": 80,
+      "generalPosition": 41,
+      "categoryPosition": 7,
+      "number": 629,
+      "result": "00:33:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5515"
+      }
+    },
+    {
+      "runner": "Wendy Morcos",
+      "gender": "F",
+      "cat": "F60",
+      "position": 81,
+      "generalPosition": 40,
+      "categoryPosition": 2,
+      "number": 564,
+      "result": "00:33:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5516"
+      }
+    },
+    {
+      "runner": "Colin Gray",
+      "gender": "M",
+      "cat": "M50",
+      "position": 82,
+      "generalPosition": 42,
+      "categoryPosition": 16,
+      "number": 603,
+      "result": "00:34:24",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5517"
+      }
+    },
+    {
+      "runner": "Raymond Loughran",
+      "gender": "M",
+      "cat": "M60",
+      "position": 83,
+      "generalPosition": 43,
+      "categoryPosition": 7,
+      "number": 658,
+      "result": "00:34:42",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5518"
+      }
+    },
+    {
+      "runner": "Terry Nimmo",
+      "gender": "F",
+      "cat": "F60",
+      "position": 84,
+      "generalPosition": 41,
+      "categoryPosition": 3,
+      "number": 60,
+      "result": "00:34:45",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5519"
+      }
+    },
+    {
+      "runner": "Fiona McDonald",
+      "gender": "F",
+      "cat": "F50",
+      "position": 85,
+      "generalPosition": 42,
+      "categoryPosition": 12,
+      "number": 311,
+      "result": "00:35:08",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad551a"
+      }
+    },
+    {
+      "runner": "Stephanie McNicol",
+      "gender": "F",
+      "cat": "FS",
+      "position": 86,
+      "generalPosition": 43,
+      "categoryPosition": 10,
+      "number": 319,
+      "result": "00:35:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad551b"
+      }
+    },
+    {
+      "runner": "Claire Purdie",
+      "gender": "F",
+      "cat": "F50",
+      "position": 87,
+      "generalPosition": 44,
+      "categoryPosition": 13,
+      "number": 563,
+      "result": "00:35:46",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad551c"
+      }
+    },
+    {
+      "runner": "Nicola Barrington",
+      "gender": "F",
+      "cat": "FS",
+      "position": 88,
+      "generalPosition": 45,
+      "categoryPosition": 11,
+      "number": 628,
+      "result": "00:37:50",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad551d"
+      }
+    },
+    {
+      "runner": "Victoria Tinney",
+      "gender": "F",
+      "cat": "FS",
+      "position": 89,
+      "generalPosition": 46,
+      "categoryPosition": 12,
+      "number": 606,
+      "result": "00:37:54",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad551e"
+      }
+    },
+    {
+      "runner": "Emma main",
+      "gender": "F",
+      "cat": "F40",
+      "position": 90,
+      "generalPosition": 47,
+      "categoryPosition": 18,
+      "number": 618,
+      "result": "00:38:20",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad551f"
+      }
+    },
+    {
+      "runner": "Catherine Mullaney",
+      "gender": "F",
+      "cat": "F60",
+      "position": 91,
+      "generalPosition": 48,
+      "categoryPosition": 4,
+      "number": 666,
+      "result": "00:38:39",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5520"
+      }
+    },
+    {
+      "runner": "Gillian Phillips",
+      "gender": "F",
+      "cat": "F50",
+      "position": 92,
+      "generalPosition": 49,
+      "categoryPosition": 14,
+      "number": 136,
+      "result": "00:38:51",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5521"
+      }
+    },
+    {
+      "runner": "Jayne Gilkes",
+      "gender": "F",
+      "cat": "F50",
+      "position": 93,
+      "generalPosition": 50,
+      "categoryPosition": 15,
+      "number": 631,
+      "result": "00:39:32",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5522"
+      }
+    },
+    {
+      "runner": "John Softley",
+      "gender": "M",
+      "cat": "M70",
+      "position": 94,
+      "generalPosition": 44,
+      "categoryPosition": 1,
+      "number": 304,
+      "result": "00:40:17",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5523"
+      }
+    },
+    {
+      "runner": "Annette McKirdy",
+      "gender": "F",
+      "cat": "F60",
+      "position": 95,
+      "generalPosition": 51,
+      "categoryPosition": 5,
+      "number": 667,
+      "result": "00:40:48",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5524"
+      }
+    },
+    {
+      "runner": "Bridget Cox",
+      "gender": "F",
+      "cat": "F50",
+      "position": 96,
+      "generalPosition": 52,
+      "categoryPosition": 16,
+      "number": 665,
+      "result": "00:40:49",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5525"
+      }
+    },
+    {
+      "runner": "Kathleen McGee",
+      "gender": "F",
+      "cat": "F40",
+      "position": 97,
+      "generalPosition": 53,
+      "categoryPosition": 19,
+      "number": 589,
+      "result": "00:41:55",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5526"
+      }
+    },
+    {
+      "runner": "Charles Gorrie",
+      "gender": "M",
+      "cat": "M70",
+      "position": 98,
+      "generalPosition": 45,
+      "categoryPosition": 2,
+      "number": 131,
+      "result": "00:43:52",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5527"
+      }
+    },
+    {
+      "runner": "Shona McCormack",
+      "gender": "F",
+      "cat": "F50",
+      "position": 99,
+      "generalPosition": 54,
+      "categoryPosition": 17,
+      "number": 550,
+      "result": "00:44:15",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5528"
+      }
+    },
+    {
+      "runner": "Richard Cooper",
+      "gender": "M",
+      "cat": "M50",
+      "position": 100,
+      "generalPosition": 46,
+      "categoryPosition": 17,
+      "number": 586,
+      "result": "00:44:16",
+      "_id": {
+        "$oid": "63e4cf8da4ac6a7f83ad5529"
+      }
+    }
+  ],
+  "__v": 0
+}]
