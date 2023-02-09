@@ -25,6 +25,9 @@ document.addEventListener("DOMContentLoaded", function() {
       else if (mainLinks[i].getAttribute("href") === `/bellahouston` && number === "5") {
         mainLinks[i].parentNode.classList.add("active");
       }
+      else if (mainLinks[i].getAttribute("href") === `/queens` && number === "6") {
+        mainLinks[i].parentNode.classList.add("active");
+      }
     } else if (mainLinks[i].getAttribute("href") === currentPage) {
       mainLinks[i].parentNode.classList.add("active");
     }
@@ -78,12 +81,12 @@ const raceLinkMap = {
 }
 
 // Make li elements clickable links
-var lis = document.querySelectorAll("li");
-lis.forEach(function(li) {
-    li.addEventListener("click", function() {
-        window.location.href = li.querySelector("a").href;
-    });
-});
+// var lis = document.querySelectorAll("li");
+// lis.forEach(function(li) {
+//     li.addEventListener("click", function() {
+//         window.location.href = li.querySelector("a").href;
+//     });
+// });
 
 if (currentPage.startsWith("/results/")) {
   smallLinks[0].setAttribute("href", raceLinkMap[currentPage]);
