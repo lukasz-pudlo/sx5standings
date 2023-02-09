@@ -191,7 +191,7 @@ footer p {
 
 
 /* Responsive styles */
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 900px) {
     th, td {
         padding: 0.4rem;
     }
