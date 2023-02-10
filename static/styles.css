@@ -226,6 +226,11 @@ footer p {
         display: block;
         font-weight: bold;
       }
+      td[headers="points"]::before {
+        content: "Points";
+        display: block;
+        font-weight: bold;
+      }
       td[headers="category"]::before {
         content: "Category";
         display: block;
