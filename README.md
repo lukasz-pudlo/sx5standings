@@ -1,4 +1,4 @@
-# sx5standings - accessible at [https://sx5results.run/](https://sx5results.run/)
+# sx5standings
 
 ## **South by Five Race Results Website**
 
